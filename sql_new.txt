@@ -1,0 +1,71 @@
+create table stackoverflow.answers
+(
+    id            int      not null
+        primary key,
+    question_id   int      null,
+    owner_id      int      null,
+    is_accepted   tinyint  null,
+    up_vote_count int      null,
+    comment_count int      null,
+    creation_date datetime null,
+    constraint answers_ibfk_1
+        foreign key (question_id) references stackoverflow.questions (id),
+    constraint answers_ibfk_2
+        foreign key (owner_id) references stackoverflow.users (id)
+);
+
+create index owner_id
+    on stackoverflow.answers (owner_id);
+
+create index question_id
+    on stackoverflow.answers (question_id);
+
+
+
+/////////////////////////////////////////////////////////////
+
+
+
+create table stackoverflow.answers
+(
+    id            int      not null
+        primary key,
+    question_id   int      null,
+    owner_id      int      null,
+    is_accepted   tinyint  null,
+    up_vote_count int      null,
+    comment_count int      null,
+    creation_date datetime null,
+    constraint answers_ibfk_1
+        foreign key (question_id) references stackoverflow.questions (id),
+    constraint answers_ibfk_2
+        foreign key (owner_id) references stackoverflow.users (id)
+);
+
+create index owner_id
+    on stackoverflow.answers (owner_id);
+
+create index question_id
+    on stackoverflow.answers (question_id);
+
+
+/////////////////////////////////////////////////////////////
+
+create table stackoverflow.users
+(
+    id           int          not null
+        primary key,
+    account_id   int          null,
+    reputation   int          null,
+    user_type    varchar(255) null,
+    accept_rate  int          null,
+    display_name varchar(255) null
+);
+
+
+
+///////////////////////////
+update answers t1 join (select question_id,max(up_vote_count) as  up from answers group by question_id)t2 on t1.question_id = t2.question_id
+set t1.highest_vote = t2.up;
+
+

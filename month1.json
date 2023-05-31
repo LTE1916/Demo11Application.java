@@ -1,0 +1,4818 @@
+{
+  "items": [
+    {
+      "owner": {
+        "account_id": 23735746,
+        "user_type": "registered",
+        "user_id": 17754455,
+        "reputation": 13,
+        "display_name": "Muhammadsaied"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 0,
+      "link": "https://stackoverflow.com/questions/76363140/getting-error-field-passengerinforepository-in-flightbookingservice-required-a",
+      "last_activity_date": 1685436643,
+      "is_answered": false,
+      "creation_date": 1685436643,
+      "answer_count": 0,
+      "title": "getting error : Field passengerInfoRepository in FlightBookingService required a bean of type &#39;.PassengerInfoRepository&#39; that could not be found",
+      "question_id": 76363140,
+      "view_count": 2,
+      "tags": [
+        "java",
+        "spring",
+        "spring-boot",
+        "hibernate"
+      ]
+    },
+    {
+      "owner": {
+        "account_id": 21230614,
+        "user_type": "registered",
+        "user_id": 15615392,
+        "reputation": 49,
+        "display_name": "treesan"
+      },
+      "answers": [
+        {
+          "owner": {
+            "account_id": 24326039,
+            "user_type": "registered",
+            "user_id": 18265570,
+            "reputation": 1833,
+            "display_name": "Roopa M"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1685436550,
+          "answer_id": 76363123,
+          "question_id": 76361699,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/76361699/google-datastore-delete-entity-does-not-immediately-update-can-access-in-next-l",
+      "last_activity_date": 1685436550,
+      "creation_date": 1685422322,
+      "answer_count": 1,
+      "title": "Google datastore delete entity does not immediately update, can access in next line with find()",
+      "question_id": 76361699,
+      "tags": [
+        "java",
+        "google-cloud-datastore"
+      ],
+      "score": 0,
+      "is_answered": false,
+      "view_count": 21,
+      "last_edit_date": 1685424354
+    },
+    {
+      "owner": {
+        "account_id": 341845,
+        "user_type": "registered",
+        "user_id": 672689,
+        "reputation": 18823,
+        "display_name": "Roee Gavirel",
+        "accept_rate": 82
+      },
+      "score": 1,
+      "answers": [
+        {
+          "owner": {
+            "account_id": 17228781,
+            "user_type": "registered",
+            "user_id": 12473843,
+            "reputation": 2764,
+            "display_name": "Sergey Tsypanov"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1685436516,
+          "answer_id": 76363115,
+          "question_id": 76363003,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/76363003/how-to-build-and-publish-single-jar-for-multiple-gradle-modules",
+      "last_activity_date": 1685436516,
+      "is_answered": false,
+      "creation_date": 1685435711,
+      "answer_count": 1,
+      "title": "How to build and publish single JAR for multiple Gradle modules",
+      "question_id": 76363003,
+      "view_count": 6,
+      "tags": [
+        "java",
+        "gradle",
+        "publish"
+      ]
+    },
+    {
+      "owner": {
+        "account_id": 28707898,
+        "user_type": "registered",
+        "user_id": 21983906,
+        "reputation": 1,
+        "display_name": "Corentin Fortes"
+      },
+      "answers": [
+        {
+          "owner": {
+            "account_id": 245690,
+            "user_type": "registered",
+            "user_id": 519334,
+            "reputation": 14395,
+            "display_name": "k3b",
+            "accept_rate": 86
+          },
+          "comment_count": 1,
+          "is_accepted": false,
+          "creation_date": 1685432421,
+          "answer_id": 76362568,
+          "question_id": 76362390,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/76362390/gradle-unsuported-class-file-version-61",
+      "last_activity_date": 1685436511,
+      "creation_date": 1685430799,
+      "answer_count": 1,
+      "title": "gradle unsuported class file version 61",
+      "question_id": 76362390,
+      "tags": [
+        "java",
+        "gradle"
+      ],
+      "score": 0,
+      "is_answered": false,
+      "view_count": 37,
+      "last_edit_date": 1685436511
+    },
+    {
+      "owner": {
+        "account_id": 18339857,
+        "user_type": "registered",
+        "user_id": 17711139,
+        "reputation": 21,
+        "display_name": "avong"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76353483/having-issues-with-map-activity-in-android-studio",
+      "last_activity_date": 1685436446,
+      "creation_date": 1685305815,
+      "answer_count": 0,
+      "title": "Having issues with Map Activity in Android Studio",
+      "question_id": 76353483,
+      "tags": [
+        "java",
+        "android"
+      ],
+      "score": 0,
+      "is_answered": false,
+      "view_count": 12,
+      "last_edit_date": 1685436446
+    },
+    {
+      "owner": {
+        "account_id": 6331664,
+        "user_type": "registered",
+        "user_id": 4916419,
+        "reputation": 486,
+        "display_name": "Ayoub Mk",
+        "accept_rate": 71
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 0,
+      "link": "https://stackoverflow.com/questions/76363079/java-utc-string-to-paris-time",
+      "last_activity_date": 1685436325,
+      "is_answered": false,
+      "creation_date": 1685436325,
+      "answer_count": 0,
+      "title": "Java UTC String to Paris Time",
+      "question_id": 76363079,
+      "view_count": 9,
+      "tags": [
+        "java"
+      ]
+    },
+    {
+      "owner": {
+        "account_id": 24679262,
+        "user_type": "registered",
+        "user_id": 18573229,
+        "reputation": 41,
+        "display_name": "Ieris19"
+      },
+      "closed_date": 1685318290,
+      "link": "https://stackoverflow.com/questions/76353856/how-do-i-check-which-method-is-faster",
+      "last_activity_date": 1685436298,
+      "creation_date": 1685313720,
+      "answer_count": 0,
+      "title": "How do I check which method is faster?",
+      "question_id": 76353856,
+      "tags": [
+        "java",
+        "performance",
+        "big-o",
+        "benchmarking"
+      ],
+      "score": -1,
+      "closed_reason": "Duplicate",
+      "is_answered": false,
+      "view_count": 45,
+      "last_edit_date": 1685436175
+    },
+    {
+      "owner": {
+        "account_id": 8136951,
+        "user_type": "registered",
+        "user_id": 6128304,
+        "reputation": 2160,
+        "display_name": "Gaurav Singh"
+      },
+      "answers": [
+        {
+          "owner": {
+            "account_id": 19968151,
+            "user_type": "registered",
+            "user_id": 14634256,
+            "reputation": 265,
+            "display_name": "ALI USAMA"
+          },
+          "comment_count": 2,
+          "is_accepted": false,
+          "creation_date": 1673956069,
+          "answer_id": 75145961,
+          "question_id": 75114124,
+          "up_vote_count": 11
+        },
+        {
+          "owner": {
+            "account_id": 20528755,
+            "user_type": "registered",
+            "user_id": 15066584,
+            "reputation": 21,
+            "display_name": "Xlife"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1674268874,
+          "answer_id": 75190830,
+          "question_id": 75114124,
+          "up_vote_count": 0
+        },
+        {
+          "owner": {
+            "account_id": 116359,
+            "user_type": "registered",
+            "user_id": 305135,
+            "reputation": 17651,
+            "display_name": "AVEbrahimi",
+            "accept_rate": 39
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1674892961,
+          "answer_id": 75266223,
+          "question_id": 75114124,
+          "up_vote_count": 2
+        },
+        {
+          "owner": {
+            "account_id": 17769035,
+            "user_type": "registered",
+            "user_id": 12903156,
+            "reputation": 52,
+            "display_name": "Bhargav Raviya"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1679825736,
+          "answer_id": 75847100,
+          "question_id": 75114124,
+          "up_vote_count": 0
+        },
+        {
+          "owner": {
+            "account_id": 28705707,
+            "user_type": "registered",
+            "user_id": 21982086,
+            "reputation": 1,
+            "display_name": "Eiji Otieno"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1685398397,
+          "answer_id": 76360584,
+          "question_id": 75114124,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/75114124/flutter-doctor-unable-to-find-bundled-java-version-android-studio-electric-eel",
+      "last_activity_date": 1685436187,
+      "creation_date": 1673641243,
+      "answer_count": 5,
+      "title": "Flutter doctor unable to find bundled Java version Android Studio Electric Eel",
+      "question_id": 75114124,
+      "tags": [
+        "java",
+        "flutter",
+        "macos",
+        "android-studio"
+      ],
+      "score": 5,
+      "is_answered": true,
+      "view_count": 4882,
+      "last_edit_date": 1673642545
+    },
+    {
+      "owner": {
+        "account_id": 1421342,
+        "user_type": "registered",
+        "user_id": 1345882,
+        "reputation": 550,
+        "display_name": "Maelstorm",
+        "accept_rate": 65
+      },
+      "answers": [
+        {
+          "owner": {
+            "account_id": 19092422,
+            "user_type": "registered",
+            "user_id": 13942448,
+            "reputation": 48256,
+            "display_name": "jccampanero"
+          },
+          "comment_count": 1,
+          "is_accepted": true,
+          "creation_date": 1685395321,
+          "answer_id": 76360382,
+          "question_id": 76346418,
+          "up_vote_count": 0
+        },
+        {
+          "owner": {
+            "account_id": 16060149,
+            "user_type": "registered",
+            "user_id": 11591284,
+            "reputation": 26,
+            "display_name": "Carol MONTEU"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1685436079,
+          "answer_id": 76363047,
+          "question_id": 76346418,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/76346418/errors-while-setting-up-xnat-webapp-in-tomcat-9",
+      "last_activity_date": 1685436079,
+      "creation_date": 1685182826,
+      "answer_count": 2,
+      "title": "Errors while setting up xnat webapp in tomcat 9",
+      "question_id": 76346418,
+      "tags": [
+        "java",
+        "tomcat",
+        "xnat"
+      ],
+      "score": 3,
+      "bounty_amount": 250,
+      "accepted_answer_id": 76360382,
+      "bounty_user": {
+        "account_id": 1421342,
+        "user_type": "registered",
+        "user_id": 1345882,
+        "reputation": 550,
+        "display_name": "Maelstorm",
+        "accept_rate": 65
+      },
+      "bounty_closes_date": 1685975984,
+      "is_answered": true,
+      "view_count": 81,
+      "last_edit_date": 1685387420
+    },
+    {
+      "owner": {
+        "account_id": 28704049,
+        "user_type": "registered",
+        "user_id": 21980709,
+        "reputation": 1,
+        "display_name": "Mohamed bourhane eldine Siad"
+      },
+      "answers": [
+        {
+          "owner": {
+            "account_id": 28650697,
+            "user_type": "registered",
+            "user_id": 21937717,
+            "reputation": 1,
+            "display_name": "QiaoHW"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1685426150,
+          "answer_id": 76361932,
+          "question_id": 76359162,
+          "up_vote_count": 0
+        },
+        {
+          "owner": {
+            "account_id": 944448,
+            "user_type": "registered",
+            "user_id": 971972,
+            "reputation": 783,
+            "display_name": "Remc4"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1685432735,
+          "answer_id": 76362609,
+          "question_id": 76359162,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/76359162/how-to-make-all-items-in-an-adapter-clickable",
+      "last_activity_date": 1685436038,
+      "creation_date": 1685380037,
+      "answer_count": 2,
+      "title": "how to make all items in an adapter clickable?",
+      "question_id": 76359162,
+      "tags": [
+        "java",
+        "android",
+        "android-recyclerview"
+      ],
+      "score": 0,
+      "is_answered": false,
+      "view_count": 37,
+      "last_edit_date": 1685436038
+    },
+    {
+      "owner": {
+        "account_id": 23461270,
+        "user_type": "registered",
+        "user_id": 17516098,
+        "reputation": 1,
+        "display_name": "UnaiZelaia"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76362497/unwanted-divider-between-header-and-table-in-android",
+      "last_activity_date": 1685436023,
+      "creation_date": 1685431806,
+      "answer_count": 0,
+      "title": "Unwanted divider between header and table in Android",
+      "question_id": 76362497,
+      "tags": [
+        "java",
+        "android",
+        "user-interface",
+        "tablelayout"
+      ],
+      "score": 0,
+      "is_answered": false,
+      "view_count": 18,
+      "last_edit_date": 1685436023
+    },
+    {
+      "owner": {
+        "account_id": 26112608,
+        "user_type": "registered",
+        "user_id": 19806253,
+        "reputation": 1,
+        "display_name": "P. Hammer Nick"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76362570/text-encoding-failed-on-eclipse-ide",
+      "last_activity_date": 1685435802,
+      "creation_date": 1685432433,
+      "answer_count": 0,
+      "title": "Text encoding failed on Eclipse IDE",
+      "question_id": 76362570,
+      "tags": [
+        "java",
+        "eclipse",
+        "character-encoding",
+        "settings"
+      ],
+      "score": 0,
+      "is_answered": false,
+      "view_count": 20,
+      "last_edit_date": 1685435802
+    },
+    {
+      "owner": {
+        "account_id": 2679463,
+        "user_type": "registered",
+        "user_id": 2315104,
+        "reputation": 2286,
+        "display_name": "user2315104",
+        "accept_rate": 42
+      },
+      "closed_date": 1685433688,
+      "link": "https://stackoverflow.com/questions/76362696/set-the-values-in-list-through-parent-class-in-java",
+      "last_activity_date": 1685435729,
+      "creation_date": 1685433291,
+      "answer_count": 0,
+      "title": "Set the values in list through parent class in Java",
+      "question_id": 76362696,
+      "tags": [
+        "java"
+      ],
+      "score": 0,
+      "closed_reason": "Needs details or clarity",
+      "is_answered": false,
+      "view_count": 24,
+      "last_edit_date": 1685435729
+    },
+    {
+      "owner": {
+        "account_id": 9764955,
+        "user_type": "registered",
+        "user_id": 7238746,
+        "reputation": 310,
+        "display_name": "master4709"
+      },
+      "answers": [
+        {
+          "owner": {
+            "account_id": 2071881,
+            "user_type": "registered",
+            "user_id": 1846177,
+            "reputation": 906,
+            "display_name": "psyill"
+          },
+          "comment_count": 2,
+          "is_accepted": true,
+          "creation_date": 1533808963,
+          "answer_id": 51764145,
+          "question_id": 51047978,
+          "up_vote_count": 27
+        },
+        {
+          "owner": {
+            "account_id": 3150116,
+            "user_type": "registered",
+            "user_id": 2663734,
+            "reputation": 1595,
+            "display_name": "angelo.mastro"
+          },
+          "comment_count": 4,
+          "is_accepted": false,
+          "creation_date": 1557842315,
+          "answer_id": 56132225,
+          "question_id": 51047978,
+          "up_vote_count": 34
+        },
+        {
+          "owner": {
+            "account_id": 7517199,
+            "user_type": "registered",
+            "user_id": 5710233,
+            "reputation": 7860,
+            "display_name": "Mizux"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1582216296,
+          "answer_id": 60324573,
+          "question_id": 51047978,
+          "up_vote_count": 0
+        },
+        {
+          "owner": {
+            "account_id": 14054581,
+            "user_type": "registered",
+            "user_id": 10152334,
+            "reputation": 1255,
+            "display_name": "Bensuperpc"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1630566798,
+          "answer_id": 69025703,
+          "question_id": 51047978,
+          "up_vote_count": 8
+        },
+        {
+          "owner": {
+            "account_id": 13109291,
+            "user_type": "registered",
+            "user_id": 9470914,
+            "reputation": 2532,
+            "display_name": "UdaraWanasinghe"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1685435582,
+          "answer_id": 76362986,
+          "question_id": 51047978,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/51047978/cmake-could-not-find-jni",
+      "last_activity_date": 1685435582,
+      "creation_date": 1530031955,
+      "answer_count": 5,
+      "title": "CMake could not find JNI",
+      "question_id": 51047978,
+      "tags": [
+        "java",
+        "android",
+        "c++",
+        "cmake"
+      ],
+      "score": 20,
+      "accepted_answer_id": 51764145,
+      "is_answered": true,
+      "view_count": 29488,
+      "last_edit_date": 1557844196
+    },
+    {
+      "owner": {
+        "account_id": 27361740,
+        "user_type": "registered",
+        "user_id": 20869239,
+        "reputation": 21,
+        "display_name": "ashwini r"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76362228/chrome-browser-not-launching-with-selenium-3-141-59-and-chrome-browser-version-1",
+      "last_activity_date": 1685435080,
+      "creation_date": 1685429428,
+      "answer_count": 0,
+      "title": "Chrome browser not launching with selenium 3.141.59 and chrome browser version 113.0.5672.127",
+      "question_id": 76362228,
+      "tags": [
+        "java",
+        "selenium-webdriver",
+        "selenium-chromedriver"
+      ],
+      "score": 0,
+      "is_answered": false,
+      "view_count": 15,
+      "last_edit_date": 1685435080
+    },
+    {
+      "owner": {
+        "account_id": 4522145,
+        "user_type": "registered",
+        "user_id": 3674993,
+        "reputation": 129,
+        "display_name": "user3674993",
+        "accept_rate": 67
+      },
+      "score": 2,
+      "answers": [
+        {
+          "owner": {
+            "account_id": 260921,
+            "user_type": "registered",
+            "user_id": 13755970,
+            "reputation": 662,
+            "display_name": "Mark Sailes"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1655454949,
+          "answer_id": 72656506,
+          "question_id": 72655673,
+          "up_vote_count": 0
+        },
+        {
+          "owner": {
+            "account_id": 135407,
+            "user_type": "registered",
+            "user_id": 338249,
+            "reputation": 10259,
+            "display_name": "rjdkolb",
+            "accept_rate": 100
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1667474712,
+          "answer_id": 74302288,
+          "question_id": 72655673,
+          "up_vote_count": 0
+        },
+        {
+          "owner": {
+            "account_id": 26159163,
+            "user_type": "registered",
+            "user_id": 19845996,
+            "reputation": 51,
+            "display_name": "The_Real_Epk"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1685434174,
+          "answer_id": 76362816,
+          "question_id": 72655673,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/72655673/aws-java-lambda-dependency-jar-size-management-with-maven",
+      "last_activity_date": 1685435054,
+      "is_answered": false,
+      "creation_date": 1655450498,
+      "answer_count": 3,
+      "title": "AWS Java Lambda dependency JAR size management with Maven",
+      "question_id": 72655673,
+      "view_count": 398,
+      "tags": [
+        "java",
+        "aws-lambda"
+      ]
+    },
+    {
+      "owner": {
+        "account_id": 31692,
+        "user_type": "registered",
+        "user_id": 87234,
+        "reputation": 492231,
+        "display_name": "GManNickG",
+        "accept_rate": 100
+      },
+      "answers": [
+        {
+          "owner": {
+            "account_id": 996105,
+            "user_type": "registered",
+            "user_id": 1011995,
+            "reputation": 181336,
+            "display_name": "Daniel Fischer"
+          },
+          "comment_count": 12,
+          "is_accepted": false,
+          "creation_date": 1340805285,
+          "answer_id": 11227877,
+          "question_id": 11227809,
+          "up_vote_count": 4647
+        },
+        {
+          "owner": {
+            "account_id": 559988,
+            "user_type": "registered",
+            "user_id": 922184,
+            "reputation": 463240,
+            "display_name": "Mysticial"
+          },
+          "comment_count": 10,
+          "is_accepted": true,
+          "creation_date": 1340805402,
+          "answer_id": 11227902,
+          "question_id": 11227809,
+          "up_vote_count": 34727
+        },
+        {
+          "owner": {
+            "account_id": 463679,
+            "user_type": "registered",
+            "user_id": 866732,
+            "reputation": 46477,
+            "display_name": "WiSaGaN",
+            "accept_rate": 88
+          },
+          "comment_count": 2,
+          "is_accepted": false,
+          "creation_date": 1340849643,
+          "answer_id": 11237235,
+          "question_id": 11227809,
+          "up_vote_count": 3784
+        },
+        {
+          "owner": {
+            "account_id": 461945,
+            "user_type": "registered",
+            "user_id": 863980,
+            "reputation": 32417,
+            "display_name": "vulcan raven",
+            "accept_rate": 83
+          },
+          "comment_count": 1,
+          "is_accepted": false,
+          "creation_date": 1341282330,
+          "answer_id": 11303693,
+          "question_id": 11227809,
+          "up_vote_count": 2622
+        },
+        {
+          "owner": {
+            "account_id": 45644,
+            "user_type": "registered",
+            "user_id": 134633,
+            "reputation": 232166,
+            "display_name": "caf"
+          },
+          "comment_count": 3,
+          "is_accepted": false,
+          "creation_date": 1350021213,
+          "answer_id": 12853037,
+          "question_id": 11227809,
+          "up_vote_count": 2146
+        },
+        {
+          "owner": {
+            "account_id": 1006540,
+            "user_type": "registered",
+            "user_id": 1020149,
+            "reputation": 5024,
+            "display_name": "Shan",
+            "accept_rate": 21
+          },
+          "comment_count": 3,
+          "is_accepted": false,
+          "creation_date": 1356884206,
+          "answer_id": 14092288,
+          "question_id": 11227809,
+          "up_vote_count": 186
+        },
+        {
+          "owner": {
+            "account_id": 996825,
+            "user_type": "registered",
+            "user_id": 1012551,
+            "reputation": 17460,
+            "display_name": "Saqlain",
+            "accept_rate": 92
+          },
+          "comment_count": 10,
+          "is_accepted": false,
+          "creation_date": 1360913056,
+          "answer_id": 14889969,
+          "question_id": 11227809,
+          "up_vote_count": 1412
+        },
+        {
+          "owner": {
+            "account_id": 1021317,
+            "user_type": "registered",
+            "user_id": 1031591,
+            "reputation": 30258,
+            "display_name": "atlaste",
+            "accept_rate": 71
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1366784788,
+          "answer_id": 16184827,
+          "question_id": 11227809,
+          "up_vote_count": 1582
+        },
+        {
+          "owner": {
+            "account_id": 55732,
+            "user_type": "registered",
+            "user_id": 166949,
+            "reputation": 74416,
+            "display_name": "steveha",
+            "accept_rate": 90
+          },
+          "comment_count": 11,
+          "is_accepted": false,
+          "creation_date": 1374481770,
+          "answer_id": 17782979,
+          "question_id": 11227809,
+          "up_vote_count": 1345
+        },
+        {
+          "owner": {
+            "user_type": "does_not_exist",
+            "display_name": "user1196549"
+          },
+          "comment_count": 3,
+          "is_accepted": false,
+          "creation_date": 1374652659,
+          "answer_id": 17828251,
+          "question_id": 11227809,
+          "up_vote_count": 1208
+        },
+        {
+          "owner": {
+            "account_id": 1786345,
+            "user_type": "registered",
+            "user_id": 1627741,
+            "reputation": 10902,
+            "display_name": "Harsh Sharma",
+            "accept_rate": 53
+          },
+          "comment_count": 2,
+          "is_accepted": false,
+          "creation_date": 1435937752,
+          "answer_id": 31210295,
+          "question_id": 11227809,
+          "up_vote_count": 1010
+        },
+        {
+          "owner": {
+            "account_id": 1380009,
+            "user_type": "registered",
+            "user_id": 1313233,
+            "reputation": 16367,
+            "display_name": "rkachach",
+            "accept_rate": 82
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1443020267,
+          "answer_id": 32742980,
+          "question_id": 11227809,
+          "up_vote_count": 844
+        },
+        {
+          "owner": {
+            "account_id": 6300346,
+            "user_type": "registered",
+            "user_id": 4895229,
+            "reputation": 9335,
+            "display_name": "Maciej"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1444437042,
+          "answer_id": 33048998,
+          "question_id": 11227809,
+          "up_vote_count": 827
+        },
+        {
+          "owner": {
+            "account_id": 4991025,
+            "user_type": "registered",
+            "user_id": 4013258,
+            "reputation": 15431,
+            "display_name": "Surt"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1444597518,
+          "answer_id": 33070112,
+          "question_id": 11227809,
+          "up_vote_count": 885
+        },
+        {
+          "owner": {
+            "account_id": 296548,
+            "user_type": "registered",
+            "user_id": 601567,
+            "reputation": 6312,
+            "display_name": "ForeverLearning",
+            "accept_rate": 75
+          },
+          "comment_count": 2,
+          "is_accepted": false,
+          "creation_date": 1484185828,
+          "answer_id": 41603849,
+          "question_id": 11227809,
+          "up_vote_count": 438
+        },
+        {
+          "owner": {
+            "account_id": 7086416,
+            "user_type": "registered",
+            "user_id": 5423108,
+            "reputation": 99243,
+            "display_name": "Alireza"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1497786043,
+          "answer_id": 44614591,
+          "question_id": 11227809,
+          "up_vote_count": 480
+        },
+        {
+          "owner": {
+            "account_id": 8730423,
+            "user_type": "registered",
+            "user_id": 6530695,
+            "reputation": 14024,
+            "display_name": "Tony",
+            "accept_rate": 98
+          },
+          "comment_count": 1,
+          "is_accepted": false,
+          "creation_date": 1501841232,
+          "answer_id": 45503985,
+          "question_id": 11227809,
+          "up_vote_count": 306
+        },
+        {
+          "owner": {
+            "account_id": 4116853,
+            "user_type": "registered",
+            "user_id": 3378204,
+            "reputation": 10537,
+            "display_name": "Eugene",
+            "accept_rate": 91
+          },
+          "comment_count": 4,
+          "is_accepted": false,
+          "creation_date": 1509984916,
+          "answer_id": 47141245,
+          "question_id": 11227809,
+          "up_vote_count": 398
+        },
+        {
+          "owner": {
+            "account_id": 255796,
+            "user_type": "registered",
+            "user_id": 536086,
+            "reputation": 47789,
+            "display_name": "Yochai Timmer",
+            "accept_rate": 90
+          },
+          "comment_count": 5,
+          "is_accepted": false,
+          "creation_date": 1511447309,
+          "answer_id": 47457772,
+          "question_id": 11227809,
+          "up_vote_count": 228
+        },
+        {
+          "owner": {
+            "account_id": 11544512,
+            "user_type": "registered",
+            "user_id": 8459055,
+            "reputation": 2686,
+            "display_name": "omkaartg"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1512667709,
+          "answer_id": 47700573,
+          "question_id": 11227809,
+          "up_vote_count": 226
+        },
+        {
+          "owner": {
+            "account_id": 3683805,
+            "user_type": "registered",
+            "user_id": 3950982,
+            "reputation": 7990,
+            "display_name": "Luke Hutchison"
+          },
+          "comment_count": 7,
+          "is_accepted": false,
+          "creation_date": 1513948385,
+          "answer_id": 47942152,
+          "question_id": 11227809,
+          "up_vote_count": 269
+        },
+        {
+          "owner": {
+            "account_id": 2657091,
+            "user_type": "registered",
+            "user_id": 2297550,
+            "reputation": 3102,
+            "display_name": "user2297550",
+            "accept_rate": 40
+          },
+          "comment_count": 9,
+          "is_accepted": false,
+          "creation_date": 1544336297,
+          "answer_id": 53689911,
+          "question_id": 11227809,
+          "up_vote_count": 129
+        },
+        {
+          "owner": {
+            "account_id": 928316,
+            "user_type": "registered",
+            "user_id": 2011147,
+            "reputation": 56347,
+            "display_name": "Selcuk"
+          },
+          "comment_count": 1,
+          "is_accepted": false,
+          "creation_date": 1571096080,
+          "answer_id": 58385294,
+          "question_id": 11227809,
+          "up_vote_count": 111
+        },
+        {
+          "owner": {
+            "account_id": 4724602,
+            "user_type": "registered",
+            "user_id": 3821643,
+            "reputation": 1606,
+            "display_name": "hatirlatici"
+          },
+          "comment_count": 4,
+          "is_accepted": false,
+          "creation_date": 1571866540,
+          "answer_id": 58531294,
+          "question_id": 11227809,
+          "up_vote_count": 102
+        },
+        {
+          "owner": {
+            "account_id": 23218571,
+            "user_type": "registered",
+            "user_id": 17311156,
+            "reputation": 429,
+            "display_name": "Geek26"
+          },
+          "comment_count": 1,
+          "is_accepted": false,
+          "creation_date": 1636106703,
+          "answer_id": 69851522,
+          "question_id": 11227809,
+          "up_vote_count": 32
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array",
+      "last_activity_date": 1685434992,
+      "creation_date": 1340805096,
+      "answer_count": 25,
+      "title": "Why is processing a sorted array faster than processing an unsorted array?",
+      "question_id": 11227809,
+      "tags": [
+        "java",
+        "c++",
+        "performance",
+        "cpu-architecture",
+        "branch-prediction"
+      ],
+      "score": 26999,
+      "accepted_answer_id": 11227902,
+      "protected_date": 1399067470,
+      "is_answered": true,
+      "view_count": 1814358,
+      "last_edit_date": 1683824982
+    },
+    {
+      "owner": {
+        "account_id": 24529381,
+        "user_type": "registered",
+        "user_id": 18441439,
+        "reputation": 1,
+        "display_name": "Mr Me"
+      },
+      "closed_date": 1685434985,
+      "link": "https://stackoverflow.com/questions/76362896/is-there-way-to-control-the-elements-on-intellij",
+      "last_activity_date": 1685434819,
+      "creation_date": 1685434819,
+      "answer_count": 0,
+      "title": "is there way to control the elements on Intellij?",
+      "question_id": 76362896,
+      "tags": [
+        "java",
+        "windows",
+        "intellij-idea",
+        "controls"
+      ],
+      "score": -5,
+      "closed_reason": "Needs details or clarity",
+      "is_answered": false,
+      "view_count": 18
+    },
+    {
+      "owner": {
+        "account_id": 28707713,
+        "user_type": "registered",
+        "user_id": 21983748,
+        "reputation": 1,
+        "display_name": "Sakshi"
+      },
+      "closed_date": 1685434606,
+      "answers": [
+        {
+          "owner": {
+            "account_id": 28171040,
+            "user_type": "registered",
+            "user_id": 21529605,
+            "reputation": 7,
+            "display_name": "Harry"
+          },
+          "comment_count": 1,
+          "is_accepted": false,
+          "creation_date": 1685430595,
+          "answer_id": 76362366,
+          "question_id": 76362288,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/76362288/i-keep-getting-exception-in-thread-main-java-lang-nullpointerexception-canno",
+      "last_activity_date": 1685434488,
+      "creation_date": 1685429945,
+      "answer_count": 1,
+      "title": "I keep getting &quot;Exception in thread &quot;main&quot; java.lang.NullPointerException: Cannot invoke &quot;java.net.URL.toExternalForm()&quot; because &quot;location&quot; is null.&quot;",
+      "question_id": 76362288,
+      "tags": [
+        "java",
+        "swing",
+        "nullpointerexception"
+      ],
+      "score": 0,
+      "closed_reason": "Duplicate",
+      "is_answered": false,
+      "view_count": 21,
+      "last_edit_date": 1685434488
+    },
+    {
+      "owner": {
+        "account_id": 15596976,
+        "user_type": "registered",
+        "user_id": 11252174,
+        "reputation": 771,
+        "display_name": "Demir"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 1,
+      "link": "https://stackoverflow.com/questions/76362866/darts-datetimen-and-javas-localdatetime-handshake",
+      "last_activity_date": 1685434478,
+      "is_answered": false,
+      "creation_date": 1685434478,
+      "answer_count": 0,
+      "title": "Dart&#39;s DateTimen and Java&#39;s LocalDateTime handshake",
+      "question_id": 76362866,
+      "view_count": 18,
+      "tags": [
+        "java",
+        "spring",
+        "flutter",
+        "spring-boot",
+        "dart"
+      ]
+    },
+    {
+      "owner": {
+        "account_id": 28708306,
+        "user_type": "registered",
+        "user_id": 21984255,
+        "reputation": 9,
+        "display_name": "Andy Flower"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": -1,
+      "link": "https://stackoverflow.com/questions/76362860/how-to-troubleshoot-a-slow-website-caused-by-javascript-issues-on-a-java-site",
+      "last_activity_date": 1685434446,
+      "is_answered": false,
+      "creation_date": 1685434446,
+      "answer_count": 0,
+      "title": "How to troubleshoot a slow website caused by JavaScript issues on a Java site?",
+      "question_id": 76362860,
+      "view_count": 16,
+      "tags": [
+        "javascript",
+        "java",
+        "html"
+      ]
+    },
+    {
+      "owner": {
+        "account_id": 10269682,
+        "user_type": "registered",
+        "user_id": 7578474,
+        "reputation": 1,
+        "display_name": "Pratyusha Vemulapalli"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76362790/encrypted-text-using-java-aes-256-unable-to-decrypt-using-openssl-command",
+      "last_activity_date": 1685434377,
+      "creation_date": 1685433957,
+      "answer_count": 0,
+      "title": "Encrypted text using Java AES-256. Unable to decrypt using openssl command",
+      "question_id": 76362790,
+      "tags": [
+        "java",
+        "openssl",
+        "cryptography",
+        "aes"
+      ],
+      "score": 0,
+      "is_answered": false,
+      "view_count": 9,
+      "last_edit_date": 1685434377
+    },
+    {
+      "owner": {
+        "account_id": 20390648,
+        "user_type": "registered",
+        "user_id": 14958659,
+        "reputation": 3,
+        "display_name": "Asad Atiq"
+      },
+      "closed_date": 1685435065,
+      "link": "https://stackoverflow.com/questions/76362832/why-am-i-getting-null-pointer-exception-in-selenium-webdriver",
+      "last_activity_date": 1685434358,
+      "creation_date": 1685434249,
+      "answer_count": 0,
+      "title": "Why am I getting null pointer exception in selenium webdriver?",
+      "question_id": 76362832,
+      "tags": [
+        "java",
+        "selenium-webdriver",
+        "automation",
+        "selenium-chromedriver"
+      ],
+      "score": 0,
+      "closed_reason": "Duplicate",
+      "is_answered": false,
+      "view_count": 9,
+      "last_edit_date": 1685434358
+    },
+    {
+      "owner": {
+        "account_id": 25183656,
+        "user_type": "registered",
+        "user_id": 19024839,
+        "reputation": 21,
+        "display_name": "ram shinde"
+      },
+      "answers": [
+        {
+          "owner": {
+            "account_id": 28708146,
+            "user_type": "registered",
+            "user_id": 21984110,
+            "reputation": 1,
+            "display_name": "Lynne Nguyen"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1685433209,
+          "answer_id": 76362686,
+          "question_id": 74798445,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/74798445/how-to-update-intel-haxm-in-android-studio",
+      "last_activity_date": 1685434323,
+      "creation_date": 1671021502,
+      "answer_count": 1,
+      "title": "How to update intel HAXM in android studio?",
+      "question_id": 74798445,
+      "tags": [
+        "java",
+        "android",
+        "android-studio",
+        "android-emulator",
+        "boot"
+      ],
+      "score": 2,
+      "is_answered": false,
+      "view_count": 406,
+      "last_edit_date": 1671123103
+    },
+    {
+      "owner": {
+        "account_id": 16745022,
+        "user_type": "registered",
+        "user_id": 12399561,
+        "reputation": 9,
+        "display_name": "Mikhail"
+      },
+      "closed_date": 1685434253,
+      "answers": [
+        {
+          "owner": {
+            "account_id": 1448543,
+            "user_type": "registered",
+            "user_id": 10291924,
+            "reputation": 1,
+            "display_name": "jalfonso"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1685392871,
+          "answer_id": 76360229,
+          "question_id": 76359611,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/76359611/how-to-fix-no-suitable-driver-found-error-when-connecting-to-a-postgresql-data",
+      "last_activity_date": 1685434296,
+      "creation_date": 1685384907,
+      "answer_count": 1,
+      "title": "How to fix &#39;no suitable driver found&#39; error when connecting to a PostgreSQL database with Java and JDBC?",
+      "question_id": 76359611,
+      "tags": [
+        "java",
+        "postgresql",
+        "jdbc",
+        "postgresql-9.5"
+      ],
+      "score": -1,
+      "closed_reason": "Duplicate",
+      "is_answered": false,
+      "view_count": 33,
+      "last_edit_date": 1685434281
+    },
+    {
+      "owner": {
+        "account_id": 28632176,
+        "user_type": "registered",
+        "user_id": 21922960,
+        "reputation": 1,
+        "display_name": "mb99"
+      },
+      "closed_date": 1685397417,
+      "link": "https://stackoverflow.com/questions/76360500/how-can-i-modify-java-code-to-allow-user-input-instead-of-a-hardcoded-string-for",
+      "last_activity_date": 1685434196,
+      "creation_date": 1685397072,
+      "answer_count": 0,
+      "title": "How can I modify Java code to allow user input instead of a hardcoded string for API access?",
+      "question_id": 76360500,
+      "tags": [
+        "java",
+        "java.util.scanner"
+      ],
+      "score": -1,
+      "closed_reason": "Duplicate",
+      "is_answered": false,
+      "view_count": 20,
+      "last_edit_date": 1685434196
+    },
+    {
+      "owner": {
+        "account_id": 412450,
+        "user_type": "registered",
+        "user_id": 785523,
+        "reputation": 5788,
+        "display_name": "tuk",
+        "accept_rate": 87
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76361834/concurrently-execute-tests-within-same-jvm",
+      "last_activity_date": 1685434030,
+      "creation_date": 1685424631,
+      "answer_count": 0,
+      "title": "Concurrently execute tests within same JVM",
+      "question_id": 76361834,
+      "tags": [
+        "java",
+        "maven",
+        "junit5",
+        "maven-surefire-plugin"
+      ],
+      "score": 0,
+      "is_answered": false,
+      "view_count": 18,
+      "last_edit_date": 1685434030
+    },
+    {
+      "owner": {
+        "account_id": 1299431,
+        "user_type": "registered",
+        "user_id": 1249664,
+        "reputation": 5947,
+        "display_name": "auser",
+        "accept_rate": 85
+      },
+      "answers": [
+        {
+          "owner": {
+            "account_id": 277416,
+            "user_type": "registered",
+            "user_id": 571407,
+            "reputation": 675254,
+            "display_name": "JB Nizet",
+            "accept_rate": 100
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1348489826,
+          "answer_id": 12565075,
+          "question_id": 12565037,
+          "up_vote_count": 5
+        },
+        {
+          "owner": {
+            "account_id": 17835,
+            "user_type": "registered",
+            "user_id": 40342,
+            "reputation": 301207,
+            "display_name": "Joachim Sauer",
+            "accept_rate": 62
+          },
+          "comment_count": 0,
+          "is_accepted": true,
+          "creation_date": 1348489835,
+          "answer_id": 12565077,
+          "question_id": 12565037,
+          "up_vote_count": 18
+        },
+        {
+          "owner": {
+            "account_id": 23121,
+            "user_type": "registered",
+            "user_id": 57695,
+            "reputation": 523800,
+            "display_name": "Peter Lawrey",
+            "accept_rate": 75
+          },
+          "comment_count": 1,
+          "is_accepted": false,
+          "creation_date": 1348489916,
+          "answer_id": 12565100,
+          "question_id": 12565037,
+          "up_vote_count": 5
+        },
+        {
+          "owner": {
+            "account_id": 1685308,
+            "user_type": "registered",
+            "user_id": 1548740,
+            "reputation": 73,
+            "display_name": "Clyde"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1348489959,
+          "answer_id": 12565116,
+          "question_id": 12565037,
+          "up_vote_count": 1
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/12565037/what-exactly-is-a-reference-in-java",
+      "last_activity_date": 1685433944,
+      "creation_date": 1348489649,
+      "answer_count": 4,
+      "title": "What exactly is a reference in Java?",
+      "question_id": 12565037,
+      "tags": [
+        "java",
+        "reference"
+      ],
+      "score": 14,
+      "accepted_answer_id": 12565077,
+      "is_answered": true,
+      "view_count": 4576,
+      "last_edit_date": 1441352479
+    },
+    {
+      "owner": {
+        "account_id": 3458165,
+        "user_type": "registered",
+        "user_id": 2896152,
+        "reputation": 762,
+        "display_name": "user2896152",
+        "accept_rate": 29
+      },
+      "answers": [
+        {
+          "owner": {
+            "account_id": 10258,
+            "user_type": "registered",
+            "user_id": 19276,
+            "reputation": 26241,
+            "display_name": "DJClayworth",
+            "accept_rate": 81
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1432907743,
+          "answer_id": 30531465,
+          "question_id": 30531158,
+          "up_vote_count": 3
+        },
+        {
+          "owner": {
+            "account_id": 1504382,
+            "user_type": "registered",
+            "user_id": 1408143,
+            "reputation": 8260,
+            "display_name": "copeg"
+          },
+          "comment_count": 3,
+          "is_accepted": true,
+          "creation_date": 1432908703,
+          "answer_id": 30531820,
+          "question_id": 30531158,
+          "up_vote_count": 5
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/30531158/draw-triangle-with-rounded-corner",
+      "last_activity_date": 1685433935,
+      "creation_date": 1432906854,
+      "answer_count": 2,
+      "title": "Draw triangle with rounded corner",
+      "question_id": 30531158,
+      "tags": [
+        "java",
+        "swing",
+        "polygon",
+        "rounded-corners"
+      ],
+      "score": 3,
+      "accepted_answer_id": 30531820,
+      "is_answered": true,
+      "view_count": 3598
+    },
+    {
+      "owner": {
+        "account_id": 20114671,
+        "user_type": "registered",
+        "user_id": 14750373,
+        "reputation": 1,
+        "display_name": "sarthak sharma"
+      },
+      "closed_date": 1685427900,
+      "link": "https://stackoverflow.com/questions/76362072/please-explain-me-about-how-strings-are-compared-with-operator-if-i-make-a-st",
+      "last_activity_date": 1685433897,
+      "creation_date": 1685427843,
+      "answer_count": 0,
+      "title": "Please explain me about how strings are compared with == operator if i make a string without new keyword and another with new keyword?",
+      "question_id": 76362072,
+      "tags": [
+        "java",
+        "string",
+        "object",
+        "string-comparison",
+        "string-pool"
+      ],
+      "score": -3,
+      "closed_reason": "Duplicate",
+      "is_answered": false,
+      "view_count": 30,
+      "last_edit_date": 1685433874
+    },
+    {
+      "owner": {
+        "account_id": 20679840,
+        "user_type": "registered",
+        "user_id": 15183681,
+        "reputation": 1,
+        "display_name": "aren talb"
+      },
+      "closed_date": 1685404231,
+      "link": "https://stackoverflow.com/questions/76360822/how-can-i-build-a-strong-foundation-before-start-learning-java-spring-framework",
+      "last_activity_date": 1685433876,
+      "creation_date": 1685403184,
+      "answer_count": 0,
+      "title": "How can I build a strong foundation before start learning Java Spring framework?",
+      "question_id": 76360822,
+      "tags": [
+        "java",
+        "spring",
+        "spring-boot",
+        "web",
+        "backend"
+      ],
+      "score": -3,
+      "closed_reason": "Opinion-based",
+      "is_answered": false,
+      "view_count": 21,
+      "last_edit_date": 1685433876
+    },
+    {
+      "owner": {
+        "account_id": 15062605,
+        "user_type": "registered",
+        "user_id": 10870817,
+        "reputation": 829,
+        "display_name": "SoT"
+      },
+      "score": 0,
+      "answers": [
+        {
+          "owner": {
+            "account_id": 4745793,
+            "user_type": "registered",
+            "user_id": 3837201,
+            "reputation": 913,
+            "display_name": "zohreh"
+          },
+          "comment_count": 1,
+          "is_accepted": false,
+          "creation_date": 1685373828,
+          "answer_id": 76358523,
+          "question_id": 76355627,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/76355627/how-to-do-distributed-metrics-on-spring-boot-application",
+      "last_activity_date": 1685433560,
+      "is_answered": false,
+      "creation_date": 1685347455,
+      "answer_count": 1,
+      "title": "How to do distributed metrics on Spring boot application",
+      "question_id": 76355627,
+      "view_count": 36,
+      "tags": [
+        "java",
+        "spring",
+        "prometheus",
+        "spring-boot-actuator",
+        "micrometer"
+      ]
+    },
+    {
+      "owner": {
+        "account_id": 325224,
+        "user_type": "registered",
+        "user_id": 646276,
+        "reputation": 33752,
+        "display_name": "Lolly",
+        "accept_rate": 61
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 0,
+      "link": "https://stackoverflow.com/questions/76362736/spring-boot-jpa-specification-for-exists-query",
+      "last_activity_date": 1685433556,
+      "is_answered": false,
+      "creation_date": 1685433556,
+      "answer_count": 0,
+      "title": "Spring Boot JPA Specification for Exists query",
+      "question_id": 76362736,
+      "view_count": 11,
+      "tags": [
+        "java",
+        "hibernate",
+        "spring-data-jpa",
+        "spring-data"
+      ]
+    },
+    {
+      "owner": {
+        "account_id": 6290626,
+        "user_type": "registered",
+        "user_id": 4888455,
+        "reputation": 1,
+        "display_name": "user4888455"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76362717/when-using-proguard-version-7-3-2-getting-jsonexception-error",
+      "last_activity_date": 1685433439,
+      "creation_date": 1685433392,
+      "answer_count": 0,
+      "title": "When using Proguard version 7.3.2 getting JSONException error",
+      "question_id": 76362717,
+      "tags": [
+        "java",
+        "maven",
+        "proguard",
+        "java-11",
+        "proguard-maven-plugin"
+      ],
+      "score": 0,
+      "is_answered": false,
+      "view_count": 8,
+      "last_edit_date": 1685433439
+    },
+    {
+      "owner": {
+        "account_id": 8633470,
+        "user_type": "registered",
+        "user_id": 6464419,
+        "reputation": 178,
+        "display_name": "Claudi"
+      },
+      "answers": [
+        {
+          "owner": {
+            "account_id": 15361,
+            "user_type": "registered",
+            "user_id": 32352,
+            "reputation": 4659,
+            "display_name": "johanneslink",
+            "accept_rate": 62
+          },
+          "comment_count": 1,
+          "is_accepted": true,
+          "creation_date": 1584714640,
+          "answer_id": 60776131,
+          "question_id": 60774567,
+          "up_vote_count": 10
+        },
+        {
+          "owner": {
+            "account_id": 2269593,
+            "user_type": "registered",
+            "user_id": 1997376,
+            "reputation": 43224,
+            "display_name": "Nicolas Filotto",
+            "accept_rate": 100
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1685433417,
+          "answer_id": 76362719,
+          "question_id": 60774567,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/60774567/beforeall-afterall-callbacks-of-junit5-extension-are-executed-for-each-nested",
+      "last_activity_date": 1685433417,
+      "creation_date": 1584708764,
+      "answer_count": 2,
+      "title": "BeforeAll / AfterAll callbacks of junit5 extension are executed for each nested test class. Is this expected?",
+      "question_id": 60774567,
+      "tags": [
+        "java",
+        "testing",
+        "junit5"
+      ],
+      "score": 8,
+      "accepted_answer_id": 60776131,
+      "is_answered": true,
+      "view_count": 2461,
+      "last_edit_date": 1584709177
+    },
+    {
+      "owner": {
+        "account_id": 21389314,
+        "user_type": "registered",
+        "user_id": 15753700,
+        "reputation": 1,
+        "display_name": "Ayush"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76361749/split-datetime-into-two-different-entities-while-adding-it-into-excel-sheet-in-j",
+      "last_activity_date": 1685433416,
+      "creation_date": 1685423336,
+      "answer_count": 0,
+      "title": "Split DateTime into two different entities while adding it into excel sheet in java",
+      "question_id": 76361749,
+      "tags": [
+        "java"
+      ],
+      "score": -1,
+      "is_answered": false,
+      "view_count": 29,
+      "last_edit_date": 1685433416
+    },
+    {
+      "owner": {
+        "account_id": 6290626,
+        "user_type": "registered",
+        "user_id": 4888455,
+        "reputation": 1,
+        "display_name": "user4888455"
+      },
+      "answers": [
+        {
+          "owner": {
+            "account_id": 6290626,
+            "user_type": "registered",
+            "user_id": 4888455,
+            "reputation": 1,
+            "display_name": "user4888455"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1685433327,
+          "answer_id": 76362704,
+          "question_id": 76315135,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/76315135/proguard-7-3-2-not-able-to-find-classes-when-using-openjdk-11",
+      "last_activity_date": 1685433327,
+      "creation_date": 1684847162,
+      "answer_count": 1,
+      "title": "Proguard 7.3.2 not able to find classes when using openjdk-11",
+      "question_id": 76315135,
+      "tags": [
+        "java",
+        "ant",
+        "proguard",
+        "java-11"
+      ],
+      "score": 0,
+      "is_answered": false,
+      "view_count": 27,
+      "last_edit_date": 1684847241
+    },
+    {
+      "owner": {
+        "account_id": 26035358,
+        "user_type": "registered",
+        "user_id": 19740880,
+        "reputation": 21,
+        "display_name": "Th&#224;nh Đặng"
+      },
+      "answers": [
+        {
+          "owner": {
+            "account_id": 4989128,
+            "user_type": "registered",
+            "user_id": 4011890,
+            "reputation": 1148,
+            "display_name": "Noixes"
+          },
+          "comment_count": 0,
+          "is_accepted": true,
+          "creation_date": 1685433177,
+          "answer_id": 76362682,
+          "question_id": 76362626,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/76362626/create-cron-job-and-stop-it-without-scheduled-spring-boot",
+      "last_activity_date": 1685433177,
+      "creation_date": 1685432812,
+      "answer_count": 1,
+      "title": "Create cron job and stop it without @Scheduled Spring Boot",
+      "question_id": 76362626,
+      "tags": [
+        "java",
+        "spring"
+      ],
+      "score": 1,
+      "accepted_answer_id": 76362682,
+      "is_answered": true,
+      "view_count": 20
+    },
+    {
+      "owner": {
+        "account_id": 28683556,
+        "user_type": "registered",
+        "user_id": 21964245,
+        "reputation": 1,
+        "display_name": "Pratik Patil"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76338068/org-mockito-exceptions-verification-toomanyactualinvocations-wanted-1-time-but-w",
+      "last_activity_date": 1685433070,
+      "creation_date": 1685081546,
+      "answer_count": 0,
+      "title": "org.mockito.exceptions.verification.TooManyActualInvocations wanted 1 time but was 2 times",
+      "question_id": 76338068,
+      "tags": [
+        "java",
+        "unit-testing",
+        "mockito",
+        "junit5"
+      ],
+      "score": 0,
+      "is_answered": false,
+      "view_count": 30,
+      "last_edit_date": 1685433070
+    },
+    {
+      "owner": {
+        "account_id": 449256,
+        "user_type": "registered",
+        "user_id": 843943,
+        "reputation": 3212,
+        "display_name": "Grim",
+        "accept_rate": 75
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76361805/weird-virtualbox-behaviour-in-unit-test",
+      "last_activity_date": 1685433057,
+      "creation_date": 1685424323,
+      "answer_count": 0,
+      "title": "Weird virtualbox behaviour in unit-test",
+      "question_id": 76361805,
+      "tags": [
+        "java",
+        "virtualbox"
+      ],
+      "score": 0,
+      "is_answered": false,
+      "view_count": 22,
+      "last_edit_date": 1685433057
+    },
+    {
+      "owner": {
+        "account_id": 2221210,
+        "user_type": "registered",
+        "user_id": 1960524,
+        "reputation": 1727,
+        "display_name": "adesh singh",
+        "accept_rate": 87
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 0,
+      "link": "https://stackoverflow.com/questions/76362638/how-to-create-file-on-remote-server-directory-in-java",
+      "last_activity_date": 1685432882,
+      "is_answered": false,
+      "creation_date": 1685432882,
+      "answer_count": 0,
+      "title": "How to create File on Remote Server Directory in Java",
+      "question_id": 76362638,
+      "view_count": 12,
+      "tags": [
+        "java",
+        "url",
+        "network-programming",
+        "remote-server",
+        "filewriter"
+      ]
+    },
+    {
+      "owner": {
+        "account_id": 28707990,
+        "user_type": "registered",
+        "user_id": 21983985,
+        "reputation": 1,
+        "display_name": "Vidyut Janmal"
+      },
+      "closed_date": 1685433438,
+      "link": "https://stackoverflow.com/questions/76362599/give-user-input-in-capl",
+      "last_activity_date": 1685432693,
+      "creation_date": 1685432693,
+      "answer_count": 0,
+      "title": "give user input in capl",
+      "question_id": 76362599,
+      "tags": [
+        "java",
+        "c",
+        "angular",
+        "capl"
+      ],
+      "score": -1,
+      "closed_reason": "Needs details or clarity",
+      "is_answered": false,
+      "view_count": 17
+    },
+    {
+      "owner": {
+        "account_id": 25170911,
+        "user_type": "registered",
+        "user_id": 19013745,
+        "reputation": 1,
+        "display_name": "dun mao"
+      },
+      "score": 0,
+      "answers": [
+        {
+          "owner": {
+            "account_id": 2032415,
+            "user_type": "registered",
+            "user_id": 1815716,
+            "reputation": 1267,
+            "display_name": "prasad",
+            "accept_rate": 38
+          },
+          "comment_count": 1,
+          "is_accepted": false,
+          "creation_date": 1685369195,
+          "answer_id": 76358040,
+          "question_id": 76357375,
+          "up_vote_count": 0
+        },
+        {
+          "owner": {
+            "account_id": 18999437,
+            "user_type": "registered",
+            "user_id": 13867124,
+            "reputation": 118,
+            "display_name": "AztecCodes"
+          },
+          "comment_count": 2,
+          "is_accepted": false,
+          "creation_date": 1685370323,
+          "answer_id": 76358151,
+          "question_id": 76357375,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/76357375/i-checked-with-jconsole-and-found-there-is-not-dead-lock-but-program-does-not-ex",
+      "last_activity_date": 1685432559,
+      "is_answered": false,
+      "creation_date": 1685363179,
+      "answer_count": 2,
+      "title": "I checked with jconsole and found there is not dead lock,but program does not exit",
+      "question_id": 76357375,
+      "view_count": 27,
+      "tags": [
+        "java",
+        "multithreading",
+        "happens-before"
+      ]
+    },
+    {
+      "owner": {
+        "account_id": 2567170,
+        "user_type": "registered",
+        "user_id": 3537858,
+        "reputation": 10513,
+        "display_name": "Alexey Gavrilov"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 1,
+      "link": "https://stackoverflow.com/questions/76362551/how-to-run-spring-boot-jar-with-java-modules",
+      "last_activity_date": 1685432307,
+      "is_answered": false,
+      "creation_date": 1685432307,
+      "answer_count": 0,
+      "title": "How to run Spring Boot .jar with Java Modules?",
+      "question_id": 76362551,
+      "view_count": 17,
+      "tags": [
+        "java",
+        "spring-boot",
+        "java-platform-module-system"
+      ]
+    },
+    {
+      "owner": {
+        "account_id": 27496581,
+        "user_type": "registered",
+        "user_id": 20981004,
+        "reputation": 39,
+        "display_name": "sujay777"
+      },
+      "answers": [
+        {
+          "owner": {
+            "account_id": 1212711,
+            "user_type": "registered",
+            "user_id": 1180963,
+            "reputation": 1995,
+            "display_name": "eduyayo",
+            "accept_rate": 75
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1685432274,
+          "answer_id": 76362549,
+          "question_id": 76287128,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/76287128/how-to-connect-with-postgresql-database-with-ssl-using-certificates-and-key-from",
+      "last_activity_date": 1685432274,
+      "creation_date": 1684483123,
+      "answer_count": 1,
+      "title": "How to connect with PostgreSQL database with SSL using certificates and key from client Eclipse in Java",
+      "question_id": 76287128,
+      "tags": [
+        "java",
+        "postgresql",
+        "ssl",
+        "jdbc",
+        "ssl-certificate"
+      ],
+      "score": 0,
+      "is_answered": false,
+      "view_count": 53,
+      "last_edit_date": 1684501655
+    },
+    {
+      "owner": {
+        "account_id": 24900932,
+        "user_type": "registered",
+        "user_id": 18771614,
+        "reputation": 3,
+        "display_name": "Karthick G"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 0,
+      "link": "https://stackoverflow.com/questions/76362523/i-dont-know-from-path-is-correct-or-not-while-create-jar-file",
+      "last_activity_date": 1685432046,
+      "is_answered": false,
+      "creation_date": 1685432046,
+      "answer_count": 0,
+      "title": "I don&#39;t know From path is correct or not while create jar file",
+      "question_id": 76362523,
+      "view_count": 12,
+      "tags": [
+        "java",
+        "android",
+        "kotlin",
+        "jar"
+      ]
+    },
+    {
+      "owner": {
+        "account_id": 28705509,
+        "user_type": "registered",
+        "user_id": 21981920,
+        "reputation": 1,
+        "display_name": "Byxis"
+      },
+      "answers": [
+        {
+          "owner": {
+            "account_id": 13055830,
+            "user_type": "registered",
+            "user_id": 9434729,
+            "reputation": 133,
+            "display_name": "Jelmen"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1685431320,
+          "answer_id": 76362439,
+          "question_id": 76360485,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/76360485/how-can-i-fix-classnotfoundexception-for-main-class-in-my-minecraft-plugin-on",
+      "last_activity_date": 1685431983,
+      "creation_date": 1685396825,
+      "answer_count": 1,
+      "title": "How can I fix &#39;ClassNotFoundException&#39; for main class in my Minecraft plugin on Intellij Idea 2023.1.2?",
+      "question_id": 76360485,
+      "tags": [
+        "java",
+        "server",
+        "minecraft"
+      ],
+      "score": 0,
+      "is_answered": false,
+      "view_count": 22,
+      "last_edit_date": 1685431983
+    },
+    {
+      "owner": {
+        "account_id": 11996741,
+        "user_type": "registered",
+        "user_id": 8778025,
+        "reputation": 73,
+        "display_name": "Prasad"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76358670/jackson-custom-deserializer-dropped-some-fields-inside-the-deserializer-method",
+      "last_activity_date": 1685431961,
+      "creation_date": 1685374968,
+      "answer_count": 0,
+      "title": "Jackson custom deserializer dropped some fields inside the deserializer method",
+      "question_id": 76358670,
+      "tags": [
+        "java",
+        "json",
+        "jackson"
+      ],
+      "score": 0,
+      "is_answered": false,
+      "view_count": 23,
+      "last_edit_date": 1685431961
+    },
+    {
+      "owner": {
+        "account_id": 19890160,
+        "user_type": "registered",
+        "user_id": 15374972,
+        "reputation": 79,
+        "display_name": "Java"
+      },
+      "score": 0,
+      "answers": [
+        {
+          "owner": {
+            "account_id": 17520379,
+            "user_type": "registered",
+            "user_id": 12706564,
+            "reputation": 1458,
+            "display_name": "Emanuel Trandafir"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1685431907,
+          "answer_id": 76362509,
+          "question_id": 76359400,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/76359400/how-to-avoid-strict-stubbing-argument-mismatch-in-java",
+      "last_activity_date": 1685431907,
+      "is_answered": false,
+      "creation_date": 1685382668,
+      "answer_count": 1,
+      "title": "How to avoid strict stubbing argument mismatch in java",
+      "question_id": 76359400,
+      "view_count": 21,
+      "tags": [
+        "java",
+        "junit",
+        "mockito"
+      ]
+    },
+    {
+      "owner": {
+        "account_id": 1408815,
+        "user_type": "registered",
+        "user_id": 1811348,
+        "reputation": 1970,
+        "display_name": "swapyonubuntu",
+        "accept_rate": 88
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76362442/using-second-field-for-same-column-in-entity-for-hashcode-equals-and-entity-mana",
+      "last_activity_date": 1685431809,
+      "creation_date": 1685431350,
+      "answer_count": 0,
+      "title": "Using second field for same column in entity for hashcode equals and entity management",
+      "question_id": 76362442,
+      "tags": [
+        "java",
+        "hibernate",
+        "spring-data-jpa"
+      ],
+      "score": 0,
+      "is_answered": false,
+      "view_count": 11,
+      "last_edit_date": 1685431809
+    },
+    {
+      "owner": {
+        "account_id": 6851610,
+        "user_type": "registered",
+        "user_id": 5268629,
+        "reputation": 21,
+        "display_name": "Sandeep Jaluthairya"
+      },
+      "answers": [
+        {
+          "owner": {
+            "account_id": 552904,
+            "user_type": "registered",
+            "user_id": 918176,
+            "reputation": 1770,
+            "display_name": "user918176",
+            "accept_rate": 100
+          },
+          "comment_count": 1,
+          "is_accepted": false,
+          "creation_date": 1447881477,
+          "answer_id": 33790577,
+          "question_id": 32588120,
+          "up_vote_count": 2
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/32588120/how-to-convert-java-annotation-to-go-code",
+      "last_activity_date": 1685431267,
+      "creation_date": 1442325714,
+      "answer_count": 1,
+      "title": "how to convert java annotation to go code?",
+      "question_id": 32588120,
+      "tags": [
+        "java",
+        "go"
+      ],
+      "score": 2,
+      "is_answered": true,
+      "view_count": 2168,
+      "last_edit_date": 1540248301
+    },
+    {
+      "owner": {
+        "account_id": 19904499,
+        "user_type": "registered",
+        "user_id": 14583857,
+        "reputation": 35,
+        "display_name": "Mr.Roy"
+      },
+      "score": 1,
+      "answers": [
+        {
+          "owner": {
+            "account_id": 23087810,
+            "user_type": "registered",
+            "user_id": 17199077,
+            "reputation": 1,
+            "display_name": "Chaitanya Patil"
+          },
+          "comment_count": 1,
+          "is_accepted": false,
+          "creation_date": 1634714211,
+          "answer_id": 69641803,
+          "question_id": 68596596,
+          "up_vote_count": 0
+        },
+        {
+          "owner": {
+            "account_id": 22661439,
+            "user_type": "registered",
+            "user_id": 16834474,
+            "reputation": 21,
+            "display_name": "Ahmed Nafe3"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1667986285,
+          "answer_id": 74372598,
+          "question_id": 68596596,
+          "up_vote_count": 0
+        },
+        {
+          "owner": {
+            "account_id": 27031380,
+            "user_type": "registered",
+            "user_id": 20587685,
+            "reputation": 1,
+            "display_name": "Ravikant2000 Official"
+          },
+          "comment_count": 1,
+          "is_accepted": false,
+          "creation_date": 1685430997,
+          "answer_id": 76362410,
+          "question_id": 68596596,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/68596596/error-creating-bean-with-name-userrepo-defined-in-com-example-jpa-repository",
+      "last_activity_date": 1685430997,
+      "is_answered": false,
+      "creation_date": 1627675753,
+      "answer_count": 3,
+      "title": "Error creating bean with name &#39;userRepo&#39; defined in com.example.jpa.repository",
+      "question_id": 68596596,
+      "view_count": 16838,
+      "tags": [
+        "java",
+        "spring",
+        "jpa",
+        "crud"
+      ]
+    },
+    {
+      "owner": {
+        "account_id": 1597267,
+        "user_type": "registered",
+        "user_id": 1479046,
+        "reputation": 399,
+        "display_name": "Vawani",
+        "accept_rate": 81
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76362369/mapping-stored-procedure-result-set-to-entity-pojo-using-spring-jpa-with-sql-ser",
+      "last_activity_date": 1685430920,
+      "creation_date": 1685430610,
+      "answer_count": 0,
+      "title": "Mapping stored procedure result set to entity/POJO using Spring JPA with SQL Server - SQLGrammarException",
+      "question_id": 76362369,
+      "tags": [
+        "java",
+        "spring",
+        "spring-data-jpa",
+        "repository"
+      ],
+      "score": 0,
+      "is_answered": false,
+      "view_count": 10,
+      "last_edit_date": 1685430920
+    },
+    {
+      "owner": {
+        "account_id": 7220277,
+        "user_type": "registered",
+        "user_id": 5511084,
+        "reputation": 1495,
+        "display_name": "Berkin",
+        "accept_rate": 36
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76342083/failed-to-initialize-jpa-file-must-exist-error-in-kubernetes",
+      "last_activity_date": 1685430890,
+      "creation_date": 1685113844,
+      "answer_count": 0,
+      "title": "Failed to initialize JPA File Must Exist Error In Kubernetes",
+      "question_id": 76342083,
+      "tags": [
+        "java",
+        "spring-boot",
+        "hibernate",
+        "jpa"
+      ],
+      "score": 2,
+      "is_answered": false,
+      "view_count": 33,
+      "last_edit_date": 1685430890
+    },
+    {
+      "owner": {
+        "account_id": 24834833,
+        "user_type": "registered",
+        "user_id": 18713610,
+        "reputation": 61,
+        "display_name": "greta calamari"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 0,
+      "link": "https://stackoverflow.com/questions/76362370/how-to-bypass-usb-device-access-pop-up-android",
+      "last_activity_date": 1685430618,
+      "is_answered": false,
+      "creation_date": 1685430618,
+      "answer_count": 0,
+      "title": "How to Bypass Usb Device access pop up android?",
+      "question_id": 76362370,
+      "view_count": 8,
+      "tags": [
+        "java",
+        "android",
+        "usb"
+      ]
+    },
+    {
+      "owner": {
+        "account_id": 11067636,
+        "user_type": "registered",
+        "user_id": 8126924,
+        "reputation": 65,
+        "display_name": "Vamsi Jayavarapu"
+      },
+      "closed_date": 1685433961,
+      "link": "https://stackoverflow.com/questions/76362336/quarkus-vs-springboot",
+      "last_activity_date": 1685430367,
+      "creation_date": 1685430367,
+      "answer_count": 0,
+      "title": "Quarkus vs Springboot",
+      "question_id": 76362336,
+      "tags": [
+        "java",
+        "spring-boot",
+        "architecture",
+        "quarkus"
+      ],
+      "score": -3,
+      "closed_reason": "Not suitable for this site",
+      "is_answered": false,
+      "view_count": 18
+    },
+    {
+      "owner": {
+        "account_id": 921520,
+        "user_type": "registered",
+        "user_id": 953146,
+        "reputation": 415,
+        "display_name": "lotfi",
+        "accept_rate": 17
+      },
+      "answers": [
+        {
+          "owner": {
+            "account_id": 1630724,
+            "user_type": "registered",
+            "user_id": 1505341,
+            "reputation": 2857,
+            "display_name": "Kerem"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1487514522,
+          "answer_id": 42328422,
+          "question_id": 34314695,
+          "up_vote_count": 5
+        },
+        {
+          "owner": {
+            "account_id": 2550419,
+            "user_type": "registered",
+            "user_id": 2214286,
+            "reputation": 159,
+            "display_name": "Napster",
+            "accept_rate": 100
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1487745858,
+          "answer_id": 42384443,
+          "question_id": 34314695,
+          "up_vote_count": 3
+        },
+        {
+          "owner": {
+            "account_id": 968019,
+            "user_type": "registered",
+            "user_id": 991094,
+            "reputation": 5611,
+            "display_name": "Sreehari",
+            "accept_rate": 91
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1487756269,
+          "answer_id": 42387776,
+          "question_id": 34314695,
+          "up_vote_count": 0
+        },
+        {
+          "owner": {
+            "account_id": 9166619,
+            "user_type": "registered",
+            "user_id": 6815931,
+            "reputation": 3519,
+            "display_name": "Ready Android",
+            "accept_rate": 14
+          },
+          "comment_count": 1,
+          "is_accepted": false,
+          "creation_date": 1501323290,
+          "answer_id": 45388038,
+          "question_id": 34314695,
+          "up_vote_count": 5
+        },
+        {
+          "owner": {
+            "account_id": 2588319,
+            "user_type": "registered",
+            "user_id": 2243501,
+            "reputation": 1709,
+            "display_name": "Dusk",
+            "accept_rate": 75
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1542096291,
+          "answer_id": 53276391,
+          "question_id": 34314695,
+          "up_vote_count": 1
+        },
+        {
+          "owner": {
+            "account_id": 8253190,
+            "user_type": "registered",
+            "user_id": 6207124,
+            "reputation": 161,
+            "display_name": "renzherl"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1566823413,
+          "answer_id": 57658161,
+          "question_id": 34314695,
+          "up_vote_count": 1
+        },
+        {
+          "owner": {
+            "account_id": 7152814,
+            "user_type": "registered",
+            "user_id": 5466248,
+            "reputation": 599,
+            "display_name": "sudharsan chandrasekaran",
+            "accept_rate": 50
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1685430182,
+          "answer_id": 76362317,
+          "question_id": 34314695,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/34314695/failure-retrofit-retrofiterror-307-temporary-redirect",
+      "last_activity_date": 1685430182,
+      "creation_date": 1450276404,
+      "answer_count": 7,
+      "title": "failure : retrofit.RetrofitError: 307 Temporary Redirect?",
+      "question_id": 34314695,
+      "tags": [
+        "java",
+        "android",
+        "retrofit"
+      ],
+      "score": 19,
+      "is_answered": true,
+      "view_count": 5460,
+      "last_edit_date": 1487251467
+    },
+    {
+      "owner": {
+        "account_id": 4239196,
+        "user_type": "registered",
+        "user_id": 3469592,
+        "reputation": 1637,
+        "display_name": "godfatherofpolka",
+        "accept_rate": 60
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 2,
+      "link": "https://stackoverflow.com/questions/76362308/create-png-without-text-anti-aliasing-in-java-11-on-mac-os-x",
+      "last_activity_date": 1685430079,
+      "is_answered": false,
+      "creation_date": 1685430079,
+      "answer_count": 0,
+      "title": "Create PNG without Text Anti-Aliasing in Java 11 on Mac OS X",
+      "question_id": 76362308,
+      "view_count": 17,
+      "tags": [
+        "java",
+        "macos",
+        "java-11",
+        "graphics2d"
+      ]
+    },
+    {
+      "owner": {
+        "account_id": 3731659,
+        "user_type": "registered",
+        "user_id": 3103802,
+        "reputation": 3093,
+        "display_name": "Saveendra Ekanayake",
+        "accept_rate": 73
+      },
+      "answers": [
+        {
+          "owner": {
+            "account_id": 1202195,
+            "user_type": "registered",
+            "user_id": 1172611,
+            "reputation": 3606,
+            "display_name": "shazinltc",
+            "accept_rate": 88
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1467275846,
+          "answer_id": 38117932,
+          "question_id": 38117717,
+          "up_vote_count": 0
+        },
+        {
+          "owner": {
+            "account_id": 4171274,
+            "user_type": "registered",
+            "user_id": 3418978,
+            "reputation": 650,
+            "display_name": "Maulik Patel"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1467276126,
+          "answer_id": 38118045,
+          "question_id": 38117717,
+          "up_vote_count": 8
+        },
+        {
+          "owner": {
+            "account_id": 4072209,
+            "user_type": "registered",
+            "user_id": 3344829,
+            "reputation": 12597,
+            "display_name": "Saravana",
+            "accept_rate": 67
+          },
+          "comment_count": 4,
+          "is_accepted": false,
+          "creation_date": 1467291698,
+          "answer_id": 38123930,
+          "question_id": 38117717,
+          "up_vote_count": 57
+        },
+        {
+          "owner": {
+            "account_id": 3731659,
+            "user_type": "registered",
+            "user_id": 3103802,
+            "reputation": 3093,
+            "display_name": "Saveendra Ekanayake",
+            "accept_rate": 73
+          },
+          "comment_count": 3,
+          "is_accepted": false,
+          "creation_date": 1468946462,
+          "answer_id": 38464143,
+          "question_id": 38117717,
+          "up_vote_count": 5
+        },
+        {
+          "owner": {
+            "account_id": 9964013,
+            "user_type": "registered",
+            "user_id": 7372285,
+            "reputation": 215,
+            "display_name": "sharath"
+          },
+          "comment_count": 1,
+          "is_accepted": false,
+          "creation_date": 1484095664,
+          "answer_id": 41581004,
+          "question_id": 38117717,
+          "up_vote_count": 5
+        },
+        {
+          "owner": {
+            "account_id": 11506037,
+            "user_type": "registered",
+            "user_id": 8432237,
+            "reputation": 1545,
+            "display_name": "NeeruKSingh",
+            "accept_rate": 50
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1509005904,
+          "answer_id": 46949124,
+          "question_id": 38117717,
+          "up_vote_count": 5
+        },
+        {
+          "owner": {
+            "account_id": 12983409,
+            "user_type": "registered",
+            "user_id": 9385037,
+            "reputation": 61,
+            "display_name": "Ridha10"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1519122012,
+          "answer_id": 48882913,
+          "question_id": 38117717,
+          "up_vote_count": 6
+        },
+        {
+          "owner": {
+            "account_id": 8056844,
+            "user_type": "registered",
+            "user_id": 6073695,
+            "reputation": 2211,
+            "display_name": "Mark Norman"
+          },
+          "comment_count": 9,
+          "is_accepted": true,
+          "creation_date": 1524790704,
+          "answer_id": 50053782,
+          "question_id": 38117717,
+          "up_vote_count": 185
+        },
+        {
+          "owner": {
+            "account_id": 2056278,
+            "user_type": "registered",
+            "user_id": 1833961,
+            "reputation": 22379,
+            "display_name": "bvdb",
+            "accept_rate": 54
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1593509160,
+          "answer_id": 62654290,
+          "question_id": 38117717,
+          "up_vote_count": 0
+        },
+        {
+          "owner": {
+            "account_id": 2093262,
+            "user_type": "registered",
+            "user_id": 1862590,
+            "reputation": 8113,
+            "display_name": "Sathiamoorthy"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1597909433,
+          "answer_id": 63500498,
+          "question_id": 38117717,
+          "up_vote_count": 10
+        },
+        {
+          "owner": {
+            "account_id": 2093262,
+            "user_type": "registered",
+            "user_id": 1862590,
+            "reputation": 8113,
+            "display_name": "Sathiamoorthy"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1598445289,
+          "answer_id": 63597817,
+          "question_id": 38117717,
+          "up_vote_count": 3
+        },
+        {
+          "owner": {
+            "account_id": 4200044,
+            "user_type": "registered",
+            "user_id": 3440376,
+            "reputation": 3440,
+            "display_name": "tan9"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1599103612,
+          "answer_id": 63716348,
+          "question_id": 38117717,
+          "up_vote_count": 0
+        },
+        {
+          "owner": {
+            "account_id": 480617,
+            "user_type": "registered",
+            "user_id": 893952,
+            "reputation": 2359,
+            "display_name": "Harry Coder",
+            "accept_rate": 57
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1660535486,
+          "answer_id": 73356754,
+          "question_id": 38117717,
+          "up_vote_count": 0
+        },
+        {
+          "owner": {
+            "account_id": 6511,
+            "user_type": "registered",
+            "user_id": 10980,
+            "reputation": 4376,
+            "display_name": "Rejeev Divakaran",
+            "accept_rate": 60
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1666211797,
+          "answer_id": 74131604,
+          "question_id": 38117717,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/38117717/what-is-the-best-way-to-return-different-types-of-responseentity-in-spring-boot",
+      "last_activity_date": 1685429835,
+      "creation_date": 1467275170,
+      "answer_count": 14,
+      "title": "What is the best way to return different types of ResponseEntity in Spring-Boot (Error Handling for REST with Spring)",
+      "question_id": 38117717,
+      "tags": [
+        "java",
+        "spring",
+        "spring-boot",
+        "rest",
+        "error-handling"
+      ],
+      "score": 106,
+      "accepted_answer_id": 50053782,
+      "is_answered": true,
+      "view_count": 256254,
+      "last_edit_date": 1685429835
+    },
+    {
+      "owner": {
+        "account_id": 22487072,
+        "user_type": "registered",
+        "user_id": 16685312,
+        "reputation": 1,
+        "display_name": "YongAn"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76361979/how-can-i-make-my-web-application-running-on-windows-server-access-the-network-d",
+      "last_activity_date": 1685429810,
+      "creation_date": 1685426742,
+      "answer_count": 0,
+      "title": "How can I make my web application running on Windows Server access the network drive using Apache Tomcat?",
+      "question_id": 76361979,
+      "tags": [
+        "java",
+        "tomcat",
+        "networking",
+        "windows-server-2016"
+      ],
+      "score": 0,
+      "is_answered": false,
+      "view_count": 15,
+      "last_edit_date": 1685429810
+    },
+    {
+      "owner": {
+        "account_id": 326907,
+        "user_type": "registered",
+        "user_id": 648927,
+        "reputation": 6553,
+        "display_name": "algorithmicCoder",
+        "accept_rate": 64
+      },
+      "answers": [
+        {
+          "owner": {
+            "account_id": 155770,
+            "user_type": "registered",
+            "user_id": 372643,
+            "reputation": 118799,
+            "display_name": "Bruno",
+            "accept_rate": 88
+          },
+          "comment_count": 1,
+          "is_accepted": true,
+          "creation_date": 1308241282,
+          "answer_id": 6375210,
+          "question_id": 6375179,
+          "up_vote_count": 31
+        },
+        {
+          "owner": {
+            "account_id": 65732,
+            "user_type": "registered",
+            "user_id": 193256,
+            "reputation": 15750,
+            "display_name": "pajton",
+            "accept_rate": 65
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1308241294,
+          "answer_id": 6375212,
+          "question_id": 6375179,
+          "up_vote_count": 3
+        },
+        {
+          "owner": {
+            "account_id": 326411,
+            "user_type": "registered",
+            "user_id": 648169,
+            "reputation": 510,
+            "display_name": "Xenland",
+            "accept_rate": 55
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1339193710,
+          "answer_id": 10956642,
+          "question_id": 6375179,
+          "up_vote_count": 2
+        },
+        {
+          "owner": {
+            "account_id": 1227129,
+            "user_type": "registered",
+            "user_id": 1192479,
+            "reputation": 9505,
+            "display_name": "Ant&#243;nio Almeida",
+            "accept_rate": 100
+          },
+          "comment_count": 1,
+          "is_accepted": false,
+          "creation_date": 1407173989,
+          "answer_id": 25124461,
+          "question_id": 6375179,
+          "up_vote_count": 4
+        },
+        {
+          "owner": {
+            "account_id": 10705924,
+            "user_type": "registered",
+            "user_id": 7879734,
+            "reputation": 29,
+            "display_name": "Mewan"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1535430026,
+          "answer_id": 52050033,
+          "question_id": 6375179,
+          "up_vote_count": 2
+        },
+        {
+          "owner": {
+            "account_id": 4900330,
+            "user_type": "registered",
+            "user_id": 3948854,
+            "reputation": 3817,
+            "display_name": "Rishabh Sagar"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1574244875,
+          "answer_id": 58951797,
+          "question_id": 6375179,
+          "up_vote_count": 0
+        },
+        {
+          "owner": {
+            "account_id": 11856290,
+            "user_type": "registered",
+            "user_id": 8676204,
+            "reputation": 1,
+            "display_name": "Khasanboy"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1598615766,
+          "answer_id": 63633326,
+          "question_id": 6375179,
+          "up_vote_count": 0
+        },
+        {
+          "owner": {
+            "account_id": 19542302,
+            "user_type": "registered",
+            "user_id": 14492099,
+            "reputation": 417,
+            "display_name": "Dzmitry Darashuk"
+          },
+          "comment_count": 1,
+          "is_accepted": false,
+          "creation_date": 1622536073,
+          "answer_id": 67785322,
+          "question_id": 6375179,
+          "up_vote_count": 31
+        },
+        {
+          "owner": {
+            "account_id": 17199208,
+            "user_type": "registered",
+            "user_id": 12451309,
+            "reputation": 123,
+            "display_name": "Rinkashikachi"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1626352082,
+          "answer_id": 68393839,
+          "question_id": 6375179,
+          "up_vote_count": 0
+        },
+        {
+          "owner": {
+            "account_id": 7062643,
+            "user_type": "registered",
+            "user_id": 5407229,
+            "reputation": 569,
+            "display_name": "Joshua Swain"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1651841336,
+          "answer_id": 72141725,
+          "question_id": 6375179,
+          "up_vote_count": 0
+        },
+        {
+          "owner": {
+            "account_id": 26516418,
+            "user_type": "registered",
+            "user_id": 20150875,
+            "reputation": 1,
+            "display_name": "Kant Lee"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1683625386,
+          "answer_id": 76207929,
+          "question_id": 6375179,
+          "up_vote_count": 0
+        },
+        {
+          "owner": {
+            "account_id": 11843427,
+            "user_type": "registered",
+            "user_id": 8666620,
+            "reputation": 39,
+            "display_name": "Marcos Randulfe Garrido"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1685429574,
+          "answer_id": 76362247,
+          "question_id": 6375179,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/6375179/java-package-does-not-exist-error",
+      "last_activity_date": 1685429574,
+      "creation_date": 1308241142,
+      "answer_count": 12,
+      "title": "Java Package Does Not Exist Error",
+      "question_id": 6375179,
+      "tags": [
+        "java",
+        "import",
+        "package"
+      ],
+      "score": 49,
+      "accepted_answer_id": 6375210,
+      "is_answered": true,
+      "view_count": 382988
+    },
+    {
+      "owner": {
+        "account_id": 4660419,
+        "user_type": "registered",
+        "user_id": 3774834,
+        "reputation": 693,
+        "display_name": "SMSk",
+        "accept_rate": 80
+      },
+      "answers": [
+        {
+          "owner": {
+            "account_id": 2413237,
+            "user_type": "registered",
+            "user_id": 2107876,
+            "reputation": 31044,
+            "display_name": "laune",
+            "accept_rate": 88
+          },
+          "comment_count": 4,
+          "is_accepted": true,
+          "creation_date": 1427457786,
+          "answer_id": 29300233,
+          "question_id": 29300172,
+          "up_vote_count": 3
+        },
+        {
+          "owner": {
+            "account_id": 1339795,
+            "user_type": "registered",
+            "user_id": 1281721,
+            "reputation": 1135,
+            "display_name": "Shane Voisard"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1427458242,
+          "answer_id": 29300363,
+          "question_id": 29300172,
+          "up_vote_count": 0
+        },
+        {
+          "owner": {
+            "account_id": 4354218,
+            "user_type": "registered",
+            "user_id": 3553424,
+            "reputation": 568,
+            "display_name": "Naveen Thiyagarajan"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1561136507,
+          "answer_id": 56707713,
+          "question_id": 29300172,
+          "up_vote_count": 1
+        },
+        {
+          "owner": {
+            "account_id": 17750,
+            "user_type": "registered",
+            "user_id": 40064,
+            "reputation": 24730,
+            "display_name": "Wim Deblauwe",
+            "accept_rate": 69
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1685429457,
+          "answer_id": 76362232,
+          "question_id": 29300172,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/29300172/java-processbuilder-cant-find-file-in-path",
+      "last_activity_date": 1685429457,
+      "creation_date": 1427457536,
+      "answer_count": 4,
+      "title": "Java ProcessBuilder can&#39;t find file in PATH",
+      "question_id": 29300172,
+      "tags": [
+        "java",
+        "curl"
+      ],
+      "score": 3,
+      "accepted_answer_id": 29300233,
+      "is_answered": true,
+      "view_count": 7955
+    },
+    {
+      "owner": {
+        "account_id": 16178519,
+        "user_type": "registered",
+        "user_id": 11680615,
+        "reputation": 1,
+        "display_name": "sady rifat"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76362215/is-it-possible-to-add-a-licensing-system-while-a-dependency-download-from-the-ne",
+      "last_activity_date": 1685429413,
+      "creation_date": 1685429323,
+      "answer_count": 0,
+      "title": "Is it possible to add a licensing system while a dependency download from the Nexus repo?",
+      "question_id": 76362215,
+      "tags": [
+        "java",
+        "maven",
+        "nexus",
+        "licensing"
+      ],
+      "score": 0,
+      "is_answered": false,
+      "view_count": 11,
+      "last_edit_date": 1685429413
+    },
+    {
+      "owner": {
+        "account_id": 2901678,
+        "user_type": "registered",
+        "user_id": 2488180,
+        "reputation": 1,
+        "display_name": "Left Handed"
+      },
+      "score": 0,
+      "answers": [
+        {
+          "owner": {
+            "account_id": 21257490,
+            "user_type": "registered",
+            "user_id": 15638753,
+            "reputation": 11,
+            "display_name": "ChrisMersi"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1685429410,
+          "answer_id": 76362223,
+          "question_id": 76358382,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/76358382/appium-execute-one-more-test-class-based-on-one-device-not-parallel",
+      "last_activity_date": 1685429410,
+      "is_answered": false,
+      "creation_date": 1685372359,
+      "answer_count": 1,
+      "title": "Appium (execute one more test class based on one device - not parallel)",
+      "question_id": 76358382,
+      "view_count": 10,
+      "tags": [
+        "java",
+        "xml",
+        "maven",
+        "testng",
+        "appium"
+      ]
+    },
+    {
+      "owner": {
+        "account_id": 25266045,
+        "user_type": "registered",
+        "user_id": 19096205,
+        "reputation": 141,
+        "display_name": "Gojo"
+      },
+      "score": 0,
+      "answers": [
+        {
+          "owner": {
+            "account_id": 13885352,
+            "user_type": "registered",
+            "user_id": 10024619,
+            "reputation": 21,
+            "display_name": "Ali Hussain Moosakhan"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1685429389,
+          "answer_id": 76362219,
+          "question_id": 76010420,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/76010420/owasp-esapi-logger-not-working-with-java-17-spring-boot-3",
+      "last_activity_date": 1685429389,
+      "is_answered": false,
+      "creation_date": 1681426658,
+      "answer_count": 1,
+      "title": "OWASP ESAPI Logger not working with Java 17/Spring boot 3",
+      "question_id": 76010420,
+      "view_count": 157,
+      "tags": [
+        "java",
+        "spring-boot",
+        "maven",
+        "log4j",
+        "owasp"
+      ]
+    },
+    {
+      "owner": {
+        "account_id": 21529775,
+        "user_type": "registered",
+        "user_id": 15869413,
+        "reputation": 1,
+        "display_name": "Faheem Talib"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76362209/i-am-trying-to-import-a-csv-file-but-getting-the-following-errors",
+      "last_activity_date": 1685429355,
+      "creation_date": 1685429293,
+      "answer_count": 0,
+      "title": "I am Trying to import a CSV file but getting the following errors",
+      "question_id": 76362209,
+      "tags": [
+        "java",
+        "count",
+        "import-csv"
+      ],
+      "score": -1,
+      "is_answered": false,
+      "view_count": 26,
+      "last_edit_date": 1685429355
+    },
+    {
+      "owner": {
+        "account_id": 10276322,
+        "user_type": "registered",
+        "user_id": 7583108,
+        "reputation": 941,
+        "display_name": "Bruno Miguel"
+      },
+      "answers": [
+        {
+          "owner": {
+            "account_id": 3896319,
+            "user_type": "registered",
+            "user_id": 3225260,
+            "reputation": 2980,
+            "display_name": "mad_fox",
+            "accept_rate": 45
+          },
+          "comment_count": 2,
+          "is_accepted": false,
+          "creation_date": 1545152128,
+          "answer_id": 53837745,
+          "question_id": 53836776,
+          "up_vote_count": 6
+        },
+        {
+          "owner": {
+            "account_id": 8186103,
+            "user_type": "registered",
+            "user_id": 6161878,
+            "reputation": 363,
+            "display_name": "Radu Sebastian LAZIN"
+          },
+          "comment_count": 0,
+          "is_accepted": true,
+          "creation_date": 1631246690,
+          "answer_id": 69127137,
+          "question_id": 53836776,
+          "up_vote_count": 6
+        },
+        {
+          "owner": {
+            "account_id": 26632345,
+            "user_type": "registered",
+            "user_id": 20249350,
+            "reputation": 11,
+            "display_name": "Hassen Gaaya"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1685270361,
+          "answer_id": 76351059,
+          "question_id": 53836776,
+          "up_vote_count": 1
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/53836776/lazyinitializationexception-spring-boot",
+      "last_activity_date": 1685429350,
+      "creation_date": 1545148618,
+      "answer_count": 3,
+      "title": "LazyInitializationException Spring Boot",
+      "question_id": 53836776,
+      "tags": [
+        "java",
+        "spring",
+        "spring-data-jpa"
+      ],
+      "score": 8,
+      "accepted_answer_id": 69127137,
+      "is_answered": true,
+      "view_count": 11594,
+      "last_edit_date": 1545149207
+    },
+    {
+      "owner": {
+        "account_id": 4398735,
+        "user_type": "registered",
+        "user_id": 3585050,
+        "reputation": 1363,
+        "display_name": "reza ramezani matin",
+        "accept_rate": 31
+      },
+      "answers": [
+        {
+          "owner": {
+            "account_id": 322981,
+            "user_type": "registered",
+            "user_id": 642706,
+            "reputation": 296764,
+            "display_name": "Basil Bourque",
+            "accept_rate": 58
+          },
+          "comment_count": 5,
+          "is_accepted": true,
+          "creation_date": 1685345165,
+          "answer_id": 76355398,
+          "question_id": 76355259,
+          "up_vote_count": 1
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/76355259/problem-of-java-util-date-in-numeric-format-is-resteasy-client",
+      "last_activity_date": 1685429194,
+      "creation_date": 1685343653,
+      "answer_count": 1,
+      "title": "Problem of Java.util.Date in numeric format is resteasy client",
+      "question_id": 76355259,
+      "tags": [
+        "java",
+        "json",
+        "date",
+        "glassfish",
+        "resteasy"
+      ],
+      "score": 0,
+      "accepted_answer_id": 76355398,
+      "is_answered": true,
+      "view_count": 18,
+      "last_edit_date": 1685429194
+    },
+    {
+      "owner": {
+        "account_id": 28339622,
+        "user_type": "registered",
+        "user_id": 21672849,
+        "reputation": 1,
+        "display_name": "Bhavya Vats"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76362161/java-lang-illegalargumentexception-database-name-must-not-be-empty",
+      "last_activity_date": 1685429021,
+      "creation_date": 1685428946,
+      "answer_count": 0,
+      "title": "java.lang.IllegalArgumentException: Database name must not be empty",
+      "question_id": 76362161,
+      "tags": [
+        "java",
+        "mongodb",
+        "spring-boot"
+      ],
+      "score": 0,
+      "is_answered": false,
+      "view_count": 20,
+      "last_edit_date": 1685429021
+    },
+    {
+      "owner": {
+        "account_id": 7160761,
+        "user_type": "registered",
+        "user_id": 5471598,
+        "reputation": 97,
+        "display_name": "Ricardo",
+        "accept_rate": 71
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76339646/c2-jit-thread-takes-a-long-time-whilst-consuming-wast-amounts-of-memory",
+      "last_activity_date": 1685428911,
+      "creation_date": 1685094780,
+      "answer_count": 0,
+      "title": "C2 JIT Thread takes a long time whilst consuming wast amounts of memory",
+      "question_id": 76339646,
+      "tags": [
+        "java",
+        "multithreading",
+        "memory",
+        "jvm",
+        "jit"
+      ],
+      "score": 0,
+      "is_answered": false,
+      "view_count": 23,
+      "last_edit_date": 1685428911
+    },
+    {
+      "owner": {
+        "account_id": 28236339,
+        "user_type": "registered",
+        "user_id": 21584740,
+        "reputation": 11,
+        "display_name": "eynoc"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76359180/element-colletion-with-nested-embeddable-doesnt-work",
+      "last_activity_date": 1685428673,
+      "creation_date": 1685380223,
+      "answer_count": 0,
+      "title": "Element colletion with nested embeddable doesn&#39;t work",
+      "question_id": 76359180,
+      "tags": [
+        "java",
+        "mysql",
+        "spring-boot",
+        "hibernate",
+        "jpa"
+      ],
+      "score": 0,
+      "is_answered": false,
+      "view_count": 33,
+      "last_edit_date": 1685428673
+    },
+    {
+      "owner": {
+        "account_id": 26594418,
+        "user_type": "registered",
+        "user_id": 20217050,
+        "reputation": 5,
+        "display_name": "what&#39;s_in_a_name"
+      },
+      "answers": [
+        {
+          "owner": {
+            "account_id": 25046168,
+            "user_type": "registered",
+            "user_id": 18902563,
+            "reputation": 142,
+            "display_name": "skillup"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1685414542,
+          "answer_id": 76361310,
+          "question_id": 76360828,
+          "up_vote_count": 0
+        },
+        {
+          "owner": {
+            "account_id": 104440,
+            "user_type": "registered",
+            "user_id": 279236,
+            "reputation": 5414,
+            "display_name": "jwenting"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1685428524,
+          "answer_id": 76362116,
+          "question_id": 76360828,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/76360828/updating-log4j-version-1-2-version-to-2-16-0-or-later",
+      "last_activity_date": 1685428524,
+      "creation_date": 1685403275,
+      "answer_count": 2,
+      "title": "updating log4j version 1.2 version to 2.16.0 or later",
+      "question_id": 76360828,
+      "tags": [
+        "java",
+        "maven",
+        "pom.xml"
+      ],
+      "score": 0,
+      "is_answered": false,
+      "view_count": 26,
+      "last_edit_date": 1685403345
+    },
+    {
+      "owner": {
+        "account_id": 28707528,
+        "user_type": "registered",
+        "user_id": 21983585,
+        "reputation": 1,
+        "display_name": "thirteen"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 0,
+      "link": "https://stackoverflow.com/questions/76362079/how-to-hide-console-log-output-and-display-only-test-results-in-springboot-unit",
+      "last_activity_date": 1685428030,
+      "is_answered": false,
+      "creation_date": 1685428030,
+      "answer_count": 0,
+      "title": "How to hide console log output and display only test results in SpringBoot unit tests?",
+      "question_id": 76362079,
+      "view_count": 18,
+      "tags": [
+        "java",
+        "testing",
+        "logging"
+      ]
+    },
+    {
+      "owner": {
+        "account_id": 5513833,
+        "user_type": "registered",
+        "user_id": 4379297,
+        "reputation": 1,
+        "display_name": "Nilesh"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76357558/how-to-convert-pcollection-to-list-collection-in-apache-beam-using-java",
+      "last_activity_date": 1685427785,
+      "creation_date": 1685364802,
+      "answer_count": 0,
+      "title": "How to Convert PCollection to List Collection in Apache Beam using Java?",
+      "question_id": 76357558,
+      "tags": [
+        "java",
+        "apache-beam"
+      ],
+      "score": 0,
+      "is_answered": false,
+      "view_count": 14,
+      "last_edit_date": 1685427785
+    },
+    {
+      "owner": {
+        "account_id": 28668249,
+        "user_type": "registered",
+        "user_id": 21951808,
+        "reputation": 1,
+        "display_name": "Saravana"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76361859/how-to-add-urls-by-deafult-in-create-a-jazz-repository-connection-under-locatio",
+      "last_activity_date": 1685427744,
+      "creation_date": 1685425027,
+      "answer_count": 0,
+      "title": "How to add url&#39;s by deafult in create a jazz repository connection under location URI in eclipse rcp application?",
+      "question_id": 76361859,
+      "tags": [
+        "java",
+        "eclipse",
+        "eclipse-plugin",
+        "eclipse-rcp",
+        "rational-team-concert"
+      ],
+      "score": 0,
+      "is_answered": false,
+      "view_count": 16,
+      "last_edit_date": 1685427744
+    },
+    {
+      "owner": {
+        "account_id": 14202510,
+        "user_type": "registered",
+        "user_id": 10260058,
+        "reputation": 1,
+        "display_name": "chenhao597"
+      },
+      "score": 0,
+      "answers": [
+        {
+          "owner": {
+            "account_id": 2093160,
+            "user_type": "registered",
+            "user_id": 1862500,
+            "reputation": 3732,
+            "display_name": "Yohanes Gultom"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1535682864,
+          "answer_id": 52107723,
+          "question_id": 52107608,
+          "up_vote_count": 0
+        },
+        {
+          "owner": {
+            "account_id": 25498157,
+            "user_type": "registered",
+            "user_id": 19291916,
+            "reputation": 1,
+            "display_name": "James"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1667637970,
+          "answer_id": 74326336,
+          "question_id": 52107608,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/52107608/how-to-use-mnemonic-to-recovery-my-ethereum-wallet",
+      "last_activity_date": 1685427650,
+      "is_answered": false,
+      "creation_date": 1535681737,
+      "answer_count": 2,
+      "title": "How to use mnemonic to recovery my ethereum wallet",
+      "question_id": 52107608,
+      "view_count": 1472,
+      "tags": [
+        "java",
+        "ethereum",
+        "web3-java"
+      ]
+    },
+    {
+      "owner": {
+        "account_id": 16115477,
+        "user_type": "registered",
+        "user_id": 11632725,
+        "reputation": 501,
+        "display_name": "Alexander  Tukanov"
+      },
+      "closed_date": 1685288910,
+      "link": "https://stackoverflow.com/questions/76350940/spring-boot-data-gets-error-large-objects-may-not-be-used-in-auto-commit-mode",
+      "last_activity_date": 1685427463,
+      "creation_date": 1685268345,
+      "answer_count": 0,
+      "title": "Spring boot data gets error: Large Objects may not be used in auto-commit mode",
+      "question_id": 76350940,
+      "tags": [
+        "java",
+        "spring-boot",
+        "spring-data-jpa"
+      ],
+      "score": -1,
+      "closed_reason": "Duplicate",
+      "is_answered": false,
+      "view_count": 35,
+      "last_edit_date": 1685427463
+    },
+    {
+      "owner": {
+        "account_id": 28704941,
+        "user_type": "registered",
+        "user_id": 21981451,
+        "reputation": 1,
+        "display_name": "leshaddow2"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 0,
+      "link": "https://stackoverflow.com/questions/76362009/can-you-change-the-block-drops-when-mined-with-a-custom-item-in-a-fabric-1-16-5",
+      "last_activity_date": 1685427127,
+      "is_answered": false,
+      "creation_date": 1685427127,
+      "answer_count": 0,
+      "title": "Can you change the Block Drops when mined with a custom Item in a Fabric 1.16.5 Minecraft Mod",
+      "question_id": 76362009,
+      "view_count": 14,
+      "tags": [
+        "java",
+        "minecraft-fabric"
+      ]
+    },
+    {
+      "owner": {
+        "account_id": 24950425,
+        "user_type": "registered",
+        "user_id": 18815294,
+        "reputation": 49,
+        "display_name": "Khushal Singh"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 0,
+      "link": "https://stackoverflow.com/questions/76361954/context-propagation-in-spring-micrometer",
+      "last_activity_date": 1685426448,
+      "is_answered": false,
+      "creation_date": 1685426448,
+      "answer_count": 0,
+      "title": "Context Propagation in Spring Micrometer",
+      "question_id": 76361954,
+      "view_count": 12,
+      "tags": [
+        "java",
+        "spring",
+        "spring-boot",
+        "spring-micrometer"
+      ]
+    },
+    {
+      "owner": {
+        "account_id": 27316723,
+        "user_type": "registered",
+        "user_id": 20837394,
+        "reputation": 40,
+        "display_name": "Yevgeniy"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 0,
+      "link": "https://stackoverflow.com/questions/76361949/wrong-date-output-from-database-at-3-oclock",
+      "last_activity_date": 1685426399,
+      "is_answered": false,
+      "creation_date": 1685426399,
+      "answer_count": 0,
+      "title": "Wrong date output from database at 3 o&#39;clock",
+      "question_id": 76361949,
+      "view_count": 32,
+      "tags": [
+        "java",
+        "spring",
+        "postgresql"
+      ]
+    },
+    {
+      "owner": {
+        "account_id": 2979780,
+        "user_type": "registered",
+        "user_id": 2530000,
+        "reputation": 1196,
+        "display_name": "Tai",
+        "accept_rate": 81
+      },
+      "answers": [
+        {
+          "owner": {
+            "account_id": 42949,
+            "user_type": "registered",
+            "user_id": 125344,
+            "reputation": 1598,
+            "display_name": "Kevin Condon"
+          },
+          "comment_count": 1,
+          "is_accepted": true,
+          "creation_date": 1427494414,
+          "answer_id": 29311048,
+          "question_id": 29310760,
+          "up_vote_count": 6
+        },
+        {
+          "owner": {
+            "account_id": 13600189,
+            "user_type": "registered",
+            "user_id": 9811090,
+            "reputation": 1,
+            "display_name": "Neal Bamford"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1526638492,
+          "answer_id": 50409015,
+          "question_id": 29310760,
+          "up_vote_count": 0
+        },
+        {
+          "owner": {
+            "account_id": 26287725,
+            "user_type": "registered",
+            "user_id": 19955141,
+            "reputation": 1,
+            "display_name": "winson huang"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1685426358,
+          "answer_id": 76361947,
+          "question_id": 29310760,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/29310760/debugging-in-maven-with-mvndebug-command",
+      "last_activity_date": 1685426358,
+      "creation_date": 1427493098,
+      "answer_count": 3,
+      "title": "Debugging in maven with mvnDebug command",
+      "question_id": 29310760,
+      "tags": [
+        "java",
+        "maven",
+        "intellij-idea",
+        "tomcat7"
+      ],
+      "score": 8,
+      "accepted_answer_id": 29311048,
+      "is_answered": true,
+      "view_count": 19956,
+      "last_edit_date": 1495539957
+    },
+    {
+      "owner": {
+        "account_id": 16676287,
+        "user_type": "registered",
+        "user_id": 12052625,
+        "reputation": 11,
+        "display_name": "user12052625"
+      },
+      "answers": [
+        {
+          "owner": {
+            "account_id": 11380920,
+            "user_type": "registered",
+            "user_id": 8343843,
+            "reputation": 7899,
+            "display_name": "Alexey R."
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1685425827,
+          "answer_id": 76361920,
+          "question_id": 76358203,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/76358203/how-selenium-4-networkinterceptor-works-internally",
+      "last_activity_date": 1685426304,
+      "creation_date": 1685370865,
+      "answer_count": 1,
+      "title": "How Selenium 4 NetworkInterceptor works internally",
+      "question_id": 76358203,
+      "tags": [
+        "java",
+        "selenium-webdriver",
+        "bidirectional"
+      ],
+      "score": 0,
+      "is_answered": false,
+      "view_count": 13,
+      "last_edit_date": 1685379060
+    },
+    {
+      "owner": {
+        "account_id": 25154690,
+        "user_type": "registered",
+        "user_id": 21812779,
+        "reputation": 11,
+        "display_name": "Dodly Game"
+      },
+      "closed_date": 1685369814,
+      "link": "https://stackoverflow.com/questions/76358043/where-did-the-error-could-not-initialize-class-javazoom-jlgui-basicplayer-basic",
+      "last_activity_date": 1685426038,
+      "creation_date": 1685369239,
+      "answer_count": 0,
+      "title": "Where did the error &quot;Could not initialize class javazoom.jlgui.basicplayer.BasicPlayer&quot; come from?",
+      "question_id": 76358043,
+      "tags": [
+        "java",
+        "audio",
+        "mp3"
+      ],
+      "score": 0,
+      "closed_reason": "Duplicate",
+      "is_answered": false,
+      "view_count": 20,
+      "last_edit_date": 1685426038
+    },
+    {
+      "owner": {
+        "account_id": 20274833,
+        "user_type": "registered",
+        "user_id": 14870141,
+        "reputation": 45,
+        "display_name": "Trideb Chapagai"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": -2,
+      "link": "https://stackoverflow.com/questions/76361900/is-it-recommended-to-use-payara-server-instead-of-embedded-tomcat-in-a-spring-bo",
+      "last_activity_date": 1685425514,
+      "is_answered": false,
+      "creation_date": 1685425514,
+      "answer_count": 0,
+      "title": "Is it recommended to use Payara Server instead of embedded Tomcat in a Spring Boot application?",
+      "question_id": 76361900,
+      "view_count": 20,
+      "tags": [
+        "java",
+        "spring-boot",
+        "payara",
+        "embedded-tomcat"
+      ]
+    },
+    {
+      "owner": {
+        "account_id": 28683590,
+        "user_type": "registered",
+        "user_id": 21964274,
+        "reputation": 1,
+        "display_name": "woojoo"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76338143/how-to-deal-with-jython-and-moviepy-error",
+      "last_activity_date": 1685425489,
+      "creation_date": 1685082451,
+      "answer_count": 0,
+      "title": "How to deal with Jython and moviepy Error?",
+      "question_id": 76338143,
+      "tags": [
+        "python",
+        "java",
+        "spring",
+        "jython-2.7"
+      ],
+      "score": 0,
+      "is_answered": false,
+      "view_count": 19,
+      "last_edit_date": 1685425489
+    },
+    {
+      "owner": {
+        "account_id": 28668249,
+        "user_type": "registered",
+        "user_id": 21951808,
+        "reputation": 1,
+        "display_name": "Saravana"
+      },
+      "closed_date": 1685377333,
+      "link": "https://stackoverflow.com/questions/76357264/how-to-display-heap-memory-in-status-bar-of-rcp-application",
+      "last_activity_date": 1685425191,
+      "creation_date": 1685362318,
+      "answer_count": 0,
+      "title": "How to display heap memory in status bar of RCP application?",
+      "question_id": 76357264,
+      "tags": [
+        "java",
+        "eclipse",
+        "eclipse-plugin",
+        "eclipse-rcp"
+      ],
+      "score": 0,
+      "closed_reason": "Needs details or clarity",
+      "is_answered": false,
+      "view_count": 20,
+      "last_edit_date": 1685425191
+    },
+    {
+      "owner": {
+        "account_id": 28707308,
+        "user_type": "registered",
+        "user_id": 21983406,
+        "reputation": 1,
+        "display_name": "wook"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 0,
+      "link": "https://stackoverflow.com/questions/76361846/what-algorithm-value-do-i-use-when-keyalg-option-is-not-specified-in-java-1-6-k",
+      "last_activity_date": 1685424806,
+      "is_answered": false,
+      "creation_date": 1685424806,
+      "answer_count": 0,
+      "title": "What algorithm value do I use when -keyalg option is not specified in Java 1.6 keytool?",
+      "question_id": 76361846,
+      "view_count": 6,
+      "tags": [
+        "java",
+        "window",
+        "keystore",
+        "keytool"
+      ]
+    },
+    {
+      "owner": {
+        "account_id": 20357191,
+        "user_type": "registered",
+        "user_id": 14932446,
+        "reputation": 25,
+        "display_name": "AzeaL87"
+      },
+      "answers": [
+        {
+          "owner": {
+            "account_id": 4716677,
+            "user_type": "registered",
+            "user_id": 3815660,
+            "reputation": 534,
+            "display_name": "Yurii"
+          },
+          "comment_count": 7,
+          "is_accepted": false,
+          "creation_date": 1673015605,
+          "answer_id": 75032280,
+          "question_id": 75032158,
+          "up_vote_count": 1
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/75032158/how-to-get-a-users-location-in-android",
+      "last_activity_date": 1685424493,
+      "creation_date": 1673014999,
+      "answer_count": 1,
+      "title": "How to get a user&#39;s location in Android",
+      "question_id": 75032158,
+      "tags": [
+        "java",
+        "android",
+        "android-studio",
+        "geolocation"
+      ],
+      "score": -1,
+      "is_answered": true,
+      "view_count": 328,
+      "last_edit_date": 1673030212
+    },
+    {
+      "owner": {
+        "account_id": 28684946,
+        "user_type": "registered",
+        "user_id": 21965399,
+        "reputation": 1,
+        "display_name": "Arrigo Pierotti"
+      },
+      "score": 0,
+      "answers": [
+        {
+          "owner": {
+            "account_id": 1608505,
+            "user_type": "registered",
+            "user_id": 1488073,
+            "reputation": 2174,
+            "display_name": "jleleu"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1685424261,
+          "answer_id": 76361800,
+          "question_id": 76339819,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/76339819/retrieving-users-groups-from-keycloak-via-pac4j-library",
+      "last_activity_date": 1685424261,
+      "is_answered": false,
+      "creation_date": 1685095890,
+      "answer_count": 1,
+      "title": "Retrieving user&#39;s groups from Keycloak via pac4j library",
+      "question_id": 76339819,
+      "view_count": 13,
+      "tags": [
+        "java",
+        "keycloak",
+        "openid-connect",
+        "pac4j"
+      ]
+    },
+    {
+      "owner": {
+        "account_id": 52759,
+        "user_type": "registered",
+        "user_id": 157705,
+        "reputation": 21389,
+        "display_name": "jai",
+        "accept_rate": 74
+      },
+      "answers": [
+        {
+          "owner": {
+            "account_id": 16878,
+            "user_type": "registered",
+            "user_id": 37213,
+            "reputation": 304249,
+            "display_name": "duffymo",
+            "accept_rate": 81
+          },
+          "comment_count": 2,
+          "is_accepted": false,
+          "creation_date": 1256293054,
+          "answer_id": 1612536,
+          "question_id": 1612334,
+          "up_vote_count": 27
+        },
+        {
+          "owner": {
+            "account_id": 44603,
+            "user_type": "registered",
+            "user_id": 131024,
+            "reputation": 6498,
+            "display_name": "Srinivas M.V.",
+            "accept_rate": 96
+          },
+          "comment_count": 2,
+          "is_accepted": false,
+          "creation_date": 1256293893,
+          "answer_id": 1612591,
+          "question_id": 1612334,
+          "up_vote_count": 85
+        },
+        {
+          "owner": {
+            "account_id": 26957,
+            "user_type": "registered",
+            "user_id": 70604,
+            "reputation": 560248,
+            "display_name": "Pascal Thivent"
+          },
+          "comment_count": 15,
+          "is_accepted": true,
+          "creation_date": 1256295093,
+          "answer_id": 1612671,
+          "question_id": 1612334,
+          "up_vote_count": 947
+        },
+        {
+          "owner": {
+            "account_id": 2705291,
+            "user_type": "registered",
+            "user_id": 2335016,
+            "reputation": 931,
+            "display_name": "Olcay Tarazan",
+            "accept_rate": 40
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1373881756,
+          "answer_id": 17651305,
+          "question_id": 1612334,
+          "up_vote_count": 67
+        },
+        {
+          "owner": {
+            "account_id": 8698819,
+            "user_type": "registered",
+            "user_id": 6509408,
+            "reputation": 111,
+            "display_name": "Suraj Kalokhe"
+          },
+          "comment_count": 1,
+          "is_accepted": false,
+          "creation_date": 1471410011,
+          "answer_id": 38988421,
+          "question_id": 1612334,
+          "up_vote_count": 11
+        },
+        {
+          "owner": {
+            "account_id": 12422581,
+            "user_type": "registered",
+            "user_id": 9048736,
+            "reputation": 31,
+            "display_name": "ASHISH KUMAR SINGH"
+          },
+          "comment_count": 1,
+          "is_accepted": false,
+          "creation_date": 1513329944,
+          "answer_id": 47829271,
+          "question_id": 1612334,
+          "up_vote_count": 3
+        },
+        {
+          "owner": {
+            "account_id": 2904621,
+            "user_type": "registered",
+            "user_id": 2490336,
+            "reputation": 1027,
+            "display_name": "Atul Jain",
+            "accept_rate": 0
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1556888993,
+          "answer_id": 55970517,
+          "question_id": 1612334,
+          "up_vote_count": 7
+        },
+        {
+          "owner": {
+            "account_id": 7402185,
+            "user_type": "registered",
+            "user_id": 5632255,
+            "reputation": 1331,
+            "display_name": "Mehdi Rahimi",
+            "accept_rate": 88
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1685424221,
+          "answer_id": 76361797,
+          "question_id": 1612334,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/1612334/difference-between-dto-vo-pojo-javabeans",
+      "last_activity_date": 1685424221,
+      "creation_date": 1256290236,
+      "answer_count": 8,
+      "title": "Difference between DTO, VO, POJO, JavaBeans?",
+      "question_id": 1612334,
+      "tags": [
+        "java",
+        "terminology",
+        "javabeans",
+        "dto",
+        "pojo"
+      ],
+      "score": 675,
+      "accepted_answer_id": 1612671,
+      "protected_date": 1574699225,
+      "is_answered": true,
+      "view_count": 558049,
+      "last_edit_date": 1495540056
+    },
+    {
+      "owner": {
+        "account_id": 28707164,
+        "user_type": "registered",
+        "user_id": 21983284,
+        "reputation": 1,
+        "display_name": "Flammy"
+      },
+      "score": 0,
+      "answers": [
+        {
+          "owner": {
+            "account_id": 11288679,
+            "user_type": "registered",
+            "user_id": 8278630,
+            "reputation": 592,
+            "display_name": "Farkhod Abdukodirov"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1685424117,
+          "answer_id": 76361791,
+          "question_id": 76361729,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/76361729/default-directory",
+      "last_activity_date": 1685424117,
+      "is_answered": false,
+      "creation_date": 1685422848,
+      "answer_count": 1,
+      "title": "Default directory",
+      "question_id": 76361729,
+      "view_count": 22,
+      "tags": [
+        "java",
+        "intellij-idea"
+      ]
+    },
+    {
+      "owner": {
+        "account_id": 3878329,
+        "user_type": "registered",
+        "user_id": 3211648,
+        "reputation": 655,
+        "display_name": "user_che_ban",
+        "accept_rate": 76
+      },
+      "score": 0,
+      "answers": [
+        {
+          "owner": {
+            "account_id": 22577442,
+            "user_type": "registered",
+            "user_id": 16775102,
+            "reputation": 725,
+            "display_name": "Feel free"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1685424066,
+          "answer_id": 76361787,
+          "question_id": 76361345,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/76361345/use-of-reflectiontestutils-setfield-in-junit-testing-to-set-a-list-of-objects",
+      "last_activity_date": 1685424066,
+      "is_answered": false,
+      "creation_date": 1685415406,
+      "answer_count": 1,
+      "title": "Use of ReflectionTestUtils.setField() in Junit testing to set a List of objects",
+      "question_id": 76361345,
+      "view_count": 15,
+      "tags": [
+        "java",
+        "junit",
+        "reflection"
+      ]
+    },
+    {
+      "owner": {
+        "account_id": 27321070,
+        "user_type": "registered",
+        "user_id": 20834755,
+        "reputation": 1,
+        "display_name": "Sasani Perera"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76361518/why-isnt-jsoup-returning-the-complete-html-file-and-how-can-i-fix-it",
+      "last_activity_date": 1685423659,
+      "creation_date": 1685418811,
+      "answer_count": 0,
+      "title": "Why isn&#39;t Jsoup returning the complete HTML file and how can I fix it?",
+      "question_id": 76361518,
+      "tags": [
+        "java",
+        "web-scraping",
+        "jsoup",
+        "google-search"
+      ],
+      "score": -1,
+      "is_answered": false,
+      "view_count": 15,
+      "last_edit_date": 1685423659
+    },
+    {
+      "owner": {
+        "account_id": 4606543,
+        "user_type": "registered",
+        "user_id": 3735871,
+        "reputation": 515,
+        "display_name": "user3735871",
+        "accept_rate": 78
+      },
+      "score": 5,
+      "answers": [
+        {
+          "owner": {
+            "account_id": 4607949,
+            "user_type": "registered",
+            "user_id": 3736889,
+            "reputation": 500,
+            "display_name": "szefuf"
+          },
+          "comment_count": 5,
+          "is_accepted": false,
+          "creation_date": 1440578222,
+          "answer_id": 32221736,
+          "question_id": 32221203,
+          "up_vote_count": 0
+        },
+        {
+          "owner": {
+            "account_id": 2185371,
+            "user_type": "registered",
+            "user_id": 1933888,
+            "reputation": 2837,
+            "display_name": "user1933888",
+            "accept_rate": 58
+          },
+          "comment_count": 1,
+          "is_accepted": false,
+          "creation_date": 1440581192,
+          "answer_id": 32222781,
+          "question_id": 32221203,
+          "up_vote_count": 1
+        },
+        {
+          "owner": {
+            "account_id": 426701,
+            "user_type": "registered",
+            "user_id": 2209304,
+            "reputation": 3639,
+            "display_name": "Laszlo Lugosi"
+          },
+          "comment_count": 3,
+          "is_accepted": false,
+          "creation_date": 1556116586,
+          "answer_id": 55832668,
+          "question_id": 32221203,
+          "up_vote_count": 8
+        },
+        {
+          "owner": {
+            "account_id": 10480311,
+            "user_type": "registered",
+            "user_id": 7725500,
+            "reputation": 21,
+            "display_name": "Kaji Rafiqul Islam"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1685423284,
+          "answer_id": 76361746,
+          "question_id": 32221203,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/32221203/fail-to-import-org-slf4j-logger-how-to-add-the-jar-to-classpath",
+      "last_activity_date": 1685423284,
+      "is_answered": true,
+      "creation_date": 1440576574,
+      "answer_count": 4,
+      "title": "Fail to import org.slf4j.Logger- how to add the jar to classpath?",
+      "question_id": 32221203,
+      "view_count": 23711,
+      "tags": [
+        "java",
+        "eclipse",
+        "maven",
+        "log4j",
+        "dependencies"
+      ]
+    },
+    {
+      "owner": {
+        "account_id": 21659990,
+        "user_type": "registered",
+        "user_id": 15979234,
+        "reputation": 1,
+        "display_name": "Klob"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76360489/java-port-scanner-how-to-print-all-consecutive-closed-ports-as-a-range-on-one-l",
+      "last_activity_date": 1685422011,
+      "creation_date": 1685396896,
+      "answer_count": 0,
+      "title": "Java port scanner: How to print all consecutive closed ports as a range on one line?",
+      "question_id": 76360489,
+      "tags": [
+        "java",
+        "port-scanning"
+      ],
+      "score": 0,
+      "is_answered": false,
+      "view_count": 34,
+      "last_edit_date": 1685422011
+    },
+    {
+      "owner": {
+        "account_id": 26429167,
+        "user_type": "registered",
+        "user_id": 20075614,
+        "reputation": 1,
+        "display_name": "theinkykangawoo"
+      },
+      "score": 0,
+      "answers": [
+        {
+          "owner": {
+            "account_id": 23740623,
+            "user_type": "registered",
+            "user_id": 17758716,
+            "reputation": 895,
+            "display_name": "Reilas"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1685421435,
+          "answer_id": 76361656,
+          "question_id": 76361551,
+          "up_vote_count": 1
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/76361551/while-loop-doesnt-break-if-there-is-no-input",
+      "last_activity_date": 1685421435,
+      "is_answered": true,
+      "creation_date": 1685419507,
+      "answer_count": 1,
+      "title": "While loop doesn&#39;t break if there is no input",
+      "question_id": 76361551,
+      "view_count": 29,
+      "tags": [
+        "java",
+        "if-statement",
+        "while-loop",
+        "conditional-statements"
+      ]
+    },
+    {
+      "owner": {
+        "account_id": 189816,
+        "user_type": "registered",
+        "user_id": 429377,
+        "reputation": 33179,
+        "display_name": "Mahmoud Saleh",
+        "accept_rate": 91
+      },
+      "answers": [
+        {
+          "owner": {
+            "account_id": 3103561,
+            "user_type": "registered",
+            "user_id": 2627018,
+            "reputation": 11791,
+            "display_name": "ycr",
+            "accept_rate": 81
+          },
+          "comment_count": 5,
+          "is_accepted": true,
+          "creation_date": 1685298683,
+          "answer_id": 76353023,
+          "question_id": 76329770,
+          "up_vote_count": 2
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/76329770/java-email-is-sent-with-no-content-and-not-attachment-when-sending-email-from-ws",
+      "last_activity_date": 1685421189,
+      "creation_date": 1684999245,
+      "answer_count": 1,
+      "title": "Java Email is sent with no content and not attachment when sending email from WSO2",
+      "question_id": 76329770,
+      "tags": [
+        "java",
+        "wso2",
+        "jakarta-mail",
+        "wso2-enterprise-integrator",
+        "wso2-micro-integrator"
+      ],
+      "score": 0,
+      "accepted_answer_id": 76353023,
+      "is_answered": true,
+      "view_count": 76,
+      "last_edit_date": 1685275277
+    },
+    {
+      "owner": {
+        "account_id": 472259,
+        "user_type": "registered",
+        "user_id": 880642,
+        "reputation": 4751,
+        "display_name": "Rondel",
+        "accept_rate": 95
+      },
+      "answers": [
+        {
+          "owner": {
+            "account_id": 299251,
+            "user_type": "registered",
+            "user_id": 605744,
+            "reputation": 332778,
+            "display_name": "Tomasz Nurkiewicz",
+            "accept_rate": 100
+          },
+          "comment_count": 2,
+          "is_accepted": true,
+          "creation_date": 1315422980,
+          "answer_id": 7339357,
+          "question_id": 7339264,
+          "up_vote_count": 42
+        },
+        {
+          "owner": {
+            "account_id": 7002481,
+            "user_type": "registered",
+            "user_id": 5368067,
+            "reputation": 1,
+            "display_name": "Madhur Malu"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1477396719,
+          "answer_id": 40239377,
+          "question_id": 7339264,
+          "up_vote_count": 0
+        },
+        {
+          "owner": {
+            "account_id": 15947528,
+            "user_type": "registered",
+            "user_id": 11507665,
+            "reputation": 261,
+            "display_name": "Kavya Pandian"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1557982516,
+          "answer_id": 56161076,
+          "question_id": 7339264,
+          "up_vote_count": 26
+        },
+        {
+          "owner": {
+            "account_id": 3924607,
+            "user_type": "registered",
+            "user_id": 3245621,
+            "reputation": 742,
+            "display_name": "Janet"
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1560290531,
+          "answer_id": 56552227,
+          "question_id": 7339264,
+          "up_vote_count": 6
+        },
+        {
+          "owner": {
+            "account_id": 4405015,
+            "user_type": "registered",
+            "user_id": 3589678,
+            "reputation": 607,
+            "display_name": "Ashu",
+            "accept_rate": 25
+          },
+          "comment_count": 0,
+          "is_accepted": false,
+          "creation_date": 1685420667,
+          "answer_id": 76361616,
+          "question_id": 7339264,
+          "up_vote_count": 0
+        }
+      ],
+      "link": "https://stackoverflow.com/questions/7339264/maven-package-error-org-apache-commons-lang-does-not-exist-java",
+      "last_activity_date": 1685421166,
+      "creation_date": 1315422568,
+      "answer_count": 5,
+      "title": "Maven package error: org.apache.commons-lang does not exist (Java)",
+      "question_id": 7339264,
+      "tags": [
+        "java",
+        "maven"
+      ],
+      "score": 41,
+      "accepted_answer_id": 7339357,
+      "is_answered": true,
+      "view_count": 136101,
+      "last_edit_date": 1329419393
+    },
+    {
+      "owner": {
+        "account_id": 5522177,
+        "user_type": "registered",
+        "user_id": 4384793,
+        "reputation": 109,
+        "display_name": "Sultan",
+        "accept_rate": 0
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76361519/how-to-solve-android-security-keystore-getkeystoreexception-in-android-11",
+      "last_activity_date": 1685420418,
+      "creation_date": 1685418823,
+      "answer_count": 0,
+      "title": "How to solve android.security.KeyStore.getKeyStoreException in Android 11?",
+      "question_id": 76361519,
+      "tags": [
+        "java",
+        "kotlin",
+        "cryptography",
+        "android-security",
+        "android-jetpack-security"
+      ],
+      "score": 0,
+      "is_answered": false,
+      "view_count": 16,
+      "last_edit_date": 1685420418
+    },
+    {
+      "owner": {
+        "account_id": 27571550,
+        "user_type": "registered",
+        "user_id": 21042644,
+        "reputation": 11,
+        "display_name": "emce"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 0,
+      "link": "https://stackoverflow.com/questions/76361576/how-can-i-trigger-my-window-with-1-hour-latency-in-apache-flink",
+      "last_activity_date": 1685420022,
+      "is_answered": false,
+      "creation_date": 1685420022,
+      "answer_count": 0,
+      "title": "How can I trigger my window with 1 hour latency in apache flink",
+      "question_id": 76361576,
+      "view_count": 10,
+      "tags": [
+        "java",
+        "apache-flink",
+        "flink-streaming"
+      ]
+    }
+  ]
+}

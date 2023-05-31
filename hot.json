@@ -1,0 +1,2742 @@
+{
+  "quota_max": 10000,
+  "quota_remaining": 9956,
+  "has_more": true,
+  "items": [
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/cc604c2d68d809109ede0cdf15cca828?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 28182712,
+        "user_type": "registered",
+        "user_id": 21539461,
+        "link": "https://stackoverflow.com/users/21539461/vikram-singh-yadav",
+        "reputation": 33,
+        "display_name": "Vikram Singh Yadav"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76340778/unable-to-saveastable-in-pyspark-dataframe-apache-spark-sql-delta-schema-invar",
+      "last_activity_date": 1685104381,
+      "creation_date": 1685103772,
+      "answer_count": 1,
+      "title": "Unable to saveAsTable in pyspark dataframe : apache.spark.sql.delta.schema.InvariantViolationException error: Exceeds char/varchar type length",
+      "question_id": 76340778,
+      "tags": [
+        "csv",
+        "apache-spark",
+        "pyspark",
+        "delta-lake",
+        "azure-synapse-analytics"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76340866,
+      "is_answered": true,
+      "view_count": 22,
+      "last_edit_date": 1685104205
+    },
+    {
+      "owner": {
+        "profile_image": "https://lh6.googleusercontent.com/-yErf2bucTEc/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq074uX8cJXPXOsNy-xU5lxh74tI1g/mo/photo.jpg?sz=256",
+        "account_id": 13875347,
+        "user_type": "registered",
+        "user_id": 10017159,
+        "link": "https://stackoverflow.com/users/10017159/ai4l2s",
+        "reputation": 457,
+        "display_name": "Ai4l2s"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 2,
+      "link": "https://stackoverflow.com/questions/76340856/r-import-different-packages-that-export-a-class-with-the-same-name-namespace",
+      "last_activity_date": 1685104327,
+      "is_answered": false,
+      "creation_date": 1685104327,
+      "answer_count": 0,
+      "title": "R: Import different packages that export a class with the same name - namespace is getting ignored",
+      "question_id": 76340856,
+      "view_count": 33,
+      "tags": [
+        "r"
+      ]
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/a4c4cea1194f6f300beeccf6d1ead06e?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 10747283,
+        "user_type": "registered",
+        "user_id": 7908077,
+        "link": "https://stackoverflow.com/users/7908077/akhil",
+        "reputation": 1891,
+        "display_name": "akhil"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76333203/msg-login-unauthorized-error-while-kubernetes-dashboard",
+      "last_activity_date": 1685103548,
+      "creation_date": 1685023577,
+      "answer_count": 1,
+      "title": "MSG_LOGIN_UNAUTHORIZED_ERROR while kubernetes dashboard",
+      "question_id": 76333203,
+      "tags": [
+        "kubernetes",
+        "azure-active-directory",
+        "kubectl",
+        "azure-aks",
+        "kubernetes-dashboard"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76340751,
+      "is_answered": true,
+      "view_count": 45
+    },
+    {
+      "owner": {
+        "profile_image": "https://lh3.googleusercontent.com/--lO5cLNxYhI/AAAAAAAAAAI/AAAAAAAAAB0/13hSaK9hsjI/photo.jpg?sz=256",
+        "account_id": 16483152,
+        "user_type": "registered",
+        "user_id": 11909334,
+        "link": "https://stackoverflow.com/users/11909334/egm2",
+        "reputation": 85,
+        "display_name": "egm2"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76336930/fetching-next-js-api-route-in-the-app-directory-gives-404-not-found",
+      "last_activity_date": 1685100799,
+      "creation_date": 1685060354,
+      "answer_count": 1,
+      "title": "Fetching Next.js API Route in the app directory gives 404 Not Found",
+      "question_id": 76336930,
+      "tags": [
+        "javascript",
+        "reactjs",
+        "next.js",
+        "prisma"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76338381,
+      "is_answered": true,
+      "view_count": 72,
+      "last_edit_date": 1685085877
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/25047661d9789576d196d84908ad63d2?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 28211151,
+        "user_type": "registered",
+        "user_id": 21563388,
+        "link": "https://stackoverflow.com/users/21563388/laumadsen",
+        "reputation": 23,
+        "display_name": "LauMadsen"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76338647/i-have-a-problem-assessing-my-zero-inflated-negative-binomial-model-against-a-po",
+      "last_activity_date": 1685100145,
+      "creation_date": 1685086816,
+      "answer_count": 0,
+      "title": "I have a problem assessing my zero-inflated negative binomial model against a poisson model",
+      "question_id": 76338647,
+      "tags": [
+        "r",
+        "regression",
+        "non-linear-regression",
+        "poisson"
+      ],
+      "score": 2,
+      "is_answered": false,
+      "view_count": 44,
+      "last_edit_date": 1685093283
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/666c1a43aef7d18a43bf2ecc89fc193f?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 28666227,
+        "user_type": "registered",
+        "user_id": 21950184,
+        "link": "https://stackoverflow.com/users/21950184/gunnersboy",
+        "reputation": 23,
+        "display_name": "gunnersboy"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76319377/mysql-transactional-bound-with-multiple-stored-proc-calls-and-easy-way-to-roll",
+      "last_activity_date": 1685098828,
+      "creation_date": 1684887859,
+      "answer_count": 1,
+      "title": "MySQL - Transactional Bound with multiple stored proc calls and easy way to rollback?",
+      "question_id": 76319377,
+      "tags": [
+        "mysql",
+        "stored-procedures",
+        "transactions"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76321470,
+      "is_answered": true,
+      "view_count": 46
+    },
+    {
+      "owner": {
+        "profile_image": "https://lh3.googleusercontent.com/-Vi29Q8tLick/AAAAAAAAAAI/AAAAAAAAACI/a7ArDBoDANw/photo.jpg?sz=256",
+        "account_id": 5552141,
+        "user_type": "registered",
+        "user_id": 4404805,
+        "link": "https://stackoverflow.com/users/4404805/animeartist",
+        "reputation": 1005,
+        "display_name": "Animeartist",
+        "accept_rate": 71
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 2,
+      "link": "https://stackoverflow.com/questions/76334272/pandas-apply-function-to-each-group-and-store-result-in-new-column",
+      "last_activity_date": 1685098691,
+      "is_answered": true,
+      "creation_date": 1685030559,
+      "answer_count": 1,
+      "title": "Pandas: Apply function to each group and store result in new column",
+      "question_id": 76334272,
+      "view_count": 44,
+      "tags": [
+        "python",
+        "pandas",
+        "function",
+        "group-by",
+        "apply"
+      ]
+    },
+    {
+      "owner": {
+        "profile_image": "https://lh3.googleusercontent.com/a/AATXAJwOwZWBRaHhIIHMrZZraO4GKOYtezEZzfav2tx0=k-s256",
+        "account_id": 23060461,
+        "user_type": "registered",
+        "user_id": 17175848,
+        "link": "https://stackoverflow.com/users/17175848/arsene-wenger",
+        "reputation": 567,
+        "display_name": "Arsene Wenger"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76336313/stream-content-immediately-on-nodejs-express",
+      "last_activity_date": 1685098151,
+      "creation_date": 1685049665,
+      "answer_count": 0,
+      "title": "Stream content immediately on Nodejs Express",
+      "question_id": 76336313,
+      "tags": [
+        "javascript",
+        "node.js"
+      ],
+      "score": 2,
+      "is_answered": false,
+      "view_count": 32,
+      "last_edit_date": 1685098151
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/bf61e502e2634aa89081eabdf69a24e9?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 20082343,
+        "user_type": "registered",
+        "user_id": 19203606,
+        "link": "https://stackoverflow.com/users/19203606/sparsh-maheshwari",
+        "reputation": 49,
+        "display_name": "Sparsh Maheshwari"
+      },
+      "closed_date": 1685098031,
+      "link": "https://stackoverflow.com/questions/76339983/what-is-wa-me-settings-in-whatsapp",
+      "last_activity_date": 1685097507,
+      "creation_date": 1685097417,
+      "answer_count": 0,
+      "title": "What is wa.me/settings in WhatsApp",
+      "question_id": 76339983,
+      "tags": [
+        "whatsapp"
+      ],
+      "score": 2,
+      "closed_reason": "Not suitable for this site",
+      "is_answered": false,
+      "view_count": 19556,
+      "last_edit_date": 1685097507
+    },
+    {
+      "owner": {
+        "profile_image": "https://i.stack.imgur.com/khqqr.png?s=256&g=1",
+        "account_id": 13315314,
+        "user_type": "registered",
+        "user_id": 9611960,
+        "link": "https://stackoverflow.com/users/9611960/ayesha-iftikhar",
+        "reputation": 328,
+        "display_name": "Ayesha Iftikhar"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 2,
+      "link": "https://stackoverflow.com/questions/76339472/create-random-responsive-circles-in-flutter",
+      "last_activity_date": 1685093385,
+      "is_answered": false,
+      "creation_date": 1685093385,
+      "answer_count": 0,
+      "title": "Create random responsive circles in flutter",
+      "question_id": 76339472,
+      "view_count": 24,
+      "tags": [
+        "flutter",
+        "dart",
+        "user-interface"
+      ]
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/e5557f5e83fe6382d5bb274b31146f6b?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 28671735,
+        "user_type": "registered",
+        "user_id": 21954667,
+        "link": "https://stackoverflow.com/users/21954667/noentiendo",
+        "reputation": 31,
+        "display_name": "noentiendo"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76325240/can-anyone-explain-why-anna-works-in-haskell-but-not-1",
+      "last_activity_date": 1685092709,
+      "creation_date": 1684942636,
+      "answer_count": 2,
+      "title": "Can anyone explain why &quot;Anna&quot; ++ [&#39; &#39;] works in Haskell but not 1 ++ [&#39; &#39;]?",
+      "question_id": 76325240,
+      "tags": [
+        "string",
+        "list",
+        "haskell",
+        "build"
+      ],
+      "score": 2,
+      "is_answered": true,
+      "view_count": 81,
+      "last_edit_date": 1685092709
+    },
+    {
+      "owner": {
+        "profile_image": "https://lh3.googleusercontent.com/a/AAcHTtes6guEp6K3xnYqZ8TJ6VmqQK7aE1g4wzJmfVTNtg=k-s256",
+        "account_id": 28672032,
+        "user_type": "registered",
+        "user_id": 21954897,
+        "link": "https://stackoverflow.com/users/21954897/saiko",
+        "reputation": 23,
+        "display_name": "Saiko"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76325623/what-is-the-minimum-odd-number-representable-in-a-32-bit-float-written-in-both",
+      "last_activity_date": 1685091870,
+      "creation_date": 1684945536,
+      "answer_count": 1,
+      "title": "What is the minimum odd number representable in a 32-bit float, written in both decimal and binary?",
+      "question_id": 76325623,
+      "tags": [
+        "floating-point",
+        "binary",
+        "numeric",
+        "date-arithmetic",
+        "integer-arithmetic"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76325770,
+      "is_answered": true,
+      "view_count": 37,
+      "last_edit_date": 1684945599
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/4ce38577182f8a1e8748eded86c10e4d?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 22210070,
+        "user_type": "registered",
+        "user_id": 16687227,
+        "link": "https://stackoverflow.com/users/16687227/mangopizza",
+        "reputation": 269,
+        "display_name": "MangoPizza"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76339021/how-do-i-pass-a-general-priority-queue-as-function-argument-in-c",
+      "last_activity_date": 1685091771,
+      "creation_date": 1685089710,
+      "answer_count": 2,
+      "title": "How do I pass a &#39;general&#39; priority_queue as function argument in c++",
+      "question_id": 76339021,
+      "tags": [
+        "c++",
+        "templates"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76339075,
+      "is_answered": true,
+      "view_count": 51,
+      "last_edit_date": 1685091131
+    },
+    {
+      "owner": {
+        "profile_image": "https://i.stack.imgur.com/xafUS.jpg?s=256&g=1",
+        "account_id": 8760905,
+        "user_type": "registered",
+        "user_id": 6550894,
+        "link": "https://stackoverflow.com/users/6550894/lorenzo",
+        "reputation": 377,
+        "display_name": "lorenzo"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76328441/regex-to-remove-captions-with-condition-not-to-overlap-second-match",
+      "last_activity_date": 1685091732,
+      "creation_date": 1684980491,
+      "answer_count": 1,
+      "title": "Regex to remove captions with condition not to overlap second match",
+      "question_id": 76328441,
+      "tags": [
+        "python",
+        "regex"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76328535,
+      "is_answered": true,
+      "view_count": 58,
+      "last_edit_date": 1685091732
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/d027ce85ade0cf266a0120d37648e554?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 10312097,
+        "user_type": "registered",
+        "user_id": 7607558,
+        "link": "https://stackoverflow.com/users/7607558/john-titor",
+        "reputation": 73,
+        "display_name": "John Titor"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76319784/add-a-checkbox-to-enable-disable-overwriting-files-during-installation-in-inno-s",
+      "last_activity_date": 1685091582,
+      "creation_date": 1684896107,
+      "answer_count": 1,
+      "title": "Add a checkbox to enable/disable overwriting files during installation in Inno Setup",
+      "question_id": 76319784,
+      "tags": [
+        "installation",
+        "inno-setup"
+      ],
+      "score": 2,
+      "is_answered": true,
+      "view_count": 32,
+      "last_edit_date": 1685091560
+    },
+    {
+      "owner": {
+        "profile_image": "https://i.stack.imgur.com/FgZCD.jpg?s=256&g=1",
+        "account_id": 6913822,
+        "user_type": "registered",
+        "user_id": 5308802,
+        "link": "https://stackoverflow.com/users/5308802/aivanf",
+        "reputation": 1082,
+        "display_name": "AivanF.",
+        "accept_rate": 73
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 2,
+      "link": "https://stackoverflow.com/questions/76338986/string-find-fails-with-a-hyphen",
+      "last_activity_date": 1685090905,
+      "is_answered": true,
+      "creation_date": 1685089452,
+      "answer_count": 1,
+      "title": "string.find fails with a hyphen",
+      "question_id": 76338986,
+      "view_count": 31,
+      "tags": [
+        "string",
+        "lua"
+      ]
+    },
+    {
+      "owner": {
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14Gh9ULSpN2plLM3Q4-oQPlYWK0pL3BIy65qyRixS=k-s256",
+        "account_id": 19970324,
+        "user_type": "registered",
+        "user_id": 14635964,
+        "link": "https://stackoverflow.com/users/14635964/patrick-ha",
+        "reputation": 33,
+        "display_name": "Patrick Ha"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76337662/using-mysql-data-in-net-aws-lambda-with-d-i",
+      "last_activity_date": 1685090747,
+      "creation_date": 1685074995,
+      "answer_count": 1,
+      "title": "Using MySql.Data in .NET AWS Lambda with D.I",
+      "question_id": 76337662,
+      "tags": [
+        "mysql",
+        ".net",
+        "aws-lambda",
+        "dependency-injection"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76338914,
+      "is_answered": true,
+      "view_count": 31,
+      "last_edit_date": 1685078104
+    },
+    {
+      "owner": {
+        "profile_image": "https://i.stack.imgur.com/VkeE6.png?s=256&g=1",
+        "account_id": 7490441,
+        "user_type": "registered",
+        "user_id": 5692351,
+        "link": "https://stackoverflow.com/users/5692351/tavaro-evanis",
+        "reputation": 180,
+        "display_name": "Tavaro Evanis",
+        "accept_rate": 40
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76335452/finding-largest-contiguous-clusters-in-a-matrix",
+      "last_activity_date": 1685089030,
+      "creation_date": 1685041001,
+      "answer_count": 1,
+      "title": "Finding Largest Contiguous Clusters in a Matrix",
+      "question_id": 76335452,
+      "tags": [
+        "r",
+        "optimization",
+        "cluster-analysis",
+        "depth-first-search"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76336484,
+      "is_answered": true,
+      "view_count": 56,
+      "last_edit_date": 1685057009
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/ca588e5bfb1ac0a5d8ec8acb422aa564?s=256&d=identicon&r=PG",
+        "account_id": 428789,
+        "user_type": "registered",
+        "user_id": 811335,
+        "link": "https://stackoverflow.com/users/811335/a-k",
+        "reputation": 33664,
+        "display_name": "A. K.",
+        "accept_rate": 85
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 2,
+      "link": "https://stackoverflow.com/questions/76320370/how-to-store-references-of-different-class-types-in-an-array",
+      "last_activity_date": 1685088617,
+      "is_answered": true,
+      "creation_date": 1684906765,
+      "answer_count": 4,
+      "title": "How to store references of different class types in an array",
+      "question_id": 76320370,
+      "view_count": 92,
+      "tags": [
+        "java"
+      ]
+    },
+    {
+      "owner": {
+        "profile_image": "https://i.stack.imgur.com/UvWbt.jpg?s=256&g=1",
+        "account_id": 11634125,
+        "user_type": "registered",
+        "user_id": 18778308,
+        "link": "https://stackoverflow.com/users/18778308/ammar",
+        "reputation": 25,
+        "display_name": "Ammar"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76337209/parse-a-string-quoted-by-in-rust-using-lalrpop",
+      "last_activity_date": 1685088475,
+      "creation_date": 1685066385,
+      "answer_count": 1,
+      "title": "Parse a string quoted by &quot; in rust using lalrpop",
+      "question_id": 76337209,
+      "tags": [
+        "parsing",
+        "rust"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76337945,
+      "is_answered": true,
+      "view_count": 31,
+      "last_edit_date": 1685088475
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/56a3d7b572408800e8f9f42eb2b8ddc9?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 19575418,
+        "user_type": "registered",
+        "user_id": 14380761,
+        "link": "https://stackoverflow.com/users/14380761/mohammed",
+        "reputation": 396,
+        "display_name": "MOHAMMED"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76337120/create-a-specific-selection-matrix",
+      "last_activity_date": 1685087652,
+      "creation_date": 1685064483,
+      "answer_count": 3,
+      "title": "Create a specific selection matrix",
+      "question_id": 76337120,
+      "tags": [
+        "r",
+        "matrix",
+        "sparse-matrix"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76337531,
+      "is_answered": true,
+      "view_count": 44,
+      "last_edit_date": 1685072715
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/d4c86bebfc8bec41669c4d8100f331c1?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 28114403,
+        "user_type": "registered",
+        "user_id": 21481718,
+        "link": "https://stackoverflow.com/users/21481718/luukd",
+        "reputation": 58,
+        "display_name": "luukd"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 2,
+      "link": "https://stackoverflow.com/questions/76332798/woocommerce-display-custom-variation-prices-as-range",
+      "last_activity_date": 1685087594,
+      "is_answered": true,
+      "creation_date": 1685021008,
+      "answer_count": 1,
+      "title": "WooCommerce display custom variation prices as range",
+      "question_id": 76332798,
+      "view_count": 25,
+      "tags": [
+        "php",
+        "wordpress",
+        "woocommerce"
+      ]
+    },
+    {
+      "owner": {
+        "profile_image": "https://lh3.googleusercontent.com/a/AGNmyxZAcANkdWDH1CbNhkKTs_Yjqax7oxw59Dmffw1j=k-s256",
+        "account_id": 28670610,
+        "user_type": "registered",
+        "user_id": 21953731,
+        "link": "https://stackoverflow.com/users/21953731/karan-nayyar",
+        "reputation": 21,
+        "display_name": "Karan Nayyar"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76323962/parse-yaml-and-create-an-xml-template",
+      "last_activity_date": 1685086870,
+      "creation_date": 1684934108,
+      "answer_count": 1,
+      "title": "Parse yaml and create an xml template",
+      "question_id": 76323962,
+      "tags": [
+        "python",
+        "xml",
+        "dictionary",
+        "yaml"
+      ],
+      "score": 2,
+      "is_answered": false,
+      "view_count": 38,
+      "last_edit_date": 1685086870
+    },
+    {
+      "owner": {
+        "profile_image": "https://lh3.googleusercontent.com/a/AATXAJwT-wORJAbP_uWEBURpos6zpmIqwmHqULCnM9u3=k-s256",
+        "account_id": 24847173,
+        "user_type": "registered",
+        "user_id": 18724584,
+        "link": "https://stackoverflow.com/users/18724584/ankit-goel",
+        "reputation": 45,
+        "display_name": "ankit goel"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 2,
+      "link": "https://stackoverflow.com/questions/76323943/editable-datagridview-in-c",
+      "last_activity_date": 1685084755,
+      "is_answered": false,
+      "creation_date": 1684934005,
+      "answer_count": 1,
+      "title": "Editable datagridview in c#",
+      "question_id": 76323943,
+      "view_count": 60,
+      "tags": [
+        "c#",
+        "winforms",
+        "datagridview",
+        "datagridviewcolumn"
+      ]
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/6da4cd896f0eec8e4918f956dc22abb3?s=256&d=identicon&r=PG",
+        "account_id": 2558947,
+        "user_type": "registered",
+        "user_id": 2220370,
+        "link": "https://stackoverflow.com/users/2220370/londonappdev",
+        "reputation": 8177,
+        "display_name": "LondonAppDev",
+        "accept_rate": 68
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76331772/ruby-method-that-creates-a-large-hash",
+      "last_activity_date": 1685083301,
+      "creation_date": 1685014081,
+      "answer_count": 2,
+      "title": "Ruby method that creates a large hash",
+      "question_id": 76331772,
+      "tags": [
+        "ruby-on-rails",
+        "ruby"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76331932,
+      "is_answered": true,
+      "view_count": 45
+    },
+    {
+      "owner": {
+        "profile_image": "https://lh5.googleusercontent.com/-odqKTJd5XqI/AAAAAAAAAAI/AAAAAAAAAAA/ACevoQNRXeYpwCtkBSF-ofUc7zv2Ut08qg/mo/photo.jpg?sz=256",
+        "account_id": 15223814,
+        "user_type": "registered",
+        "user_id": 10984994,
+        "link": "https://stackoverflow.com/users/10984994/ilexcel",
+        "reputation": 885,
+        "display_name": "ilexcel"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 2,
+      "link": "https://stackoverflow.com/questions/76337429/no-attribute-append-error-while-writing-data-using-pandas-dataframe",
+      "last_activity_date": 1685082781,
+      "is_answered": true,
+      "creation_date": 1685070891,
+      "answer_count": 3,
+      "title": "No attribute &quot;append&quot; error while writing data using pandas DataFrame",
+      "question_id": 76337429,
+      "view_count": 41,
+      "tags": [
+        "python",
+        "python-3.x",
+        "pandas",
+        "dataframe"
+      ]
+    },
+    {
+      "owner": {
+        "profile_image": "https://i.stack.imgur.com/Ug32q.jpg?s=256&g=1",
+        "account_id": 5474325,
+        "user_type": "registered",
+        "user_id": 4352703,
+        "link": "https://stackoverflow.com/users/4352703/kiran-kannan",
+        "reputation": 490,
+        "display_name": "Kiran Kannan"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76338072/video-add-in-html-not-sync-with-github",
+      "last_activity_date": 1685082087,
+      "creation_date": 1685081622,
+      "answer_count": 1,
+      "title": "Video add in Html not sync with Github",
+      "question_id": 76338072,
+      "tags": [
+        "html",
+        "github",
+        "html5-video"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76338107,
+      "is_answered": true,
+      "view_count": 25
+    },
+    {
+      "owner": {
+        "profile_image": "https://lh3.googleusercontent.com/a-/AAuE7mCfLfrRWowke7c_-BmIrnVrVPY34cophS51y4oz=k-s256",
+        "account_id": 17067748,
+        "user_type": "registered",
+        "user_id": 12349385,
+        "link": "https://stackoverflow.com/users/12349385/juan-carlos-maturana",
+        "reputation": 23,
+        "display_name": "juan carlos maturana"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76337630/tkinter-problem-while-using-the-text-widget",
+      "last_activity_date": 1685078615,
+      "creation_date": 1685074569,
+      "answer_count": 2,
+      "title": "Tkinter problem while using the text widget",
+      "question_id": 76337630,
+      "tags": [
+        "python",
+        "tkinter",
+        "index-error",
+        "tkinter-text"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76337863,
+      "is_answered": true,
+      "view_count": 34
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/0e542001c39e8ee6fe692d881f315d96?s=256&d=identicon&r=PG",
+        "account_id": 24680880,
+        "user_type": "registered",
+        "user_id": 18574641,
+        "link": "https://stackoverflow.com/users/18574641/fl%c3%a2neur",
+        "reputation": 571,
+        "display_name": "fl&#226;neur"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76337436/run-sapply-function-with-2-inputs-variable-and-dataframe",
+      "last_activity_date": 1685075211,
+      "creation_date": 1685071006,
+      "answer_count": 1,
+      "title": "Run sapply function with 2 inputs (variable and dataframe)",
+      "question_id": 76337436,
+      "tags": [
+        "r",
+        "function",
+        "sapply"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76337677,
+      "is_answered": true,
+      "view_count": 34
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/df2b2eb575dec34507a6600f292b26f4?s=256&d=identicon&r=PG",
+        "account_id": 281380,
+        "user_type": "registered",
+        "user_id": 577647,
+        "link": "https://stackoverflow.com/users/577647/tolga",
+        "reputation": 2372,
+        "display_name": "tolga",
+        "accept_rate": 69
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76323081/pep8-between-specific-lines",
+      "last_activity_date": 1685074557,
+      "creation_date": 1684928019,
+      "answer_count": 1,
+      "title": "PEP8 between specific lines",
+      "question_id": 76323081,
+      "tags": [
+        "python",
+        "django",
+        "pep8"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76323378,
+      "is_answered": true,
+      "view_count": 34,
+      "last_edit_date": 1684928356
+    },
+    {
+      "owner": {
+        "profile_image": "https://graph.facebook.com/1606662476068875/picture?type=large",
+        "account_id": 13360789,
+        "user_type": "registered",
+        "user_id": 9642884,
+        "link": "https://stackoverflow.com/users/9642884/emiliano-barone",
+        "reputation": 303,
+        "display_name": "Emiliano Barone"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76325090/reshaping-data-frame-with-old-variables-to-be-new-rownames",
+      "last_activity_date": 1685071468,
+      "creation_date": 1684941592,
+      "answer_count": 5,
+      "title": "Reshaping data frame with old variables to be new rownames",
+      "question_id": 76325090,
+      "tags": [
+        "r",
+        "reshape"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76325152,
+      "is_answered": true,
+      "view_count": 57,
+      "last_edit_date": 1685071468
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/e9ab75ea36fa4eb08e557cc0a5b46290?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 28578799,
+        "user_type": "registered",
+        "user_id": 21880040,
+        "link": "https://stackoverflow.com/users/21880040/fable101",
+        "reputation": 23,
+        "display_name": "fable101"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76334533/combining-two-dictionaries-and-creating-a-list-of-dictionaries-with-updated-cred",
+      "last_activity_date": 1685070419,
+      "creation_date": 1685032874,
+      "answer_count": 1,
+      "title": "Combining two dictionaries and creating a list of dictionaries with updated credentials",
+      "question_id": 76334533,
+      "tags": [
+        "postgresql",
+        "ansible",
+        "vault"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76336141,
+      "is_answered": true,
+      "view_count": 30,
+      "last_edit_date": 1685033177
+    },
+    {
+      "owner": {
+        "profile_image": "https://i.stack.imgur.com/kieuF.png?s=256&g=1",
+        "account_id": 9660706,
+        "user_type": "registered",
+        "user_id": 7168877,
+        "link": "https://stackoverflow.com/users/7168877/stewieggriffin",
+        "reputation": 349,
+        "display_name": "StewieGGriffin",
+        "accept_rate": 100
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76322573/how-to-debug-a-dll-that-is-being-used-from-java-through-jni",
+      "last_activity_date": 1685069360,
+      "creation_date": 1684924403,
+      "answer_count": 2,
+      "title": "How to debug a DLL that is being used from Java through JNI",
+      "question_id": 76322573,
+      "tags": [
+        "java",
+        "c++",
+        "memory-leaks",
+        "java-native-interface",
+        "visual-studio-2019"
+      ],
+      "score": 2,
+      "is_answered": true,
+      "view_count": 76,
+      "last_edit_date": 1685069360
+    },
+    {
+      "owner": {
+        "profile_image": "https://lh4.googleusercontent.com/-ZHp9yDMYiGI/AAAAAAAAAAI/AAAAAAAAEsg/B9aVO59CDXU/photo.jpg?sz=256",
+        "account_id": 5529755,
+        "user_type": "registered",
+        "user_id": 4390160,
+        "link": "https://stackoverflow.com/users/4390160/grismar",
+        "reputation": 26924,
+        "display_name": "Grismar",
+        "accept_rate": 100
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76337109/unexpected-type-warning-in-new-method-for-int-subclass",
+      "last_activity_date": 1685066679,
+      "creation_date": 1685064158,
+      "answer_count": 1,
+      "title": "Unexpected type warning in `__new__` method for `int` subclass",
+      "question_id": 76337109,
+      "tags": [
+        "python",
+        "subclassing"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76337225,
+      "is_answered": true,
+      "view_count": 35
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/c501f6604671f7c5360a7019866e84e1?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 7115437,
+        "user_type": "registered",
+        "user_id": 5441914,
+        "link": "https://stackoverflow.com/users/5441914/m-m",
+        "reputation": 125,
+        "display_name": "m.m"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76336439/python-file-status-when-open-is-not-assigned-to-any-variable",
+      "last_activity_date": 1685063176,
+      "creation_date": 1685051165,
+      "answer_count": 2,
+      "title": "Python file status when open() is not assigned to any variable",
+      "question_id": 76336439,
+      "tags": [
+        "python"
+      ],
+      "score": 2,
+      "is_answered": true,
+      "view_count": 51,
+      "last_edit_date": 1685052586
+    },
+    {
+      "owner": {
+        "profile_image": "https://lh3.googleusercontent.com/a-/AAuE7mAc_AaLGsfFwFlyGglg4vsDIhyqTSkXS4cMjUgLgg=k-s256",
+        "account_id": 17523023,
+        "user_type": "registered",
+        "user_id": 12708653,
+        "link": "https://stackoverflow.com/users/12708653/mjdp476",
+        "reputation": 39,
+        "display_name": "mjdp476"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76322514/is-it-possible-to-automatically-convert-one-column-to-superscript-while-concaten",
+      "last_activity_date": 1685058147,
+      "creation_date": 1684923998,
+      "answer_count": 2,
+      "title": "Is it possible to automatically convert one column to superscript while concatenating with another column in Excel?",
+      "question_id": 76322514,
+      "tags": [
+        "excel",
+        "excel-formula",
+        "excel-2010"
+      ],
+      "score": 2,
+      "is_answered": true,
+      "view_count": 76,
+      "last_edit_date": 1684977874
+    },
+    {
+      "owner": {
+        "profile_image": "https://lh3.googleusercontent.com/a/AAcHTtdNAaIqTHSEnHbRrvknEUcI51wQqYjrQ2mIc4Rbug=k-s256",
+        "account_id": 28681412,
+        "user_type": "registered",
+        "user_id": 21962528,
+        "link": "https://stackoverflow.com/users/21962528/lucas-szalontai",
+        "reputation": 23,
+        "display_name": "Lucas Szalontai"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76335987/joining-tables-on-athena-using-a-date-and-interval-as-key",
+      "last_activity_date": 1685057529,
+      "creation_date": 1685045852,
+      "answer_count": 1,
+      "title": "Joining tables on Athena using a date and interval as key?",
+      "question_id": 76335987,
+      "tags": [
+        "sql",
+        "join",
+        "amazon-athena",
+        "presto",
+        "trino"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76336806,
+      "is_answered": true,
+      "view_count": 23,
+      "last_edit_date": 1685057529
+    },
+    {
+      "owner": {
+        "profile_image": "https://i.stack.imgur.com/v7TwQ.jpg?s=256&g=1",
+        "account_id": 7872743,
+        "user_type": "registered",
+        "user_id": 5949440,
+        "link": "https://stackoverflow.com/users/5949440/hunterd",
+        "reputation": 38,
+        "display_name": "hunterd"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76331558/performance-issue-on-laravel-9-application-using-tall-stack-not-in-docker-or-ws",
+      "last_activity_date": 1685055862,
+      "creation_date": 1685012462,
+      "answer_count": 1,
+      "title": "Performance Issue on Laravel 9 Application Using TALL Stack (not in Docker or WSL)",
+      "question_id": 76331558,
+      "tags": [
+        "php",
+        "laravel",
+        "performance",
+        "laravel-livewire"
+      ],
+      "score": 2,
+      "is_answered": false,
+      "view_count": 88,
+      "last_edit_date": 1685050478
+    },
+    {
+      "owner": {
+        "profile_image": "https://i.stack.imgur.com/65647.jpg?s=256&g=1",
+        "account_id": 3637325,
+        "user_type": "registered",
+        "user_id": 3032376,
+        "link": "https://stackoverflow.com/users/3032376/lukas-lang",
+        "reputation": 318,
+        "display_name": "Lukas Lang"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76330212/access-class-member-array-of-unknown-size-through-pointer-to-first-member",
+      "last_activity_date": 1685051459,
+      "creation_date": 1685002627,
+      "answer_count": 1,
+      "title": "Access class member array of unknown size through pointer to first member",
+      "question_id": 76330212,
+      "tags": [
+        "c++",
+        "arrays",
+        "casting",
+        "language-lawyer",
+        "type-erasure"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76336385,
+      "is_answered": true,
+      "view_count": 105,
+      "last_edit_date": 1685016294
+    },
+    {
+      "owner": {
+        "profile_image": "https://graph.facebook.com/100000357417291/picture?type=large",
+        "account_id": 5672065,
+        "user_type": "registered",
+        "user_id": 5297376,
+        "link": "https://stackoverflow.com/users/5297376/nidish-narayanaa",
+        "reputation": 328,
+        "display_name": "Nidish Narayanaa",
+        "accept_rate": 60
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 2,
+      "link": "https://stackoverflow.com/questions/76336292/using-gradef-with-complex-quantities-in-maxima",
+      "last_activity_date": 1685049309,
+      "is_answered": false,
+      "creation_date": 1685049309,
+      "answer_count": 0,
+      "title": "Using gradef with complex quantities in Maxima",
+      "question_id": 76336292,
+      "view_count": 14,
+      "tags": [
+        "operator-precedence",
+        "complex-numbers",
+        "maxima",
+        "differentiation",
+        "wxmaxima"
+      ]
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/08ceebca3594fb361d357815c45a3fdb?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 11597447,
+        "user_type": "registered",
+        "user_id": 8495763,
+        "link": "https://stackoverflow.com/users/8495763/deepanshu",
+        "reputation": 348,
+        "display_name": "deepanshu"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76331682/is-it-possible-to-set-the-context-of-scroll-event-to-document-body-instead-of",
+      "last_activity_date": 1685048753,
+      "creation_date": 1685013301,
+      "answer_count": 1,
+      "title": "Is it possible to set the context of scroll event to `document.body` instead of `window`?",
+      "question_id": 76331682,
+      "tags": [
+        "javascript",
+        "html",
+        "scroll",
+        "dom-events"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76335954,
+      "is_answered": true,
+      "view_count": 43
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/3f9bfe301fab905c9efc03d5df5c8abb?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 28414676,
+        "user_type": "registered",
+        "user_id": 21737617,
+        "link": "https://stackoverflow.com/users/21737617/dakota-horstman",
+        "reputation": 41,
+        "display_name": "Dakota Horstman"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 2,
+      "link": "https://stackoverflow.com/questions/76327465/why-is-nginx-throwing-cannot-load-certificate-data-pem-read-bio-x509-aux",
+      "last_activity_date": 1685048489,
+      "is_answered": true,
+      "creation_date": 1684963149,
+      "answer_count": 1,
+      "title": "Why is NGINX throwing `cannot load certificate &quot;data:&quot;: PEM_read_bio_X509_AUX() Expecting: TRUSTED CERTIFICATE`?",
+      "question_id": 76327465,
+      "view_count": 25,
+      "tags": [
+        "nginx",
+        "cookiecutter-django"
+      ]
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/a312155705e2fa1ce28841ddf6645da0?s=256&d=identicon&r=PG",
+        "account_id": 436588,
+        "user_type": "registered",
+        "user_id": 823859,
+        "link": "https://stackoverflow.com/users/823859/adam-g",
+        "reputation": 7173,
+        "display_name": "Adam_G",
+        "accept_rate": 78
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 2,
+      "link": "https://stackoverflow.com/questions/76327678/use-mapply-within-attr",
+      "last_activity_date": 1685047171,
+      "is_answered": true,
+      "creation_date": 1684965746,
+      "answer_count": 2,
+      "title": "Use mapply() within attr()",
+      "question_id": 76327678,
+      "view_count": 58,
+      "tags": [
+        "r",
+        "vectorization",
+        "mapply"
+      ]
+    },
+    {
+      "owner": {
+        "profile_image": "https://lh6.googleusercontent.com/-5gPwkCAIvFc/AAAAAAAAAAI/AAAAAAAAABA/vdsQskscHUM/photo.jpg?sz=256",
+        "account_id": 16381215,
+        "user_type": "registered",
+        "user_id": 11832219,
+        "link": "https://stackoverflow.com/users/11832219/virtual-penman",
+        "reputation": 157,
+        "display_name": "Virtual Penman"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76335778/regex-version-number-with-negative-lookahead",
+      "last_activity_date": 1685045818,
+      "creation_date": 1685043989,
+      "answer_count": 2,
+      "title": "Regex version number with negative lookahead",
+      "question_id": 76335778,
+      "tags": [
+        "regex"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76335810,
+      "is_answered": true,
+      "view_count": 33,
+      "last_edit_date": 1685045292
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/e05ca0188915fda337541206788b038a?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 8606047,
+        "user_type": "registered",
+        "user_id": 6446154,
+        "link": "https://stackoverflow.com/users/6446154/eliav-gnessin",
+        "reputation": 93,
+        "display_name": "Eliav Gnessin"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76329665/couchbase-remove-attributes-by-pattern",
+      "last_activity_date": 1685045270,
+      "creation_date": 1684998277,
+      "answer_count": 1,
+      "title": "Couchbase remove attributes by pattern",
+      "question_id": 76329665,
+      "tags": [
+        "couchbase",
+        "sql++"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76332816,
+      "is_answered": true,
+      "view_count": 23
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/d03f0aeb613309092ae3e7dfc8807631?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 3811119,
+        "user_type": "registered",
+        "user_id": 3161924,
+        "link": "https://stackoverflow.com/users/3161924/user3161924",
+        "reputation": 1669,
+        "display_name": "user3161924",
+        "accept_rate": 58
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76327894/user-function-for-fastreports-pro-vcl-says-too-many-actual-parameters-when-usi",
+      "last_activity_date": 1685043215,
+      "creation_date": 1684969204,
+      "answer_count": 1,
+      "title": "User function for FastReports Pro VCL says &quot;Too Many Actual Parameters&quot; when using a C++ function",
+      "question_id": 76327894,
+      "tags": [
+        "delphi",
+        "c++builder",
+        "fastreport"
+      ],
+      "score": 2,
+      "is_answered": true,
+      "view_count": 46,
+      "last_edit_date": 1685043105
+    },
+    {
+      "owner": {
+        "profile_image": "https://lh3.googleusercontent.com/a/AATXAJzR_Oq70KV-9bv2Di4Xgp_rvaK3zrJQN7iKzGHh=k-s256",
+        "account_id": 24341695,
+        "user_type": "registered",
+        "user_id": 18278997,
+        "link": "https://stackoverflow.com/users/18278997/christian-brune",
+        "reputation": 47,
+        "display_name": "Christian Brune"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76309963/checking-a-column-in-a-pandas-df-does-not-contain-certain-text",
+      "last_activity_date": 1685043143,
+      "creation_date": 1684790108,
+      "answer_count": 2,
+      "title": "Checking a column in a Pandas df does not contain certain text",
+      "question_id": 76309963,
+      "tags": [
+        "python",
+        "pandas",
+        "dataframe"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76310051,
+      "is_answered": true,
+      "view_count": 42,
+      "last_edit_date": 1685043143
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/4080655d00227d955ceec8f4f59710d1?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 18944776,
+        "user_type": "registered",
+        "user_id": 14289540,
+        "link": "https://stackoverflow.com/users/14289540/talentless",
+        "reputation": 53,
+        "display_name": "talentless"
+      },
+      "closed_date": 1685057264,
+      "link": "https://stackoverflow.com/questions/76335182/using-function-pointers-with-empty-parameter-lists-in-c",
+      "last_activity_date": 1685043007,
+      "creation_date": 1685038564,
+      "answer_count": 1,
+      "title": "Using function pointers with empty parameter lists in C",
+      "question_id": 76335182,
+      "tags": [
+        "c",
+        "pointers",
+        "parameter-passing",
+        "function-pointers",
+        "function-prototypes"
+      ],
+      "score": 2,
+      "closed_reason": "Duplicate",
+      "is_answered": true,
+      "view_count": 65
+    },
+    {
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "user21934949"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76317175/how-to-create-a-barcode-from-a-dna-sequence-using-python-and-pil-library",
+      "last_activity_date": 1685041166,
+      "creation_date": 1684861742,
+      "answer_count": 1,
+      "title": "How to create a barcode from a DNA sequence using Python and PIL library?",
+      "question_id": 76317175,
+      "tags": [
+        "python",
+        "python-imaging-library",
+        "bioinformatics",
+        "dna-sequence"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76322398,
+      "is_answered": true,
+      "view_count": 95,
+      "last_edit_date": 1685041166
+    },
+    {
+      "owner": {
+        "profile_image": "https://lh3.googleusercontent.com/a/AGNmyxY0eRn-WIa1rbrtOkdUzVqE_kEii8r-8ISrsfm1=k-s256",
+        "account_id": 28466200,
+        "user_type": "registered",
+        "user_id": 21782229,
+        "link": "https://stackoverflow.com/users/21782229/federico-occhiochiuso",
+        "reputation": 51,
+        "display_name": "Federico Occhiochiuso"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76314375/bootloader-mixing-c-and-assembly",
+      "last_activity_date": 1685040140,
+      "creation_date": 1684842214,
+      "answer_count": 1,
+      "title": "Bootloader Mixing C and Assembly",
+      "question_id": 76314375,
+      "tags": [
+        "c",
+        "assembly",
+        "bootloader",
+        "protected-mode"
+      ],
+      "score": 2,
+      "is_answered": true,
+      "view_count": 87,
+      "last_edit_date": 1684844536
+    },
+    {
+      "owner": {
+        "profile_image": "https://graph.facebook.com/100002487317687/picture?type=large",
+        "account_id": 3802603,
+        "user_type": "registered",
+        "user_id": 3155807,
+        "link": "https://stackoverflow.com/users/3155807/cheetaiean",
+        "reputation": 841,
+        "display_name": "Cheetaiean",
+        "accept_rate": 88
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76335056/error-lvalue-required-as-left-operand-of-assignment-in-macro",
+      "last_activity_date": 1685039282,
+      "creation_date": 1685037384,
+      "answer_count": 1,
+      "title": "error: lvalue required as left operand of assignment in Macro",
+      "question_id": 76335056,
+      "tags": [
+        "c"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76335153,
+      "is_answered": true,
+      "view_count": 36,
+      "last_edit_date": 1685038059
+    },
+    {
+      "owner": {
+        "profile_image": "https://lh3.googleusercontent.com/a/AAcHTtdO72vYwkhyDF2i6g-_OggYvAhMumh_r90-N1aBMA=k-s256",
+        "account_id": 28680465,
+        "user_type": "registered",
+        "user_id": 21961748,
+        "link": "https://stackoverflow.com/users/21961748/iamme",
+        "reputation": 31,
+        "display_name": "iAmMe"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76334843/cs0019-cannot-multiply-vector2-and-double",
+      "last_activity_date": 1685037025,
+      "creation_date": 1685035273,
+      "answer_count": 1,
+      "title": "CS0019 Cannot multiply Vector2 and double",
+      "question_id": 76334843,
+      "tags": [
+        "c#",
+        "godot"
+      ],
+      "score": 2,
+      "is_answered": true,
+      "view_count": 35,
+      "last_edit_date": 1685036752
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/b8f340ddb9e638e1ae11171cce2d585d?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 1064075,
+        "user_type": "registered",
+        "user_id": 9638229,
+        "link": "https://stackoverflow.com/users/9638229/feplooptest",
+        "reputation": 21,
+        "display_name": "feplooptest"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 2,
+      "link": "https://stackoverflow.com/questions/76334336/how-to-convert-and-verify-ecdsa-binary-signature-using-openssl-library",
+      "last_activity_date": 1685036864,
+      "is_answered": false,
+      "creation_date": 1685031105,
+      "answer_count": 1,
+      "title": "How to convert and verify ECDSA binary signature using OpenSSL library?",
+      "question_id": 76334336,
+      "view_count": 31,
+      "tags": [
+        "c",
+        "openssl",
+        "ecdsa"
+      ]
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/f4f63b1cbaf53262345fadcc4eac11ee?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 145567,
+        "user_type": "registered",
+        "user_id": 355456,
+        "link": "https://stackoverflow.com/users/355456/hong",
+        "reputation": 17429,
+        "display_name": "Hong",
+        "accept_rate": 70
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76328337/what-causes-this-call-to-firebase-server",
+      "last_activity_date": 1685036817,
+      "creation_date": 1684978234,
+      "answer_count": 1,
+      "title": "What causes this call to Firebase server?",
+      "question_id": 76328337,
+      "tags": [
+        "android",
+        "firebase"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76334853,
+      "is_answered": true,
+      "view_count": 73,
+      "last_edit_date": 1685036817
+    },
+    {
+      "owner": {
+        "profile_image": "https://i.stack.imgur.com/hhErF.jpg?s=256&g=1",
+        "account_id": 25759706,
+        "user_type": "registered",
+        "user_id": 19510847,
+        "link": "https://stackoverflow.com/users/19510847/captainjasper",
+        "reputation": 35,
+        "display_name": "captainjasper"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76333512/joining-numpy-arrays-on-matching-index-values-in-a-specific-column",
+      "last_activity_date": 1685034945,
+      "creation_date": 1685025586,
+      "answer_count": 2,
+      "title": "Joining numpy arrays on matching index values in a specific column",
+      "question_id": 76333512,
+      "tags": [
+        "numpy",
+        "indexing",
+        "numpy-ndarray"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76333543,
+      "is_answered": true,
+      "view_count": 25
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/af27ad0f9741c72f9705fbed4912bb19?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 15446251,
+        "user_type": "registered",
+        "user_id": 11143113,
+        "link": "https://stackoverflow.com/users/11143113/ashar",
+        "reputation": 2850,
+        "display_name": "Ashar"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76317160/split-string-line-by-line-and-variablize-i-e-assign-it-to-github-output-workfl",
+      "last_activity_date": 1685034519,
+      "creation_date": 1684861554,
+      "answer_count": 1,
+      "title": "split string line by line and variablize i.e assign it to GITHUB_OUTPUT - workflow",
+      "question_id": 76317160,
+      "tags": [
+        "powershell",
+        "github",
+        "environment-variables",
+        "github-actions",
+        "strsplit"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76317691,
+      "is_answered": true,
+      "view_count": 82,
+      "last_edit_date": 1684871494
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/fe17eebabe21680e2f8f54fe269366a4?s=256&d=identicon&r=PG",
+        "account_id": 25126896,
+        "user_type": "registered",
+        "user_id": 18974588,
+        "link": "https://stackoverflow.com/users/18974588/pizzaislove",
+        "reputation": 47,
+        "display_name": "PizzaIsLove"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76333075/regex-to-detect-this-pattern-somethingsomething-something-something-something",
+      "last_activity_date": 1685033665,
+      "creation_date": 1685022868,
+      "answer_count": 1,
+      "title": "Regex to detect this pattern: something;something=something,something=something... for an unknown number of times",
+      "question_id": 76333075,
+      "tags": [
+        "php",
+        "regex"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76333446,
+      "is_answered": true,
+      "view_count": 60,
+      "last_edit_date": 1685033665
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/fddfc504f9652b7774bac269a0f542f5?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 7053909,
+        "user_type": "registered",
+        "user_id": 12133446,
+        "link": "https://stackoverflow.com/users/12133446/user276238",
+        "reputation": 97,
+        "display_name": "user276238"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76334116/how-can-i-one-hot-encode-multiple-columns-in-r-that-share-categories",
+      "last_activity_date": 1685032337,
+      "creation_date": 1685029493,
+      "answer_count": 1,
+      "title": "How can I one-hot-encode multiple columns in R that share categories?",
+      "question_id": 76334116,
+      "tags": [
+        "r",
+        "one-hot-encoding"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76334230,
+      "is_answered": true,
+      "view_count": 43,
+      "last_edit_date": 1685029552
+    },
+    {
+      "owner": {
+        "profile_image": "https://i.stack.imgur.com/gGORg.jpg?s=256&g=1",
+        "account_id": 1321484,
+        "user_type": "registered",
+        "user_id": 1267218,
+        "link": "https://stackoverflow.com/users/1267218/luke",
+        "reputation": 513,
+        "display_name": "Luke",
+        "accept_rate": 75
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 2,
+      "link": "https://stackoverflow.com/questions/76328026/alexa-skill-needs-more-than-8s-for-a-lambda-to-complete",
+      "last_activity_date": 1685031271,
+      "is_answered": false,
+      "creation_date": 1684971637,
+      "answer_count": 1,
+      "title": "Alexa Skill needs more than 8s for a Lambda to complete",
+      "question_id": 76328026,
+      "view_count": 19,
+      "tags": [
+        "python",
+        "alexa"
+      ]
+    },
+    {
+      "owner": {
+        "profile_image": "https://lh3.googleusercontent.com/a/AGNmyxZoIriFXXsVRoZZwCG2pxm8CdM08WTiyYPIOho7=k-s256",
+        "account_id": 28671335,
+        "user_type": "registered",
+        "user_id": 21954343,
+        "link": "https://stackoverflow.com/users/21954343/rei",
+        "reputation": 21,
+        "display_name": "Rei"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76333774/why-does-the-worst-case-cost-of-quick-sort-in-algorithms-4th-edition-not-match-m",
+      "last_activity_date": 1685029117,
+      "creation_date": 1685027030,
+      "answer_count": 1,
+      "title": "Why does the worst-case cost of Quick sort in Algorithms 4th edition not match my calculated cost?",
+      "question_id": 76333774,
+      "tags": [
+        "algorithm",
+        "sorting"
+      ],
+      "score": 2,
+      "is_answered": true,
+      "view_count": 39,
+      "last_edit_date": 1685028273
+    },
+    {
+      "owner": {
+        "profile_image": "https://i.stack.imgur.com/wY9gO.jpg?s=256&g=1",
+        "account_id": 28676069,
+        "user_type": "registered",
+        "user_id": 21958140,
+        "link": "https://stackoverflow.com/users/21958140/katrine-munkholm",
+        "reputation": 21,
+        "display_name": "Katrine Munkholm"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76330833/first-time-doing-netlogo-abm-encountering-with-procedures",
+      "last_activity_date": 1685028586,
+      "creation_date": 1685007261,
+      "answer_count": 1,
+      "title": "First time doing NetLogo ABM - encountering with procedures",
+      "question_id": 76330833,
+      "tags": [
+        "parallel-processing",
+        "simulation",
+        "netlogo",
+        "procedure",
+        "agent"
+      ],
+      "score": 2,
+      "is_answered": true,
+      "view_count": 22,
+      "last_edit_date": 1685028586
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/f0f542120e188d0e5981ab3ecde40a37?s=256&d=identicon&r=PG",
+        "account_id": 27701238,
+        "user_type": "registered",
+        "user_id": 21145776,
+        "link": "https://stackoverflow.com/users/21145776/robert-carmichael",
+        "reputation": 178,
+        "display_name": "Robert Carmichael"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76324722/import-npm-script-on-client-side-fails-no-matter-what-steps-are-taken",
+      "last_activity_date": 1685027996,
+      "creation_date": 1684939184,
+      "answer_count": 1,
+      "title": "Import NPM Script on Client Side Fails No Matter what steps are taken",
+      "question_id": 76324722,
+      "tags": [
+        "javascript",
+        "node.js"
+      ],
+      "score": 2,
+      "is_answered": false,
+      "view_count": 35,
+      "last_edit_date": 1684939988
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/992a2242e4aa091e5660139bcbef3f57?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 5072,
+        "user_type": "registered",
+        "user_id": 7965,
+        "link": "https://stackoverflow.com/users/7965/sirish",
+        "reputation": 9113,
+        "display_name": "Sirish",
+        "accept_rate": 90
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76331049/ruamel-yaml-anchors-with-roundtriploader-roundtripdumper",
+      "last_activity_date": 1685027952,
+      "creation_date": 1685008764,
+      "answer_count": 1,
+      "title": "ruamel.yaml anchors with Roundtriploader/Roundtripdumper",
+      "question_id": 76331049,
+      "tags": [
+        "python",
+        "ruamel.yaml"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76332937,
+      "is_answered": true,
+      "view_count": 19,
+      "last_edit_date": 1685009131
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/2e3dee5cd43519a1e23940a10238a2fa?s=256&d=identicon&r=PG",
+        "account_id": 26217467,
+        "user_type": "registered",
+        "user_id": 19895423,
+        "link": "https://stackoverflow.com/users/19895423/tudor-cheregi",
+        "reputation": 45,
+        "display_name": "Tudor Cheregi"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76322628/integration-tests-with-kafka-and-testcontainers",
+      "last_activity_date": 1685027054,
+      "creation_date": 1684924832,
+      "answer_count": 1,
+      "title": "Integration tests with Kafka and Testcontainers",
+      "question_id": 76322628,
+      "tags": [
+        "java",
+        "spring-boot",
+        "integration-testing",
+        "spring-kafka",
+        "testcontainers"
+      ],
+      "score": 2,
+      "is_answered": false,
+      "view_count": 45,
+      "last_edit_date": 1685027054
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/c714a0dfb8ce5700c73d3c9b598a3ba5?s=256&d=identicon&r=PG",
+        "account_id": 2233263,
+        "user_type": "registered",
+        "user_id": 1970354,
+        "link": "https://stackoverflow.com/users/1970354/irv",
+        "reputation": 520,
+        "display_name": "Irv"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 2,
+      "link": "https://stackoverflow.com/questions/76327212/using-a-dynamic-read-query-in-configure-sql-data-node-in-taipy",
+      "last_activity_date": 1685026928,
+      "is_answered": true,
+      "creation_date": 1684960294,
+      "answer_count": 1,
+      "title": "Using a dynamic `read_query` in `configure_sql_data_node()` in taipy",
+      "question_id": 76327212,
+      "view_count": 16,
+      "tags": [
+        "sql",
+        "taipy"
+      ]
+    },
+    {
+      "owner": {
+        "profile_image": "https://i.stack.imgur.com/xcia3.jpg?s=256&g=1",
+        "account_id": 2642614,
+        "user_type": "registered",
+        "user_id": 2285969,
+        "link": "https://stackoverflow.com/users/2285969/dvoutt",
+        "reputation": 920,
+        "display_name": "dvoutt",
+        "accept_rate": 77
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 2,
+      "link": "https://stackoverflow.com/questions/76324021/how-to-package-npm-module-with-audioworklet",
+      "last_activity_date": 1685026896,
+      "is_answered": false,
+      "creation_date": 1684934508,
+      "answer_count": 1,
+      "title": "How to package npm module with AudioWorklet?",
+      "question_id": 76324021,
+      "view_count": 22,
+      "tags": [
+        "npm",
+        "vite",
+        "audio-worklet",
+        "audioworkletprocessor"
+      ]
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/24b725192bf518939241de088f0d24bb?s=256&d=identicon&r=PG",
+        "account_id": 27562039,
+        "user_type": "registered",
+        "user_id": 21034926,
+        "link": "https://stackoverflow.com/users/21034926/ictdev",
+        "reputation": 386,
+        "display_name": "ICTDEV"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76324025/electron-how-to-fetch-a-file-from-a-local-path-and-create-a-blob-file",
+      "last_activity_date": 1685026595,
+      "creation_date": 1684934529,
+      "answer_count": 1,
+      "title": "Electron - how to fetch a file from a local path and create a blob file",
+      "question_id": 76324025,
+      "tags": [
+        "javascript",
+        "node.js",
+        "vue.js",
+        "electron"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76326384,
+      "is_answered": true,
+      "view_count": 41
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/de0267dc6b96a4b9b784af4cd85e5b72?s=256&d=identicon&r=PG",
+        "account_id": 78078,
+        "user_type": "registered",
+        "user_id": 222451,
+        "link": "https://stackoverflow.com/users/222451/chris-foot",
+        "reputation": 343,
+        "display_name": "Chris Foot",
+        "accept_rate": 64
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76333259/in-blazor-using-inputnumber-the-change-eventargs-value-is-an-empty-string-when",
+      "last_activity_date": 1685025656,
+      "creation_date": 1685023953,
+      "answer_count": 1,
+      "title": "In Blazor, using inputnumber the change eventargs value is an empty string when the user types a decimal point",
+      "question_id": 76333259,
+      "tags": [
+        "blazor"
+      ],
+      "score": 2,
+      "is_answered": true,
+      "view_count": 17,
+      "last_edit_date": 1685025195
+    },
+    {
+      "owner": {
+        "profile_image": "https://lh3.googleusercontent.com/a/AEdFTp7FvzmS3DkP-PUMYQUjOMev9kYdIdI1Ma3IbvYZ=k-s256",
+        "account_id": 27201203,
+        "user_type": "registered",
+        "user_id": 20733431,
+        "link": "https://stackoverflow.com/users/20733431/amirmohammad-firouzfar",
+        "reputation": 45,
+        "display_name": "amirmohammad firouzfar"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76331184/trying-to-change-the-focus-change-button-from-tab-to-enter-in-c-windows-forms",
+      "last_activity_date": 1685024816,
+      "creation_date": 1685009708,
+      "answer_count": 1,
+      "title": "trying to change the focus change button from tab to enter in c# windows forms",
+      "question_id": 76331184,
+      "tags": [
+        "c#",
+        "winforms"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76333264,
+      "is_answered": true,
+      "view_count": 30,
+      "last_edit_date": 1685024816
+    },
+    {
+      "owner": {
+        "profile_image": "https://i.stack.imgur.com/zaG25.jpg?s=256&g=1",
+        "account_id": 8906759,
+        "user_type": "registered",
+        "user_id": 6648326,
+        "link": "https://stackoverflow.com/users/6648326/masterjoe",
+        "reputation": 2001,
+        "display_name": "MasterJoe",
+        "accept_rate": 71
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76318720/how-to-match-multiple-paths-in-cypress-intercept",
+      "last_activity_date": 1685021301,
+      "creation_date": 1684876839,
+      "answer_count": 2,
+      "title": "How to match multiple paths in cypress intercept?",
+      "question_id": 76318720,
+      "tags": [
+        "regex",
+        "typescript",
+        "cypress",
+        "cypress-intercept"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76318864,
+      "is_answered": true,
+      "view_count": 42,
+      "last_edit_date": 1685021301
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/9210f2daac57fca2e5931c3d3bcd5bcb?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 16894249,
+        "user_type": "registered",
+        "user_id": 12217182,
+        "link": "https://stackoverflow.com/users/12217182/thelaughingman",
+        "reputation": 35,
+        "display_name": "TheLaughingMan"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 2,
+      "link": "https://stackoverflow.com/questions/76332755/how-to-get-hostname-in-subject-of-grafanas-9-0-alert-mail",
+      "last_activity_date": 1685020734,
+      "is_answered": false,
+      "creation_date": 1685020734,
+      "answer_count": 0,
+      "title": "how to get hostname in subject of Grafana&#39;s 9.0 alert mail?",
+      "question_id": 76332755,
+      "view_count": 18,
+      "tags": [
+        "go",
+        "grafana"
+      ]
+    },
+    {
+      "owner": {
+        "profile_image": "https://lh3.googleusercontent.com/-GMq_vWF-zME/AAAAAAAAAAI/AAAAAAAADzE/sDeEa5MQr0M/photo.jpg?sz=256",
+        "account_id": 13359510,
+        "user_type": "registered",
+        "user_id": 9642042,
+        "link": "https://stackoverflow.com/users/9642042/eyal-marom",
+        "reputation": 281,
+        "display_name": "Eyal Marom"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76324030/sas-proc-pdf-doesnt-export-the-files",
+      "last_activity_date": 1685020593,
+      "creation_date": 1684934553,
+      "answer_count": 2,
+      "title": "sas proc pdf doesn&#39;t export the files",
+      "question_id": 76324030,
+      "tags": [
+        "sas",
+        "ods"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76324601,
+      "is_answered": true,
+      "view_count": 21
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/047f2fa1d435f74aa0014819eb41beb1?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 19207952,
+        "user_type": "registered",
+        "user_id": 14068048,
+        "link": "https://stackoverflow.com/users/14068048/kataran",
+        "reputation": 165,
+        "display_name": "Kataran"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76322627/pcl-own-point-type-cant-use-pcl-functions-and-operators",
+      "last_activity_date": 1685019719,
+      "creation_date": 1684924826,
+      "answer_count": 2,
+      "title": "PCL Own Point Type can&#39;t use pcl functions and operators",
+      "question_id": 76322627,
+      "tags": [
+        "c++",
+        "boost",
+        "point-cloud-library",
+        "point-clouds",
+        "pcl"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76332571,
+      "is_answered": true,
+      "view_count": 30,
+      "last_edit_date": 1685005185
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/207298dee8aae89ffee617a7c45e6803?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 28670676,
+        "user_type": "registered",
+        "user_id": 21953791,
+        "link": "https://stackoverflow.com/users/21953791/krunal",
+        "reputation": 21,
+        "display_name": "krunal"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 2,
+      "link": "https://stackoverflow.com/questions/76323901/communicate-between-localhosts-using-signalr",
+      "last_activity_date": 1685019239,
+      "is_answered": false,
+      "creation_date": 1684933693,
+      "answer_count": 1,
+      "title": "communicate between localhosts using signalR",
+      "question_id": 76323901,
+      "view_count": 38,
+      "tags": [
+        "signalr",
+        "signalr-hub",
+        "signalr.client",
+        "asp.net-core-signalr"
+      ]
+    },
+    {
+      "owner": {
+        "profile_image": "https://lh3.googleusercontent.com/a/AGNmyxbuisdnUUTDuMUEQewumL4p4Lm3TMQ1P9CTltDtoi0=k-s256",
+        "account_id": 28587772,
+        "user_type": "registered",
+        "user_id": 21887676,
+        "link": "https://stackoverflow.com/users/21887676/gordon-penman",
+        "reputation": 23,
+        "display_name": "Gordon Penman"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76331875/creating-a-dax-measure-for-previous-month-charges-in-power-query-pivot-table",
+      "last_activity_date": 1685018579,
+      "creation_date": 1685014838,
+      "answer_count": 1,
+      "title": "Creating a DAX measure for previous month charges in Power Query Pivot Table",
+      "question_id": 76331875,
+      "tags": [
+        "excel",
+        "powerbi",
+        "dax",
+        "powerquery",
+        "measure"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76332400,
+      "is_answered": true,
+      "view_count": 36,
+      "last_edit_date": 1685017451
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/4ba3e8fa30f83ee5dd07c6b9b0646f4b?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 20982917,
+        "user_type": "registered",
+        "user_id": 15417368,
+        "link": "https://stackoverflow.com/users/15417368/marty-c137",
+        "reputation": 310,
+        "display_name": "Marty_C137"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76323721/losing-permissions-to-table-on-snowflake-reader-account-everytime-dbt-job-runs",
+      "last_activity_date": 1685017643,
+      "creation_date": 1684932538,
+      "answer_count": 2,
+      "title": "Losing permissions to table on Snowflake reader account everytime dbt job runs",
+      "question_id": 76323721,
+      "tags": [
+        "snowflake-cloud-data-platform",
+        "dbt"
+      ],
+      "score": 2,
+      "is_answered": true,
+      "view_count": 49,
+      "last_edit_date": 1685017643
+    },
+    {
+      "owner": {
+        "profile_image": "https://i.stack.imgur.com/pfoVn.jpg?s=256&g=1",
+        "account_id": 6775948,
+        "user_type": "registered",
+        "user_id": 5217693,
+        "link": "https://stackoverflow.com/users/5217693/ram-s",
+        "reputation": 25,
+        "display_name": "Ram S"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76331333/what-is-causing-the-invalid-datatype-error-when-using-merge-statement-with-ora",
+      "last_activity_date": 1685015989,
+      "creation_date": 1685010854,
+      "answer_count": 3,
+      "title": "What is causing the &#39;invalid datatype&#39; error when using MERGE statement with Oracle PL/SQL table types?",
+      "question_id": 76331333,
+      "tags": [
+        "sql",
+        "oracle",
+        "plsql",
+        "merge"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76331760,
+      "is_answered": true,
+      "view_count": 43
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/ea7c20ac19234169f2a8531d161848a5?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 3801000,
+        "user_type": "registered",
+        "user_id": 3154666,
+        "link": "https://stackoverflow.com/users/3154666/introspective",
+        "reputation": 344,
+        "display_name": "Introspective",
+        "accept_rate": 75
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76330907/is-it-possible-to-deploy-an-existing-container-via-eks-using-aws-console-only",
+      "last_activity_date": 1685015347,
+      "creation_date": 1685007717,
+      "answer_count": 1,
+      "title": "Is it possible to deploy an existing container via EKS using AWS Console only?",
+      "question_id": 76330907,
+      "tags": [
+        "amazon-web-services",
+        "kubectl",
+        "amazon-eks"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76331750,
+      "is_answered": true,
+      "view_count": 42
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/93d2ad63834439b00de8e15cb93cc97b?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 9315362,
+        "user_type": "registered",
+        "user_id": 6915871,
+        "link": "https://stackoverflow.com/users/6915871/artzok",
+        "reputation": 129,
+        "display_name": "artzok"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76323931/lifetimes-in-rust-mut-data-borrowed",
+      "last_activity_date": 1685015280,
+      "creation_date": 1684933956,
+      "answer_count": 1,
+      "title": "Lifetimes in Rust: mut data borrowed",
+      "question_id": 76323931,
+      "tags": [
+        "rust",
+        "lifetime"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76324784,
+      "is_answered": true,
+      "view_count": 61,
+      "last_edit_date": 1684935610
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/cecf1f755bffd02a4f7dcb07e971df3c?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 28676875,
+        "user_type": "registered",
+        "user_id": 21958811,
+        "link": "https://stackoverflow.com/users/21958811/harryp2023",
+        "reputation": 83,
+        "display_name": "HarryP2023"
+      },
+      "closed_date": 1685027841,
+      "link": "https://stackoverflow.com/questions/76330744/can-i-constrain-a-c-function-to-accept-an-arbitrarily-nested-vector-of-a-speci",
+      "last_activity_date": 1685014797,
+      "creation_date": 1685006737,
+      "answer_count": 2,
+      "title": "Can I constrain a C++ function to accept an arbitrarily nested vector of a specific type?",
+      "question_id": 76330744,
+      "tags": [
+        "c++",
+        "c++20",
+        "stdvector",
+        "c++-concepts"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76331823,
+      "closed_reason": "Duplicate",
+      "is_answered": true,
+      "view_count": 67,
+      "last_edit_date": 1685006884
+    },
+    {
+      "owner": {
+        "profile_image": "https://i.stack.imgur.com/YmbJH.png?s=256&g=1",
+        "account_id": 1234629,
+        "user_type": "registered",
+        "user_id": 1198482,
+        "link": "https://stackoverflow.com/users/1198482/baba",
+        "reputation": 854,
+        "display_name": "Baba",
+        "accept_rate": 85
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76319698/integer-argument-with-a-leading-zero-is-parsed-as-octal-by-flag-intvar-or-flag-i",
+      "last_activity_date": 1685013473,
+      "creation_date": 1684894605,
+      "answer_count": 1,
+      "title": "Integer argument with a leading zero is parsed as octal by flag.IntVar or flag.Int",
+      "question_id": 76319698,
+      "tags": [
+        "go"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76319731,
+      "is_answered": true,
+      "view_count": 68,
+      "last_edit_date": 1685013473
+    },
+    {
+      "owner": {
+        "profile_image": "https://lh6.googleusercontent.com/-RfHoc_7RJMU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reA2ufVUDrx-akE6yYgOuOvWN7wfQ/mo/photo.jpg?sz=256",
+        "account_id": 15726874,
+        "user_type": "registered",
+        "user_id": 11348258,
+        "link": "https://stackoverflow.com/users/11348258/%d0%94%d0%bc%d0%b8%d1%82%d1%80%d0%b8%d0%b9-%d0%a1%d0%be%d0%bb%d0%be%d0%b2%d1%8c%d0%b5%d0%b2",
+        "reputation": 21,
+        "display_name": "Дмитрий Соловьев"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 2,
+      "link": "https://stackoverflow.com/questions/76331684/why-blazor-css-isolation-not-work-from-ui-in-another-class-library",
+      "last_activity_date": 1685013362,
+      "is_answered": false,
+      "creation_date": 1685013362,
+      "answer_count": 0,
+      "title": "Why Blazor css isolation not work from UI in another class library?",
+      "question_id": 76331684,
+      "view_count": 17,
+      "tags": [
+        "blazor",
+        "asp.net-core-css-isolation"
+      ]
+    },
+    {
+      "owner": {
+        "profile_image": "https://i.stack.imgur.com/gncvC.jpg?s=256&g=1",
+        "account_id": 95627,
+        "user_type": "registered",
+        "user_id": 260313,
+        "link": "https://stackoverflow.com/users/260313/rturrado",
+        "reputation": 7639,
+        "display_name": "rturrado",
+        "accept_rate": 90
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 2,
+      "link": "https://stackoverflow.com/questions/76331604/avoiding-warning-c4005-int8-min-macro-redefinition-when-using-flex-bison-i",
+      "last_activity_date": 1685012782,
+      "is_answered": false,
+      "creation_date": 1685012782,
+      "answer_count": 0,
+      "title": "Avoiding &quot;warning C4005: &#39;INT8_MIN&#39;: macro redefinition&quot; when using flex/bison in a C++ project",
+      "question_id": 76331604,
+      "view_count": 46,
+      "tags": [
+        "c++",
+        "c",
+        "bison",
+        "flex-lexer"
+      ]
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/30f34ab66e34e198898b09c91017cb60?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 2105895,
+        "user_type": "registered",
+        "user_id": 1872234,
+        "link": "https://stackoverflow.com/users/1872234/wajahat",
+        "reputation": 1581,
+        "display_name": "Wajahat",
+        "accept_rate": 78
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76328903/resample-dataframe-to-add-missing-dates",
+      "last_activity_date": 1685011935,
+      "creation_date": 1684988268,
+      "answer_count": 2,
+      "title": "Resample dataframe to add missing dates",
+      "question_id": 76328903,
+      "tags": [
+        "python",
+        "pandas",
+        "dataframe"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76328941,
+      "is_answered": true,
+      "view_count": 34,
+      "last_edit_date": 1684996025
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/4c90f4c0f8948ebab7ca065037974616?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 28635933,
+        "user_type": "registered",
+        "user_id": 21926098,
+        "link": "https://stackoverflow.com/users/21926098/salvadora",
+        "reputation": 51,
+        "display_name": "Salvadora"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 2,
+      "link": "https://stackoverflow.com/questions/76331468/how-to-create-a-download-file-for-a-virtual-downloadable-product-by-clicking-the",
+      "last_activity_date": 1685011743,
+      "is_answered": false,
+      "creation_date": 1685011743,
+      "answer_count": 0,
+      "title": "How to create a download file for a virtual downloadable product by clicking the download button of the purchased product?",
+      "question_id": 76331468,
+      "view_count": 61,
+      "tags": [
+        "php",
+        "wordpress",
+        "woocommerce",
+        "easy-digital-downloads"
+      ]
+    },
+    {
+      "owner": {
+        "profile_image": "https://lh3.googleusercontent.com/-MfKZkWyKJi0/AAAAAAAAAAI/AAAAAAAAAB4/-YBr-vXfP6Q/photo.jpg?sz=256",
+        "account_id": 7699404,
+        "user_type": "registered",
+        "user_id": 5832570,
+        "link": "https://stackoverflow.com/users/5832570/deepak-kothari",
+        "reputation": 37,
+        "display_name": "DEEPAK KOTHARI"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 2,
+      "link": "https://stackoverflow.com/questions/76330485/round-a-number-by-specific-decimal-value-in-excel",
+      "last_activity_date": 1685011159,
+      "is_answered": true,
+      "creation_date": 1685004913,
+      "answer_count": 3,
+      "title": "Round a number by specific decimal value in excel",
+      "question_id": 76330485,
+      "view_count": 45,
+      "tags": [
+        "excel",
+        "excel-formula",
+        "powerbi",
+        "rounding"
+      ]
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/5241fcd770510ef13615911beb741f24?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 13174967,
+        "user_type": "registered",
+        "user_id": 9516159,
+        "link": "https://stackoverflow.com/users/9516159/francesco",
+        "reputation": 103,
+        "display_name": "Francesco"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 2,
+      "link": "https://stackoverflow.com/questions/76330944/how-can-i-detect-a-deadlock-in-my-program-itself-during-execution",
+      "last_activity_date": 1685007983,
+      "is_answered": false,
+      "creation_date": 1685007983,
+      "answer_count": 0,
+      "title": "How can i detect a deadlock in my program itself during execution?",
+      "question_id": 76330944,
+      "view_count": 44,
+      "tags": [
+        "c"
+      ]
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/75e88258aacdfff78727ebbee0476646?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 15197947,
+        "user_type": "registered",
+        "user_id": 10966758,
+        "link": "https://stackoverflow.com/users/10966758/v-moe",
+        "reputation": 1073,
+        "display_name": "v-moe"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 2,
+      "link": "https://stackoverflow.com/questions/76330941/check-that-a-text-is-completely-visible-in-cypress",
+      "last_activity_date": 1685007935,
+      "is_answered": false,
+      "creation_date": 1685007935,
+      "answer_count": 0,
+      "title": "Check that a text is completely visible in Cypress",
+      "question_id": 76330941,
+      "view_count": 20,
+      "tags": [
+        "javascript",
+        "testing",
+        "cypress"
+      ]
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/11e54f8f45e85307580962a83d4e730c?s=256&d=identicon&r=PG",
+        "account_id": 26738674,
+        "user_type": "registered",
+        "user_id": 20339814,
+        "link": "https://stackoverflow.com/users/20339814/lurri",
+        "reputation": 43,
+        "display_name": "Lurri"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76329368/filter-duplicate-rows-in-powerbi-table-based-on-language",
+      "last_activity_date": 1685007484,
+      "creation_date": 1684994958,
+      "answer_count": 1,
+      "title": "Filter duplicate rows in powerbi table based on language",
+      "question_id": 76329368,
+      "tags": [
+        "powerbi",
+        "duplicates",
+        "filtering"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76329818,
+      "is_answered": true,
+      "view_count": 27
+    },
+    {
+      "owner": {
+        "profile_image": "https://lh4.googleusercontent.com/-1EE6S-dIzCs/AAAAAAAAAAI/AAAAAAAAACo/VEaV4FjFjtI/photo.jpg?sz=256",
+        "account_id": 12023734,
+        "user_type": "registered",
+        "user_id": 11665178,
+        "link": "https://stackoverflow.com/users/11665178/tom3652",
+        "reputation": 2468,
+        "display_name": "Tom3652"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76330448/query-documents-and-result-should-contain-unique-fields-value-mongodb",
+      "last_activity_date": 1685007109,
+      "creation_date": 1685004585,
+      "answer_count": 0,
+      "title": "Query documents and result should contain unique fields value MongoDB",
+      "question_id": 76330448,
+      "tags": [
+        "mongodb",
+        "pymongo"
+      ],
+      "score": 2,
+      "is_answered": false,
+      "view_count": 43,
+      "last_edit_date": 1685007109
+    },
+    {
+      "owner": {
+        "profile_image": "https://graph.facebook.com/1611065175674187/picture?type=large",
+        "account_id": 13097137,
+        "user_type": "registered",
+        "user_id": 9463084,
+        "link": "https://stackoverflow.com/users/9463084/uchenna-ajah",
+        "reputation": 310,
+        "display_name": "Uchenna Ajah"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76330469/preserve-ampersand-sign-in-url-from-htaccess",
+      "last_activity_date": 1685005395,
+      "creation_date": 1685004763,
+      "answer_count": 1,
+      "title": "Preserve ampersand sign in URL from .htaccess",
+      "question_id": 76330469,
+      "tags": [
+        "php",
+        "apache",
+        ".htaccess",
+        "server",
+        "get"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76330555,
+      "is_answered": true,
+      "view_count": 16
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/3b23611792a6cbb7f86d81155aa6e8f5?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 28395993,
+        "user_type": "registered",
+        "user_id": 21721060,
+        "link": "https://stackoverflow.com/users/21721060/satyam",
+        "reputation": 43,
+        "display_name": "Satyam"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76329613/how-to-add-linear-gradient-to-the-slider",
+      "last_activity_date": 1685003004,
+      "creation_date": 1684997770,
+      "answer_count": 0,
+      "title": "How to add Linear Gradient to the Slider",
+      "question_id": 76329613,
+      "tags": [
+        "css",
+        "reactjs",
+        "react-native",
+        "slider",
+        "linear-gradients"
+      ],
+      "score": 2,
+      "is_answered": false,
+      "view_count": 34,
+      "last_edit_date": 1685003004
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/ce47b85741e06a51059b083a8aec1a1b?s=256&d=identicon&r=PG",
+        "account_id": 27731316,
+        "user_type": "registered",
+        "user_id": 21169744,
+        "link": "https://stackoverflow.com/users/21169744/php",
+        "reputation": 135,
+        "display_name": "php"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76329863/add-and-remove-classes-for-multiple-elements-jquery-javascript",
+      "last_activity_date": 1685002392,
+      "creation_date": 1684999906,
+      "answer_count": 1,
+      "title": "Add and remove classes for multiple elements (JQuery &amp; JavaScript)",
+      "question_id": 76329863,
+      "tags": [
+        "javascript",
+        "jquery"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76330192,
+      "is_answered": true,
+      "view_count": 48,
+      "last_edit_date": 1685000755
+    },
+    {
+      "owner": {
+        "profile_image": "https://lh6.googleusercontent.com/-cXF_DsN9hyQ/AAAAAAAAAAI/AAAAAAAAAq4/E1ep2FuBJIg/photo.jpg?sz=256",
+        "account_id": 15400112,
+        "user_type": "registered",
+        "user_id": 11109929,
+        "link": "https://stackoverflow.com/users/11109929/abhilash-dasari",
+        "reputation": 53,
+        "display_name": "abhilash dasari"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76329154/how-to-group-and-combine-data",
+      "last_activity_date": 1685001663,
+      "creation_date": 1684992196,
+      "answer_count": 1,
+      "title": "How to group and combine data",
+      "question_id": 76329154,
+      "tags": [
+        "r",
+        "dataframe",
+        "dplyr"
+      ],
+      "score": 2,
+      "accepted_answer_id": 76329246,
+      "is_answered": true,
+      "view_count": 47,
+      "last_edit_date": 1685001663
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/96853d87f39fe55db00bfcb130160563?s=256&d=identicon&r=PG",
+        "account_id": 2597708,
+        "user_type": "registered",
+        "user_id": 2250991,
+        "link": "https://stackoverflow.com/users/2250991/user2250991",
+        "reputation": 33,
+        "display_name": "user2250991"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76329803/named-pipe-monitor",
+      "last_activity_date": 1685000847,
+      "creation_date": 1684999499,
+      "answer_count": 0,
+      "title": "Named pipe monitor",
+      "question_id": 76329803,
+      "tags": [
+        "c#",
+        "named-pipes"
+      ],
+      "score": 2,
+      "is_answered": false,
+      "view_count": 29,
+      "last_edit_date": 1685000847
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/bb3db5c71e41b9ada933f9329b06ebcc?s=256&d=identicon&r=PG",
+        "account_id": 1925303,
+        "user_type": "registered",
+        "user_id": 1735914,
+        "link": "https://stackoverflow.com/users/1735914/robert-richardson",
+        "reputation": 2047,
+        "display_name": "ROBERT RICHARDSON",
+        "accept_rate": 44
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76327139/function-to-wrap-setting-the-font-weight-on-an-mfc-dialog-control",
+      "last_activity_date": 1685000303,
+      "creation_date": 1684959543,
+      "answer_count": 1,
+      "title": "Function to wrap setting the font weight on an MFC dialog control",
+      "question_id": 76327139,
+      "tags": [
+        "visual-c++",
+        "mfc"
+      ],
+      "score": 2,
+      "is_answered": true,
+      "view_count": 56,
+      "last_edit_date": 1685000237
+    },
+    {
+      "owner": {
+        "profile_image": "https://i.stack.imgur.com/Dfv9g.jpg?s=256&g=1",
+        "account_id": 28675164,
+        "user_type": "registered",
+        "user_id": 21957401,
+        "link": "https://stackoverflow.com/users/21957401/bui-tien-hung",
+        "reputation": 21,
+        "display_name": "Bui Tien Hung"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76328805/how-to-find-x-values-from-y-value-using-python",
+      "last_activity_date": 1684999154,
+      "creation_date": 1684986617,
+      "answer_count": 2,
+      "title": "How to find x values from y value using Python",
+      "question_id": 76328805,
+      "tags": [
+        "python",
+        "matplotlib"
+      ],
+      "score": 2,
+      "is_answered": true,
+      "view_count": 52,
+      "last_edit_date": 1684999154
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/c25b2c2aa6b54d514f50dbc5b928fcaf?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 28380051,
+        "user_type": "registered",
+        "user_id": 21707471,
+        "link": "https://stackoverflow.com/users/21707471/kim",
+        "reputation": 21,
+        "display_name": "Kim"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/76326396/whats-the-most-efficient-algorithm-for-partitioning-a-binary-tree-into-k-subtre",
+      "last_activity_date": 1684998651,
+      "creation_date": 1684952290,
+      "answer_count": 1,
+      "title": "What&#39;s the most efficient algorithm for partitioning a binary tree into K subtrees with minimal maximum height?",
+      "question_id": 76326396,
+      "tags": [
+        "algorithm",
+        "binary-tree",
+        "dynamic-programming"
+      ],
+      "score": 2,
+      "is_answered": false,
+      "view_count": 59,
+      "last_edit_date": 1684953038
+    },
+    {
+      "owner": {
+        "profile_image": "https://graph.facebook.com/813680848685648/picture?type=large",
+        "account_id": 6115486,
+        "user_type": "registered",
+        "user_id": 4770659,
+        "link": "https://stackoverflow.com/users/4770659/max-gierlachowski",
+        "reputation": 436,
+        "display_name": "Max Gierlachowski",
+        "accept_rate": 62
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 2,
+      "link": "https://stackoverflow.com/questions/76329632/expected-kmm-xcframwork-size-with-ktor",
+      "last_activity_date": 1684997990,
+      "is_answered": false,
+      "creation_date": 1684997990,
+      "answer_count": 0,
+      "title": "Expected KMM XCFramwork size (with Ktor)",
+      "question_id": 76329632,
+      "view_count": 27,
+      "tags": [
+        "ios",
+        "kotlin",
+        "kotlin-multiplatform",
+        "ktor"
+      ]
+    },
+    {
+      "owner": {
+        "profile_image": "https://www.gravatar.com/avatar/a54668ae82995dc1c9e57e157bacc1bd?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "account_id": 12412825,
+        "user_type": "registered",
+        "user_id": 9044051,
+        "link": "https://stackoverflow.com/users/9044051/subject-q",
+        "reputation": 91,
+        "display_name": "subject-q"
+      },
+      "content_license": "CC BY-SA 4.0",
+      "score": 2,
+      "link": "https://stackoverflow.com/questions/76329484/google-sheets-api-returning-the-old-values-instead-of-latest",
+      "last_activity_date": 1684996348,
+      "is_answered": false,
+      "creation_date": 1684996348,
+      "answer_count": 0,
+      "title": "Google Sheets API returning the old values instead of latest",
+      "question_id": 76329484,
+      "view_count": 34,
+      "tags": [
+        "c#",
+        "google-sheets",
+        "google-sheets-api"
+      ]
+    }
+  ]
+}
