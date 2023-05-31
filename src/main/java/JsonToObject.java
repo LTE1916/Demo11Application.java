@@ -3,6 +3,7 @@ import java.io.File;
 import java.io.IOException;
 
 public class JsonToObject {
+
   public static void main(String[] args) {
     ObjectMapper mapper = new ObjectMapper();
     File file = new File("hot1.json");

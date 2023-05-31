@@ -2,6 +2,7 @@ import java.util.Date;
 import java.util.List;
 
 public class StackOverflowResponse {
+
   private List<Item> items;
   private boolean has_more;
   private int quota_max;
@@ -40,6 +41,7 @@ public class StackOverflowResponse {
   }
 
   public static class Item {
+
     private List<String> tags;
     private Owner owner;
     private boolean is_answered;
@@ -235,6 +237,7 @@ public class StackOverflowResponse {
     }
 
     public static class Owner {
+
       private int reputation;
       private int user_id;
       private int account_id;
@@ -243,7 +246,6 @@ public class StackOverflowResponse {
       private String profile_image;
       private String display_name;
       private String link;
-
 
 
       public int getAccept_rate() {

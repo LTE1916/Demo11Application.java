@@ -26,19 +26,20 @@ public class QuestionEntity implements Serializable{
   private Integer ownerUserId;
   private String ownerLink;
   private Integer ownerReputation;
-private  String ownerDisplayName;
-private String  contentLicense;
-private String  link;
-private Long lastActivityDate;
-private Long  creationDate;
-private Integer answerCount;
-private Integer score;
-private Integer acceptedAnswerId;
-private Boolean  isAnswered ;
-private Integer  viewCount;
-private Long  lastEditDate ;
-private Boolean  hasMore;
-private Integer  quotaMax;
-private Integer  quotaRemaining ;
-private Long  protectedDate ;//because of format problem,use Long to store timestamp
+  private  String ownerDisplayName;
+  private String  contentLicense;
+  private String  link;
+  private Long lastActivityDate;
+  private Long  creationDate;
+  private Integer answerCount;
+  private Integer score;
+  private Integer acceptedAnswerId;
+  private Boolean  isAnswered ;
+  private Integer  viewCount;
+  private Long  lastEditDate ;
+  private Boolean  hasMore;
+  private Integer  quotaMax;
+  private Integer  quotaRemaining ;
+  private Long  protectedDate ;
+  //because of format problem,use Long to store timestamp
 }

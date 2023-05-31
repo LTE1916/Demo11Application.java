@@ -15,7 +15,9 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
+import org.apache.ibatis.jdbc.SQL;
 
 public class JsonToMysql {
 
@@ -26,7 +28,8 @@ public class JsonToMysql {
 //    for (int i = 1; i <= 5; i++) {
 //      voteToMysql(i);
 //    }
-    findMostTags();
+  //  findMostTags();
+    findMostUsers();
   }
 
   public static void toMysql(int n) {
@@ -234,6 +237,7 @@ public class JsonToMysql {
    }
   }
 
+
   public static void findMostTags() throws SQLException {
     String url = "jdbc:mysql://localhost:3306/stackoverflow";
     String user = "root";
@@ -302,4 +306,49 @@ public class JsonToMysql {
     }
 
       }
+
+  static class User{
+
+    int id;
+    int answerCnt;
+    public User(int id){
+      this.id = id;
+    }
+  }
+
+  public static void findMostUsers()throws SQLException{
+    String url = "jdbc:mysql://localhost:3306/stackoverflow";
+    String user = "root";
+    String password = "463329sz";
+    Connection connection = DriverManager.getConnection(url, user, password);
+    Statement statement = connection.createStatement();
+    String sql = "select owner_id from answers";
+    ResultSet resultSet =statement.executeQuery(sql);
+    ArrayList<User> users = new ArrayList<>();
+    users.add(new User(0));
+    while (resultSet.next()){
+      int id = resultSet.getInt(1);
+      boolean found = false;
+      for (int i = 0; i < users.size(); i++) {
+        if(users.get(i).id == id){
+         found = true;
+          users.get(i).answerCnt++;
+        }
+      }
+      if(!found){
+        User tmp = new User(id);
+        tmp.answerCnt = 1;
+        users.add(tmp);
+
+      }
+    }
+    users.sort(new Comparator<User>() {
+      @Override
+      public int compare(User o1, User o2) {
+        return o2.answerCnt-o1.answerCnt;
+      }
+    });
+    System.out.println();
+
+  }
 }
